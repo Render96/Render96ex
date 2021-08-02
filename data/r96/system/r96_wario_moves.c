@@ -95,6 +95,27 @@ s32 act_wario_pile_driver(struct MarioState *m) {
     return FALSE;
 }
 
+/*Coin Magnet thanks 4y*/
+void coin_magnet_wario(struct MarioState *m) {
+        struct Object* coinMagMove = cur_obj_nearest_object_with_behavior(bhvMovingYellowCoinWario);
+        f32 oDistMove;
+        if (coinMagMove != NULL && m->marioObj != NULL) {
+            oDistMove = dist_between_objects(coinMagMove, m->marioObj);
+        }
+        while (coinMagMove != NULL && oDistMove >= 100 && oDistMove < 1000) {
+            while (oDistMove >= 10) {
+                coinMagMove->oPosX = approach_f32_symmetric(coinMagMove->oPosX, m->pos[0], 28);
+                coinMagMove->oPosY = approach_f32_symmetric(coinMagMove->oPosY, m->pos[1], 28);
+                coinMagMove->oPosZ = approach_f32_symmetric(coinMagMove->oPosZ, m->pos[2], 28);
+                break;
+            }
+            break;
+        }
+        if (oDistMove == 0 && oDistMove > 1000) {
+            obj_mark_for_deletion(coinMagMove);
+        }
+}
+
 s32 act_wario_pile_driver_land(struct MarioState *m) {
     m->actionState = 1;
     queue_rumble_data(4, 50);
@@ -213,27 +234,6 @@ s32 act_wario_triple_jump(struct MarioState *m) {
         set_mario_animation(m, MARIO_ANIM_GENERAL_FALL);
     }
     return FALSE;
-}
-
-/*Coin Magnet thanks 4y*/
-void coin_magnet_wario(struct MarioState *m) {
-        struct Object* coinMagMove = cur_obj_nearest_object_with_behavior(bhvMovingYellowCoinWario);
-        f32 oDistMove;
-        if (coinMagMove != NULL && m->marioObj != NULL) {
-            oDistMove = dist_between_objects(coinMagMove, m->marioObj);
-        }
-        while (coinMagMove != NULL && oDistMove >= 100 && oDistMove < 1000) {
-            while (oDistMove >= 10) {
-                coinMagMove->oPosX = approach_f32_symmetric(coinMagMove->oPosX, m->pos[0], 28);
-                coinMagMove->oPosY = approach_f32_symmetric(coinMagMove->oPosY, m->pos[1], 28);
-                coinMagMove->oPosZ = approach_f32_symmetric(coinMagMove->oPosZ, m->pos[2], 28);
-                break;
-            }
-            break;
-        }
-        if (oDistMove == 0 && oDistMove > 1000) {
-            obj_mark_for_deletion(coinMagMove);
-        }
 }
 
 void update_wario_spin_walk_speed(struct MarioState *m) {
