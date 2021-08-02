@@ -64,6 +64,15 @@ void bhv_milk_loop(void)
     set_object_visibility(o, 3000);
 }
 
+void bhv_milk_end(void) {
+    vec3f_set(gMarioState->marioObj->header.gfx.scale, 1.0f, 1.0f, 1.0f);
+    s = 0;
+    gMarioState->milk = 0;
+    gMarioState->defeatEnemy = 0;
+    o->activeFlags = ACTIVE_FLAG_DEACTIVATED;
+    r96_stop_music();
+}
+
 void bhv_milk_time_out(void)
 {
     u16 timerValFrames;
@@ -82,11 +91,3 @@ void bhv_milk_time_out(void)
     }
 }
 
-void bhv_milk_end() {
-    vec3f_set(gMarioState->marioObj->header.gfx.scale, 1.0f, 1.0f, 1.0f);
-    s = 0;
-    gMarioState->milk = 0;
-    gMarioState->defeatEnemy = 0;
-    o->activeFlags = ACTIVE_FLAG_DEACTIVATED;
-    r96_stop_music();
-}
