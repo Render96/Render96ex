@@ -156,6 +156,13 @@ void r96_play_cap_music(const char* R96_CAP_MUSIC) {
     }
 }
 
+void r96_music_fade_out() {
+    softenVolume -= 0.10f;
+    if (softenVolume <= 0.20f) {
+        softenVolume = 0.20f;
+    }
+}
+
 void r96_fadeout_cap_music() {
     if (sR96CurrentCapMusic != NO_MUSIC) {
         r96_music_fade_out();
@@ -253,13 +260,6 @@ void r96_music_fade_in() {
     }
     if (softenVolume >= 1.0f) {
         softenVolume = 1.0f;
-    }
-}
-
-void r96_music_fade_out() {
-    softenVolume -= 0.10f;
-    if (softenVolume <= 0.20f) {
-        softenVolume = 0.20f;
     }
 }
 
