@@ -117,8 +117,8 @@ ifeq ($(HOST_OS),Darwin)
       CC := gcc-$(OSX_GCC_VER)
       CXX := g++-$(OSX_GCC_VER)
       CPP := cpp-$(OSX_GCC_VER) -P
-      PLATFORM_CFLAGS := -I /usr/local/include
-      PLATFORM_LDFLAGS := -L /usr/local/lib
+      PLATFORM_CFLAGS := -I $(shell brew --prefix)/include
+      PLATFORM_LDFLAGS := -L $(shell brew --prefix)/lib
     else
       $(error No suitable macOS toolchain found, have you installed Homebrew?)
     endif
