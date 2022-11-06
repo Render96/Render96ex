@@ -10,9 +10,9 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Incroyable! Vous voilà",
+                "Incroyable ! Vous voilà",
                 "propulsé au beau milieu",
-                "d'un champ de bataille!",
+                "d'un champ de bataille !",
                 "",
                 "",
                 "",
@@ -28,7 +28,7 @@
                 "vous aidera sûrement,",
                 "ainsi que ses camarades",
                 "dans d'autres niveaux...",
-                "Pour lire une pancarte:",
+                "Pour lire une pancarte :",
                 "arrêtez-vous, faites face",
                 "au panneau et appuyez sur",
                 "[B]. Appuyez sur [A] ou [B]",
@@ -42,11 +42,11 @@
             "leftOffset": 95,
             "width": 200,
             "lines": [
-                "Attention! Si tu te",
+                "Attention ! Si tu te",
                 "promènes par ici, tu",
                 "risques de te faire",
                 "écrabouiller par une bombe",
-                "à eau!",
+                "à eau !",
                 "Les méchants Bob-ombs",
                 "adorent se bagarrer, et",
                 "ils trouvent toujours le",
@@ -58,7 +58,7 @@
                 "s'est approprié l'étoile de",
                 "puissance.",
                 "Peux-tu aller chercher",
-                "l'étoile pour nous?",
+                "l'étoile pour nous ?",
                 "",
                 "",
                 "",
@@ -69,7 +69,7 @@
                 "",
                 "Reviens me voir lorsque tu",
                 "auras récupéré l'étoile de",
-                "puissance!"
+                "puissance !"
             ]
         },
         {
@@ -78,9 +78,9 @@
             "leftOffset": 95,
             "width": 200,
             "lines": [
-                "Hé, toi! C'est dangereux",
-                "par ici! Alors écoute bien",
-                "mon conseil:",
+                "Hé, toi ! C'est dangereux",
+                "par ici ! Alors écoute bien",
+                "mon conseil :",
                 "",
                 "",
                 "",
@@ -94,14 +94,14 @@
                 "sommet de la montagne",
                 "est très puissant...",
                 "Ne le laisse pas",
-                "t'attraper!",
+                "t'attraper !",
                 "",
                 "Nous sommes de gentils",
                 "Bob-ombs, et nous sommes",
                 "de ton côté.",
                 "N'hésite pas à venir nous",
                 "parler à chaque fois que",
-                "tu en as envie!"
+                "tu en as envie !"
             ]
         },
         {
@@ -110,10 +110,10 @@
             "leftOffset": 95,
             "width": 200,
             "lines": [
-                "Merci beaucoup Mario!",
+                "Merci beaucoup Mario !",
                 "Tu as éclaté le vilain Roi",
                 "Bob-omb comme une vieille",
-                "figue! Mais tout ceci",
+                "figue ! Mais tout ceci",
                 "n'est qu'un début...",
                 "D'autres gros méchants",
                 "pas beaux détiennent des",
@@ -123,12 +123,12 @@
                 "Si tu récupères d'autres",
                 "étoiles, tu pourras ouvrir",
                 "de nouvelles portes menant",
-                "à de nouveaux mondes!",
+                "à de nouveaux mondes !",
                 "",
                 "Mes camarades Bob-ombs",
                 "t'attendent. Si tu leur",
                 "parles, ils te prépareront",
-                "de jolis canons!"
+                "de jolis canons !"
             ]
         },
         {
@@ -145,10 +145,10 @@
                 "",
                 "Mais si tu désires foncer",
                 "vers les cieux,",
-                "No Problemo: nous",
+                "No Problemo : nous",
                 "nous ferons une joie de te",
                 "préparer tous les canons",
-                "de ce niveau. Bon voyage!"
+                "de ce niveau. Bon voyage !"
             ]
         },
         {
@@ -157,26 +157,26 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Hé, Mario! C'est vrai ce",
-                "qu'on raconte? Tu as",
+                "Hé, Mario ! C'est vrai ce",
+                "qu'on raconte ? Tu as",
                 "vraiment battu le Roi",
-                "Bob-omb? Cool!",
+                "Bob-omb ? Cool !",
                 "",
                 "Tu dois être vachement",
-                "fort et rapide! Mais",
+                "fort et rapide ! Mais",
                 "es-tu aussi rapide que",
-                "moi, Koopa-Rapido?",
+                "moi, Koopa-Rapido ?",
                 "Je crois bien que non...",
                 "Ça te dirait une petite",
                 "course jusqu'au sommet",
                 "de la montagne, là où",
-                "était le Roi Bob-omb?",
-                "Alors, qu'en dis-tu?",
+                "était le Roi Bob-omb ?",
+                "Alors, qu'en dis-tu ?",
                 "Lorsque je dis 『partez』,",
                 "la course commence...",
                 "Prêt...",
                 "",
-                "//Partez!//Heu, non."
+                "//Partez !//Heu, non."
             ]
         },
         {
@@ -185,10 +185,10 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Hé! Tu te moques de moi,",
-                "p'tit nain pas beau?",
+                "Hé ! Tu te moques de moi,",
+                "p'tit nain pas beau ?",
                 "Tu dois courir du début",
-                "jusqu'à la fin!",
+                "jusqu'à la fin !",
                 "A plus tard. Reviens me",
                 "voir lorsque tu arrêteras",
                 "de tricher..."
@@ -201,10 +201,10 @@
             "width": 200,
             "lines": [
                 "Heuufff...fff...peufff...",
-                "Whoa! Tu...es...vraiment",
-                "rapide...pour un nabot!",
-                "Tu viens de l'espace?",
-                "Tiens, tu l'as méritée!"
+                "Whoa ! Tu...es...vraiment",
+                "rapide...pour un nabot !",
+                "Tu viens de l'espace ?",
+                "Tiens, tu l'as méritée !"
             ]
         },
         {
@@ -214,13 +214,13 @@
             "width": 200,
             "lines": [
                 "ATTENTION AU CHOMP",
-                "ENCHAÎNÉ!!!",
-                "Danger! Approchez-vous",
+                "ENCHAÎNÉ !!!",
+                "Danger ! Approchez-vous",
                 "et appuyez sur [C]^ pour",
-                "jeter un oeil.",
-                "Impressionnant, non?",
+                "jeter un œil.",
+                "Impressionnant, non ?",
                 "Avez-vous remarqué la",
-                "pièce rouge sur le rondin?",
+                "pièce rouge sur le rondin ?",
                 "Lorsque vous collecterez 8",
                 "pièces comme celle-ci,",
                 "une étoile apparaîtra",
@@ -235,25 +235,25 @@
             "width": 200,
             "lines": [
                 "Ça fait longtemps qu'on",
-                "ne s'était pas vu, Mario!",
-                "Fouiii! Tu es devenu super",
-                "rapide!",
+                "ne s'était pas vu, Mario !",
+                "Fouiii ! Tu es devenu super",
+                "rapide !",
                 "Tu t'es entraîné aux Jeux",
                 "Olympiques ou les étoiles",
                 "te rendent ultra-méga-",
-                "puissant?",
+                "puissant ?",
                 "Je n'ai pas encore avalé",
                 "ma défaite de l'autre",
                 "fois... Mais ici c'est mon",
                 "territoire.",
                 "Tu veux faire le match",
-                "retour? L'arrivée est",
+                "retour ? L'arrivée est",
                 "dans la vallée Valvent...",
                 "",
                 "Prêt...",
                 "",
                 "",
-                "//Partez!// Heu, non."
+                "//Partez !// Heu, non."
             ]
         },
         {
@@ -274,7 +274,7 @@
                 "ailées surgiront des blocs",
                 "rouges que vous",
                 "détruirez...",
-                "Voulez-vous sauvegarder?",
+                "Voulez-vous sauvegarder ?",
                 "",
                 "//Oui////Non."
             ]
@@ -287,17 +287,17 @@
             "lines": [
                 "Vous venez d'actionner",
                 "l'interrupteur des",
-                "casquettes-métal!",
+                "casquettes-métal !",
                 "",
                 "Grâce aux casquettes-",
                 "métal, Mario peut devenir",
-                "invincible!",
+                "invincible !",
                 "",
                 "Désormais, des",
                 "casquettes-métal",
                 "surgiront des blocs verts",
                 "que vous détruirez...",
-                "Voulez-vous sauvegarder?",
+                "Voulez-vous sauvegarder ?",
                 "",
                 "//Oui////Non."
             ]
@@ -320,7 +320,7 @@
                 "d'invisibilité surgiront",
                 "des blocs bleus que vous",
                 "détruirez...",
-                "Voulez-vous sauvegarder?",
+                "Voulez-vous sauvegarder ?",
                 "",
                 "//Oui////Non."
             ]
@@ -332,9 +332,9 @@
             "width": 200,
             "lines": [
                 "Vous avez récupéré 100",
-                "pièces! Mario sera",
-                "désormais plus puissant!",
-                "Voulez-vous sauvegarder?",
+                "pièces ! Mario sera",
+                "désormais plus puissant !",
+                "Voulez-vous sauvegarder ?",
                 "",
                 "//Oui////Non."
             ]
@@ -345,11 +345,11 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Whoa, génial! Une autre",
-                "étoile de puissance! Mario",
+                "Whoa, génial ! Une autre",
+                "étoile de puissance ! Mario",
                 "devient de plus en plus",
-                "courageux!",
-                "Voulez-vous sauvegarder?",
+                "courageux !",
+                "Voulez-vous sauvegarder ?",
                 "//Oui////Non."
             ]
         },
@@ -381,7 +381,7 @@
                 "Si vous sautez sur une",
                 "carapace brillante, vous",
                 "pourrez aller n'importe où",
-                "et détruire vos ennemis!"
+                "et détruire vos ennemis !"
             ]
         },
         {
@@ -399,8 +399,8 @@
                 "jeter au sol.",
                 "",
                 "Es-tu capable de soulever",
-                "mon royal fessier?",
-                "En garde, moucheron!"
+                "mon royal fessier ?",
+                "En garde, moucheron !"
             ]
         },
         {
@@ -409,10 +409,10 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "SILENCE! Je dors!",
+                "SILENCE ! Je dors !",
                 "Gare à l'imprudent qui",
                 "oserait me réveiller...",
-                "Marchez doucement, sinon!"
+                "Marchez doucement, sinon !"
             ]
         },
         {
@@ -421,8 +421,8 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "CHUT! Marchez doucement",
-                "dans les couloirs!!!"
+                "CHUT ! Marchez doucement",
+                "dans les couloirs !!!"
             ]
         },
         {
@@ -445,10 +445,10 @@
             "leftOffset": 95,
             "width": 200,
             "lines": [
-                "Bienvenue l'ami!",
+                "Bienvenue l'ami !",
                 "Ici il n'y a personne,",
-                "alors dégage, moustique!",
-                "GWA HA HA HA HA HA!!!"
+                "alors dégage, moustique !",
+                "GWA HA HA HA HA HA !!!"
             ]
         },
         {
@@ -544,7 +544,7 @@
                 "haut de 『l'escalier sans",
                 "fin』... Il vous manque",
                 "encore [%] étoile(s).",
-                "GWA HA HA HA HA HA!!!"
+                "GWA HA HA HA HA HA !!!"
             ]
         },
         {
@@ -553,10 +553,10 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Bonjour à tous!",
+                "Bonjour à tous !",
                 "Ici Lakitu, le reporter de",
-                "choc et de charme! Voici",
-                "un petit conseil technique:",
+                "choc et de charme ! Voici",
+                "un petit conseil technique :",
                 "Marchez tout doucement",
                 "pour ne pas faire de bruit",
                 "et ainsi surprendre vos",
@@ -570,7 +570,7 @@
                 "un signal sonore se fera",
                 "entendre...",
                 "Mes chers téléspectateurs,",
-                "à bientôt!",
+                "à bientôt !",
                 "//// --Lakitu--"
             ]
         },
@@ -580,9 +580,9 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Incroyable! Tu m'as encore",
-                "battu? J'étais pourtant",
-                "certain de gagner!",
+                "Incroyable ! Tu m'as encore",
+                "battu ? J'étais pourtant",
+                "certain de gagner !",
                 "Tiens, petit homme, tu as",
                 "bien mérité cette étoile..."
             ]
@@ -597,10 +597,10 @@
                 "casquette ailée vous",
                 "effectuez trois sauts",
                 "consécutifs, vous pourrez",
-                "volez comme un oiseau!",
+                "volez comme un oiseau !",
                 "Vous volerez encore plus",
                 "haut si vous êtes propulsé",
-                "par un canon!",
+                "par un canon !",
                 "",
                 "",
                 "Utilisez les boutons [C] pour",
@@ -615,21 +615,21 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Ciao bello!",
+                "Ciao bello !",
                 "Vous voici arrivé au",
                 "château de la Princesse",
                 "grâce à un tuyau de",
                 "téléportation.",
                 "Contrôler Mario est très",
-                ",facile: appuyez sur [A]",
-                ",pour sauter et sur [B] pour",
+                "facile : appuyez sur [A]",
+                "pour sauter et sur [B] pour",
                 "attaquer. Appuyez sur [B]",
                 "pour lire les pancartes.",
                 "Utilisez le stick multi-",
                 "directionnel pour déplacer",
                 "Mario...",
                 "Et maintenant, en route",
-                "vers le château!!!"
+                "vers le château !!!"
             ]
         },
         {
@@ -638,7 +638,7 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Bonjour! Nous sommes les",
+                "Bonjour ! Nous sommes les",
                 "frères Lakitu et nous nous",
                 "ferons une joie de filmer",
                 "l'intrépide Mario tout au",
@@ -650,7 +650,7 @@
                 "est impossible de bouger",
                 "la caméra, un signal",
                 "sonore retentira.",
-                "Pour jeter un oeil autour",
+                "Pour jeter un œil autour",
                 "de Mario, arrêtez-vous",
                 "et appuyez sur [C]^.",
                 "Appuyez sur le bouton [A]",
@@ -678,7 +678,7 @@
                 "[C]. En appuyant sur [C]^ et",
                 "en bougeant le stick",
                 "multidirectionnel, vous",
-                "pourrez jeter un oeil aux",
+                "pourrez jeter un œil aux",
                 "alentours...",
                 "L'angle de vue normal est",
                 "celui de la caméra de",
@@ -702,8 +702,8 @@
             "lines": [
                 "--PANORAMA--",
                 "Appuyez sur [C]^ pour jeter",
-                "un coup d'oeil. Profitez",
-                "de la vue!",
+                "un coup d'œil. Profitez",
+                "de la vue !",
                 "Appuyez sur [R] pour",
                 "utiliser la caméra-Mario",
                 "qui suivra toujours de",
@@ -724,12 +724,12 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Bwa ha ha ha ha!",
-                "Je t'ai battu gros nain!",
+                "Bwa ha ha ha ha !",
+                "Je t'ai battu gros nain !",
                 "Tu es aussi rapide qu'une",
-                "vieille limace malade!",
+                "vieille limace malade !",
                 "Reviens me voir si tu",
-                "veux prendre ta revanche!"
+                "veux prendre ta revanche !"
             ]
         },
         {
@@ -751,17 +751,17 @@
             "lines": [
                 "ROYAUME DE BOB-OMB",
                 "",
-                "Interdit aux touristes!!!",
+                "Interdit aux touristes !!!",
                 "",
                 "",
                 "Personne ne pourra me",
                 "voler mes étoiles de",
-                "puissance! Elles m'ont été",
+                "puissance ! Elles m'ont été",
                 "offertes par le grand",
                 "Bowser en personne.",
                 "Je ne dirai jamais où",
                 "elles se trouvent, mais",
-                "voici un indice:",
+                "voici un indice :",
                 "",
                 "",
                 "lisez attentivement le nom",
@@ -777,9 +777,9 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "ATTENTION!",
+                "ATTENTION !",
                 "Crevasse de glace juste",
-                "en dessous!"
+                "en dessous !"
             ]
         },
         {
@@ -788,12 +788,12 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "J'ai gagné! J'ai gagné!",
-                "Ha! Ha! Pauv'nul!",
+                "J'ai gagné ! J'ai gagné !",
+                "Ha ! Ha ! Pauv'nul !",
                 "Ça t'apprendra à défier",
-                "le grand Koopa-Rapido!",
+                "le grand Koopa-Rapido !",
                 "Reviens me voir si tu",
-                "veux une autre raclée!"
+                "veux une autre raclée !"
             ]
         },
         {
@@ -802,9 +802,9 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "ATTENTION!",
+                "ATTENTION !",
                 "",
-                "Pont étroit!!!",
+                "Pont étroit !!!",
                 "Traversez doucement...",
                 "",
                 "",
@@ -839,7 +839,7 @@
                 "accrocher à des objets",
                 "au-dessus de vous...",
                 "Vous pourrez même vous",
-                "accrocher à un oiseau!"
+                "accrocher à un oiseau !"
             ]
         },
         {
@@ -848,14 +848,14 @@
             "leftOffset": 95,
             "width": 200,
             "lines": [
-                "Mmm? Hein? Qui m'a",
-                "réveillé? Quoi!?! Il fait",
-                "encore jour? Je devrais",
-                "dormir!",
+                "Mmm ? Hein ? Qui m'a",
+                "réveillé ? Quoi !?! Il fait",
+                "encore jour ? Je devrais",
+                "dormir !",
                 "Maintenant que je suis",
                 "réveillé, ça te dirait de",
                 "faire un petit tour avec",
-                "moi?",
+                "moi ?",
                 "Maintiens le bouton [A]",
                 "pour t'accrocher et",
                 "lâche-le pour te laisser",
@@ -863,9 +863,9 @@
                 "Je t'emmènerai où tu veux",
                 "aussi longtemps que mes",
                 "ailes pourront supporter",
-                "ton poids!",
+                "ton poids !",
                 "Regarde bien mon ombre",
-                "et accroche-toi!!!"
+                "et accroche-toi !!!"
             ]
         },
         {
@@ -874,11 +874,11 @@
             "leftOffset": 95,
             "width": 200,
             "lines": [
-                "Fouiii! J'suis naze!!!",
+                "Fouiii ! J'suis naze !!!",
                 "Tu devrais peut-être",
                 "arrêter les pâtes aux",
                 "oeufs...",
-                "Allez, ciao Mario!",
+                "Allez, ciao Mario !",
                 "Lâche le bouton [A] sinon",
                 "j'te balance dans le vide",
                 "mon gros..."
@@ -892,7 +892,7 @@
             "lines": [
                 "Il existe trois sauts",
                 "différents que vous",
-                "devez maîtriser:",
+                "devez maîtriser :",
                 "Tout d'abord, le Triple",
                 "Saut...",
                 "",
@@ -905,7 +905,7 @@
                 "Ensuite, pour sauter le",
                 "plus loin possible, vous",
                 "devrez effectuer le Saut",
-                "en Longueur:",
+                "en Longueur :",
                 "",
                 "",
                 "Courez, appuyez sur [Z] pour",
@@ -920,9 +920,9 @@
                 "à nouveau lorsque vous",
                 "touchez la paroi...",
                 "",
-                "C'est compris?",
+                "C'est compris ?",
                 "Triple Saut, Saut en",
-                "Longueur et Impulsion?",
+                "Longueur et Impulsion ?",
                 "Pour y arriver à chaque",
                 "fois il faut s'entraîner",
                 "encore et encore et...?"
@@ -934,8 +934,8 @@
             "leftOffset": 95,
             "width": 200,
             "lines": [
-                "Salut l'ami! Je vais te",
-                "préparer un joli canon!"
+                "Salut l'ami ! Je vais te",
+                "préparer un joli canon !"
             ]
         },
         {
@@ -946,7 +946,7 @@
             "lines": [
                 "Sommet du glacier...",
                 "Attention à ne pas",
-                "glisser!",
+                "glisser !",
                 "Tout d'abord, visitez ce",
                 "chalet..."
             ]
@@ -958,7 +958,7 @@
             "width": 200,
             "lines": [
                 "Vous vous souvenez de",
-                "l'Impulsion? Utilisez cette",
+                "l'Impulsion ? Utilisez cette",
                 "technique pour atteindre",
                 "des lieux en hauteur...",
                 "Rebondissez de mur en",
@@ -981,13 +981,13 @@
                 "pente...",
                 "Appuyez sur [Z] pendant un",
                 "saut pour faire l'Attaque",
-                "Rodéo!",
+                "Rodéo !",
                 "",
                 "A l'arrêt, si vous appuyez",
                 "sur [Z] pour vous accroupir,",
                 "puis sur [A], vous ferez un",
-                "Saut Périlleux!",
-                "C'est compris? Mais il",
+                "Saut Périlleux !",
+                "C'est compris ? Mais il",
                 "existe encore d'autres",
                 "mouvements...",
                 "",
@@ -1028,7 +1028,7 @@
                 "Appuyez alors sur [A] pour",
                 "faire un méga-saut vers",
                 "l'arrière, digne des plus",
-                "grands athlètes!"
+                "grands athlètes !"
             ]
         },
         {
@@ -1041,7 +1041,7 @@
                 "sur [Z] pour vous accroupir,",
                 "puis appuyez sur [A] pour",
                 "faire un Saut Périlleux",
-                "en arrière!",
+                "en arrière !",
                 "Pour faire un Saut",
                 "Périlleux de côté, courez,",
                 "changez de direction, puis",
@@ -1076,14 +1076,14 @@
             "width": 200,
             "lines": [
                 "Attention:",
-                "Glissade Périlleuse!",
+                "Glissade Périlleuse !",
                 "En voiture Simone...",
                 "Appuyez vers l'avant sur",
                 "le stick multidirectionnel",
                 "pour accélérer.",
                 "Appuyez vers l'arrière",
                 "pour ralentir...",
-                "Roulez jeunesse!"
+                "Roulez jeunesse !"
             ]
         },
         {
@@ -1095,13 +1095,13 @@
                 "Salut mon tout petit",
                 "Mario...",
                 "Alors, il paraît que tu es",
-                "un rapide?",
+                "un rapide ?",
                 "Mais es-tu aussi rapide",
-                "que moi?",
+                "que moi ?",
                 "On fait la course,",
-                "mon petit biquet?",
+                "mon petit biquet ?",
                 "Prêt...",
-                "//Partez!//Heu, non."
+                "//Partez !//Heu, non."
             ]
         },
         {
@@ -1110,8 +1110,8 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Qu-qu-quoi? T-t-tu as",
-                "battu mon record?",
+                "Qu-qu-quoi ? T-t-tu as",
+                "battu mon record ?",
                 "Je l'admets, tu es très",
                 "rapide pour un humain.",
                 "Je n'ai pas de médaille",
@@ -1126,13 +1126,13 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Mon bébé! J'ai perdu mon",
+                "Mon bébé ! J'ai perdu mon",
                 "bébé... Mon p'tit chou...",
                 "Ma puce à moi...",
                 "Mon chocolat...",
-                "JE VEUX MON BÉBÉ!!!",
-                "GNAAAAAAAAAAAAAA!!!",
-                "MON BÉBÉ!"
+                "JE VEUX MON BÉBÉ !!!",
+                "GNAAAAAAAAAAAAAA !!!",
+                "MON BÉBÉ !"
             ]
         },
         {
@@ -1141,15 +1141,15 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Tu as trouvé mon bébé!!!",
+                "Tu as trouvé mon bébé !!!",
                 "Mon chou...",
                 "Mon p'tit chou...",
                 "Comment te prouver ma",
-                "gratitude, gros Mario?",
+                "gratitude, gros Mario ?",
                 "Tu es formidable...",
                 "Tiens, prends cette étoile.",
                 "Tu l'as bien méritée...",
-                "Encore merci, petit!"
+                "Encore merci, petit !"
             ]
         },
         {
@@ -1158,10 +1158,10 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "C'est pas mon bébé!!!",
-                "Où est mon bébé?",
-                "JE VEUX MON BÉBÉ!!!!",
-                "GNAAAAAAAAAAAAAA!!!!"
+                "C'est pas mon bébé !!!",
+                "Où est mon bébé ?",
+                "JE VEUX MON BÉBÉ !!!!",
+                "GNAAAAAAAAAAAAAA !!!!"
             ]
         },
         {
@@ -1170,8 +1170,8 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "ATTENTION!",
-                "A lire avant de plonger!",
+                "ATTENTION !",
+                "A lire avant de plonger !",
                 "Si vous restez sous l'eau",
                 "pendant trop longtemps,",
                 "vous pouvez vous noyer...",
@@ -1208,8 +1208,8 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Brrrrr!!!",
-                "Baignade déconseillée!!!",
+                "Brrrrr !!!",
+                "Baignade déconseillée !!!",
                 "Trop froid...",
                 "//---Le Pingouin---"
             ]
@@ -1229,9 +1229,9 @@
                 "feu et aux attaques de",
                 "vos ennemis.",
                 "Vous n'aurez même plus",
-                "besoin de respirer!",
-                "Mais il y a un problème:",
-                "vous ne pouvez pas nager!"
+                "besoin de respirer !",
+                "Mais il y a un problème :",
+                "vous ne pouvez pas nager !"
             ]
         },
         {
@@ -1247,10 +1247,10 @@
                 "En la portant, vos",
                 "ennemis, y compris les",
                 "terribles Boos, ne",
-                "pourront pas vous voir!",
+                "pourront pas vous voir !",
                 "En plus, vous pourrez",
                 "traverser des murs",
-                "secrets!"
+                "secrets !"
             ]
         },
         {
@@ -1263,7 +1263,7 @@
                 "casquette ailée provenant",
                 "d'un bloc rouge, faites le",
                 "Triple Saut pour vous",
-                "envoler comme un oiseau!",
+                "envoler comme un oiseau !",
                 "",
                 "Utilisez le stick multi-",
                 "directionnel pour diriger",
@@ -1305,13 +1305,13 @@
                 "et appuyez sur [A]. Ensuite,",
                 "relâcher le stick pour ne",
                 "pas retomber dans l'eau.",
-                "Attention: Mario ne peut",
-                "pas respirer sous l'eau!",
+                "Attention : Mario ne peut",
+                "pas respirer sous l'eau !",
                 "Remontez à la surface",
                 "lorsque vous manquez",
                 "d'oxygène...",
                 "",
-                "Dernière chose:",
+                "Dernière chose :",
                 "vous ne pouvez pas ouvrir",
                 "les portes se trouvant",
                 "sous l'eau."
@@ -1323,11 +1323,11 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Mario! Fais attention:",
+                "Mario ! Fais attention :",
                 "Bowser est un gros",
-                "vicieux! Il va tenter de",
+                "vicieux ! Il va tenter de",
                 "te brûler les fesses avec",
-                "son souffle de feu!",
+                "son souffle de feu !",
                 "",
                 "Tourne autour de lui et",
                 "attrape sa queue en",
@@ -1353,9 +1353,9 @@
                 "une des bombes...",
                 "",
                 "",
-                "Vise bien! Appuie sur [B]",
+                "Vise bien ! Appuie sur [B]",
                 "pour lancer Bowser.",
-                "Bonne chance, Mario!",
+                "Bonne chance, Mario !",
                 "Tu en auras besoin...",
                 "",
                 "//---Peach---"
@@ -1367,21 +1367,21 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "HA HA! Dommage pour toi,",
-                "Mario! La P'tite Peach",
+                "HA HA ! Dommage pour toi,",
+                "Mario ! La P'tite Peach",
                 "n'est pas là...",
                 "Mais si tu veux un gros",
                 "bisou, on peut toujours",
-                "s'arranger!",
+                "s'arranger !",
                 "Je parie que tu n'es pas",
                 "capable d'attraper ma",
                 "queue...",
                 "Tu es trop faible pour me",
                 "faire tourner autour de",
-                "ta tête!",
+                "ta tête !",
                 "Tu n'arriveras jamais à",
                 "me faire décoller d'ici...",
-                "GWA HA! A table!!!!!!!"
+                "GWA HA ! A table !!!!!!!"
             ]
         },
         {
@@ -1390,14 +1390,14 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Voici les Laves Fatales!",
+                "Voici les Laves Fatales !",
                 "Si vous touchez de la lave",
                 "ou des flammes, vous",
-                "aurez le feu aux fesses!",
-                "Mais pas de panique:",
+                "aurez le feu aux fesses !",
+                "Mais pas de panique :",
                 "vous pourrez toujours",
                 "contrôler Mario...",
-                "Restez calme!"
+                "Restez calme !"
             ]
         },
         {
@@ -1461,17 +1461,17 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "DANGER!",
+                "DANGER !",
                 "Attention au brouillard",
-                "toxique!",
+                "toxique !",
                 "",
                 "Si vous perdez de",
                 "l'énergie, courez vers une",
                 "plate-forme en hauteur",
                 "pour respirer.",
                 "",
-                "Cercle: Abri",
-                "Flèche: Entrée - Sortie"
+                "Cercle : Abri",
+                "Flèche : Entrée - Sortie"
             ]
         },
         {
@@ -1480,9 +1480,9 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Attention: vents violents!",
+                "Attention : vents violents !",
                 "Accrochez-vous à votre",
-                "casquette!",
+                "casquette !",
                 "Si vous la perdez, vous",
                 "devrez revenir la chercher",
                 "là où vous l'avez perdue..."
@@ -1494,13 +1494,13 @@
             "leftOffset": 95,
             "width": 200,
             "lines": [
-                "Souquez ferme, matelot!",
+                "Souquez ferme, matelot !",
                 "J'ai caché un trésor",
                 "par ici, moussaillon.",
                 "Mais pour le découvrir,",
                 "vous devrez ouvrir les",
                 "coffres dans l'ordre...",
-                "Y arriveras-tu, petit?",
+                "Y arriveras-tu, petit ?",
                 "",
                 "//-- Le capitaine --"
             ]
@@ -1534,11 +1534,11 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Mario! Mon château est",
+                "Mario ! Mon château est",
                 "en danger, et Bowser en",
                 "est le responsable...",
                 "Toi seul peut contrecarrer",
-                "ses plans diaboliques!",
+                "ses plans diaboliques !",
                 "Les portes du château ont",
                 "été scellées par Bowser et",
                 "ne peuvent être ouvertes",
@@ -1557,18 +1557,18 @@
                 "Un passage secret se",
                 "trouve dans cette pièce et",
                 "il mène à une des étoiles",
-                "secrètes du château!",
+                "secrètes du château !",
                 "",
                 "Trouve cette étoile, mon",
-                "petit Mario! Elle te sera",
+                "petit Mario ! Elle te sera",
                 "très utile. Je t'en prie,",
-                "aide-nous!",
+                "aide-nous !",
                 "",
                 "Retrouve toutes les étoiles",
                 "du château et tu pourras",
-                "nous délivrer!",
-                "Je t'en prie, Mario!",
-                "Sauve-nous!"
+                "nous délivrer !",
+                "Je t'en prie, Mario !",
+                "Sauve-nous !"
             ]
         },
         {
@@ -1582,21 +1582,21 @@
                 "revient à la vie...",
                 "Je t'en prie Mario,",
                 "botte les fesses du",
-                "vilain Bowser pas beau!",
+                "vilain Bowser pas beau !",
                 "As-tu visité la pièce du",
                 "château dans laquelle un",
-                "grand miroir est au mur?",
+                "grand miroir est au mur ?",
                 "Prends garde à tout ce",
                 "qui n'a pas de reflet...",
                 "",
                 "Connais-tu le monde",
-                "『Trempé-Séché』?",
+                "『Trempé-Séché』 ?",
                 "",
                 "Rentre dans ce niveau en",
                 "sautant très haut...",
                 "",
-                "Au fait! Regarde ce que",
-                "j'ai pour toi!"
+                "Au fait ! Regarde ce que",
+                "j'ai pour toi !"
             ]
         },
         {
@@ -1625,7 +1625,7 @@
                 "",
                 "Dépêchez-vous de les",
                 "attraper, sinon elles",
-                "disparaîtront!"
+                "disparaîtront !"
             ]
         },
         {
@@ -1634,14 +1634,14 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "GNIIIIIIIII!!!",
-                "LACHE-MOI!",
-                "Je blaguais! Tu n'as",
+                "GNIIIIIIIII !!!",
+                "LACHE-MOI !",
+                "Je blaguais ! Tu n'as",
                 "aucun sens de l'humour.",
                 "Lâche-moi et je te",
                 "donnerais un truc cool.",
-                "Ça marche?",
-                "//OK////Jamais!"
+                "Ça marche ?",
+                "//OK////Jamais !"
             ]
         },
         {
@@ -1650,7 +1650,7 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Gnii hi hi hi hi hi!!!"
+                "Gnii hi hi hi hi hi !!!"
             ]
         },
         {
@@ -1667,7 +1667,7 @@
                 "",
                 "En y pénétrant,",
                 "serez-vous assez",
-                "intelligent?"
+                "intelligent ?"
             ]
         },
         {
@@ -1686,19 +1686,19 @@
                 "perdue...",
                 "Sans casquette, tes",
                 "ennemis pourront te faire",
-                "beaucoup plus de dégâts!",
+                "beaucoup plus de dégâts !",
                 "",
                 "La princesse Peach a",
                 "de sérieux ennuis...",
                 "Elle est enfermée dans un",
                 "des murs du château.",
                 "Tu dois absolument l'aider",
-                "mon gros Mario! Savais-",
+                "mon gros Mario ! Savais-",
                 "tu qu'il existe des",
-                "mondes dans les murs?",
+                "mondes dans les murs ?",
                 "Les sbires du Bowser pas",
                 "beau y font régner la",
-                "terreur!",
+                "terreur !",
                 "",
                 "Tiens, j'ai un petit",
                 "cadeau pour toi..."
@@ -1719,7 +1719,7 @@
                 "aiguille lorsque tu sautes",
                 "à l'intérieur...",
                 "Au fait, regarde ce que",
-                "j'ai là pour toi!"
+                "j'ai là pour toi !"
             ]
         },
         {
@@ -1728,12 +1728,12 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "GNAAAAAAAAA!!!",
-                "LACHE-MOI!!!",
-                "GROSSE BRUTE!",
-                "Ne me mange pas!",
-                "Ne me mange pas!",
-                "Au secours!!!!!!",
+                "GNAAAAAAAAA !!!",
+                "LACHE-MOI !!!",
+                "GROSSE BRUTE !",
+                "Ne me mange pas !",
+                "Ne me mange pas !",
+                "Au secours !!!!!!",
                 "Tiens, voilà une étoile.",
                 "Prends-la, mais tu dois",
                 "me laisser partir..."
@@ -1745,11 +1745,11 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Va-t'en, simple mortel!",
+                "Va-t'en, simple mortel !",
                 "Si tu tiens à ton âme,",
                 "retourne chez toi...",
                 "Si tu oses rentrer,",
-                "tu seras damné!!!"
+                "tu seras damné !!!"
             ]
         },
         {
@@ -1760,7 +1760,7 @@
             "lines": [
                 "Tourner autour de",
                 "certains ennemis peut",
-                "faire tourner de l'oeil..."
+                "faire tourner de l'œil..."
             ]
         },
         {
@@ -1800,16 +1800,16 @@
                 "encore capables de faire",
                 "le Saut en Longueur",
                 "doivent aller à droite.",
-                "Droite: Plate-forme de",
+                "Droite : Plate-forme de",
                 "////travail.",
                 "////Labyrinthe",
                 "////toxique.",
-                "Gauche: Trou Noir.",
+                "Gauche : Trou Noir.",
                 "////Lac souterrain.",
-                "Cercle rouge:",
+                "Cercle rouge :",
                 "////Ascenseur 2.",
                 "////Lac souterrain.",
-                "Flèche:",
+                "Flèche :",
                 "////Votre position",
                 "////actuelle."
             ]
@@ -1820,12 +1820,12 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "BWA HA HA HA HA HA!!!",
+                "BWA HA HA HA HA HA !!!",
                 "Tu es tombé dans mon",
-                "piège, petit Mario!",
+                "piège, petit Mario !",
                 "Mais voici un conseil",
-                "d'ami: prends garde à ne",
-                "pas tomber!"
+                "d'ami : prends garde à ne",
+                "pas tomber !"
             ]
         },
         {
@@ -1834,8 +1834,8 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Danger!!!",
-                "Vents violents!",
+                "Danger !!!",
+                "Vents violents !",
                 "Sachez utiliser les",
                 "courants à votre",
                 "avantage..."
@@ -1849,14 +1849,14 @@
             "lines": [
                 "Mario...",
                 "Mon p'tit Mario...",
-                "Tu m'cherches ou quoi?",
-                "Tu la veux ta baffe?",
-                "Alors tu vas l'avoir!",
+                "Tu m'cherches ou quoi ?",
+                "Tu la veux ta baffe ?",
+                "Alors tu vas l'avoir !",
                 "Mais d'abord tu vas me",
                 "rendre mes étoiles,",
-                "voleur!",
-                "BWA HA HA HA HA HA!!!",
-                "C'est l'heure du goûter!"
+                "voleur !",
+                "BWA HA HA HA HA HA !!!",
+                "C'est l'heure du goûter !"
             ]
         },
         {
@@ -1865,18 +1865,18 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Mario?!?",
-                "Tu es encore là, toi?",
+                "Mario ?!?",
+                "Tu es encore là, toi ?",
                 "Très bien, tu l'auras",
-                "voulu! Cette fois-ci, je",
+                "voulu ! Cette fois-ci, je",
                 "vais faire frire ta",
-                "vieille moustache!",
+                "vieille moustache !",
                 "Malgré tes étoiles de",
                 "puissance, tu n'arriveras",
                 "jamais à sauver Peach et",
                 "ses amis...",
-                "Allez... En garde!",
-                "BWA HA HA HA HA HA HA!"
+                "Allez... En garde !",
+                "BWA HA HA HA HA HA HA !"
             ]
         },
         {
@@ -1886,8 +1886,8 @@
             "width": 200,
             "lines": [
                 "Pourquoi ne pas escalader",
-                "cette pente en courant?",
-                "Petit rappel: pour faire",
+                "cette pente en courant ?",
+                "Petit rappel : pour faire",
                 "un Saut en Longueur,",
                 "courir, appuyer sur [Z],",
                 "puis sauter..."
@@ -1902,7 +1902,7 @@
                 "Pour lire une pancarte,",
                 "il faut se tenir devant",
                 "l'écriteau et appuyer [B].",
-                "Vous le saviez déjà?",
+                "Vous le saviez déjà ?",
                 "Ah bon... Désolé.",
                 "Pour parler à une tortue",
                 "ou à un autre animal,",
@@ -1911,7 +1911,7 @@
                 "",
                 "Retrouvez vite les étoiles",
                 "que Bowser a caché dans",
-                "ce niveau!"
+                "ce niveau !"
             ]
         },
         {
@@ -1921,11 +1921,11 @@
             "width": 200,
             "lines": [
                 "Le sommet de la montagne",
-                "est interdit au public!",
+                "est interdit au public !",
                 "Alors n'essayez pas d'y",
                 "aller, à moins d'être à la",
                 "recherche des étoiles...",
-                "Autre conseil: ne réveillez",
+                "Autre conseil : ne réveillez",
                 "jamais quelqu'un qui dort.",
                 "Marchez doucement...",
                 "Et sans bruit..."
@@ -1938,8 +1938,8 @@
             "width": 200,
             "lines": [
                 "Si quelqu'un vous pousse,",
-                "n'ayez pas peur!",
-                "Poussez-le vous aussi!",
+                "n'ayez pas peur !",
+                "Poussez-le vous aussi !",
                 "Le perdant aura plutôt",
                 "chaud aux fesses..."
             ]
@@ -1964,9 +1964,9 @@
             "width": 200,
             "lines": [
                 "Hé...hé...hé...",
-                "Ciao bello Mario!",
-                "Moi j'traverse les murs!",
-                "Tu peux le faire, toi?",
+                "Ciao bello Mario !",
+                "Moi j'traverse les murs !",
+                "Tu peux le faire, toi ?",
                 "Hin...hin...hin..."
             ]
         },
@@ -1976,10 +1976,10 @@
             "leftOffset": 95,
             "width": 200,
             "lines": [
-                "GNIIIIII! KIIIII!",
-                "J'l'ai eue!!!",
-                "HI KI KI KI KI KI!",
-                "C'est à moi!!!"
+                "GNIIIIII ! KIIIII !",
+                "J'l'ai eue !!!",
+                "HI KI KI KI KI KI !",
+                "C'est à moi !!!"
             ]
         },
         {
@@ -1988,11 +1988,11 @@
             "leftOffset": 95,
             "width": 200,
             "lines": [
-                "Aaaak...kiiii!!!",
-                "Arrête! Tu m'étrangles!",
-                "Quoi? Cette casquette?",
+                "Aaaak...kiiii !!!",
+                "Arrête ! Tu m'étrangles !",
+                "Quoi ? Cette casquette ?",
                 "OK, prends-la...",
-                "Grande brute, va!",
+                "Grande brute, va !",
                 "De toutes façons,",
                 "tu as l'air débile avec ça",
                 "sur la tête..."
@@ -2004,7 +2004,7 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Les Boos sont timides! Si",
+                "Les Boos sont timides ! Si",
                 "vous les regardez dans les",
                 "yeux, ils disparaîtront...",
                 "",
@@ -2014,7 +2014,7 @@
                 "invincibles...",
                 "Tentez de vous faufiler",
                 "derrière eux et de leur",
-                "botter les fesses!"
+                "botter les fesses !"
             ]
         },
         {
@@ -2051,8 +2051,8 @@
             "leftOffset": 95,
             "width": 200,
             "lines": [
-                "Canon prêt à tirer!",
-                "Allez, saute à l'intérieur!",
+                "Canon prêt à tirer !",
+                "Allez, saute à l'intérieur !",
                 "Tu peux atteindre l'étoile",
                 "sur l'île flottante en",
                 "utilisant les quatre",
@@ -2071,8 +2071,8 @@
             "leftOffset": 95,
             "width": 200,
             "lines": [
-                "Canon prêt à tirer!",
-                "Allez, saute à l'intérieur!"
+                "Canon prêt à tirer !",
+                "Allez, saute à l'intérieur !"
             ]
         },
         {
@@ -2082,10 +2082,10 @@
             "width": 200,
             "lines": [
                 "Les fantômes sont...",
-                "...immortels!",
+                "...immortels !",
                 "Hin hin hin hin...",
                 "Pourras-tu sortir d'ici...",
-                "...vivant?",
+                "...vivant ?",
                 "Gni hi hi hi hi hi..."
             ]
         },
@@ -2095,14 +2095,14 @@
             "leftOffset": 95,
             "width": 200,
             "lines": [
-                "GNI HI HI HI HI HOU!",
+                "GNI HI HI HI HI HOU !",
                 "Voici le seigneur des",
-                "supplices!",
+                "supplices !",
                 "Le maître des ombres...",
                 "Le souverain des",
                 "cauchemars...",
-                "Le Big Boo en personne!",
-                "Tremblez humains!!!",
+                "Le Big Boo en personne !",
+                "Tremblez humains !!!",
                 "GNA HI HOU HA HIN HU !"
             ]
         },
@@ -2112,12 +2112,12 @@
             "leftOffset": 95,
             "width": 200,
             "lines": [
-                "Oooooh Noooon!",
-                "Mon corps a fondu!",
+                "Oooooh Noooon !",
+                "Mon corps a fondu !",
                 "Tu ne pourrais pas",
-                "m'aider, petit homme?",
+                "m'aider, petit homme ?",
                 "J'ai besoin d'un nouveau",
-                "corps!",
+                "corps !",
                 "Je dois faire un golf",
                 "demain..."
             ]
@@ -2131,11 +2131,11 @@
                 "J'ai perdu la tête, on",
                 "dirait...",
                 "Connais-tu quelqu'un à la",
-                "recherche d'un corps?",
+                "recherche d'un corps ?",
                 "Je suis peut-être petit,",
-                "mais je grandis vite!",
+                "mais je grandis vite !",
                 "Guide-moi, je te suivrai",
-                "n'importe où!"
+                "n'importe où !"
             ]
         },
         {
@@ -2144,10 +2144,10 @@
             "leftOffset": 95,
             "width": 200,
             "lines": [
-                "Coooooool!",
-                "Quel super corps!",
+                "Coooooool !",
+                "Quel super corps !",
                 "Maintenant je vais",
-                "pouvoir aller draguer!",
+                "pouvoir aller draguer !",
                 "Tiens, voici un petit",
                 "quelque chose pour toi..."
             ]
@@ -2159,19 +2159,19 @@
             "width": 200,
             "lines": [
                 "Ramassez le plus de pièces",
-                "possible! Elles rempliront",
-                "votre énergie!",
+                "possible ! Elles rempliront",
+                "votre énergie !",
                 "",
-                "Vous pouvez jeter un oeil",
+                "Vous pouvez jeter un œil",
                 "au nombre de pièces que",
                 "vous avez récupérées dans",
                 "les 15 mondes.",
                 "Vous pouvez aussi remplir",
                 "votre énergie en touchant",
-                "un coeur!",
+                "un cœur !",
                 "",
                 "Si vous faites tourner le",
-                "coeur très vite, il vous",
+                "cœur très vite, il vous",
                 "donnera beaucoup",
                 "d'énergie..."
             ]
@@ -2201,23 +2201,23 @@
             "width": 200,
             "lines": [
                 "Ah c'est pas le moment",
-                "de venir m'embêter!",
+                "de venir m'embêter !",
                 "",
                 "Nous les pierres, on",
                 "construit des maisons et",
                 "des châteaux...",
                 "Et vous les humains, vous",
                 "ne pensez jamais à nous",
-                "dire merci!",
+                "dire merci !",
                 "Si tu restes là, je m'en",
                 "vais t'écraser la face",
                 "comme une vieille prune...",
                 "Crois-tu pouvoir faire",
                 "une Attaque Rodéo sur",
-                "mon dos?",
-                "Ça m'étonnerais!",
+                "mon dos ?",
+                "Ça m'étonnerais !",
                 "Allez... En garde, nabot",
-                "rouge et bleu!"
+                "rouge et bleu !"
             ]
         },
         {
@@ -2226,12 +2226,12 @@
             "leftOffset": 95,
             "width": 200,
             "lines": [
-                "Quoi? J'ai perdu?!?",
-                "Sacré nom d'un pétard!",
+                "Quoi ? J'ai perdu ?!?",
+                "Sacré nom d'un pétard !",
                 "Vous les humains, vous",
-                "n'avez aucun coeur...",
+                "n'avez aucun cœur...",
                 "Tiens, prends ça...",
-                "Et va-t'en!"
+                "Et va-t'en !"
             ]
         },
         {
@@ -2240,22 +2240,22 @@
             "leftOffset": 95,
             "width": 200,
             "lines": [
-                "Hein?/De quoi?",
-                "Moi? J'ai perdu?",
+                "Hein ?/De quoi ?",
+                "Moi ? J'ai perdu ?",
                 "Battu par un tout petit",
-                "bonhomme de rien du tout!",
+                "bonhomme de rien du tout !",
                 "Mais cela ne sera pas",
                 "aussi facile contre le",
-                "grand Bowser!",
-                "Oh que non!",
+                "grand Bowser !",
+                "Oh que non !",
                 "Tiens, voici l'étoile.",
                 "Dette de jeu...",
                 "Dette d'honneur...",
-                "Ciao petit Mario!",
+                "Ciao petit Mario !",
                 "Si tu veux me revoir,",
                 "choisis cette étoile sur",
                 "l'écran du départ.",
-                "A bientôt!"
+                "A bientôt !"
             ]
         },
         {
@@ -2280,8 +2280,8 @@
             "leftOffset": 95,
             "width": 200,
             "lines": [
-                "Qu...qu...qu...Hein?",
-                "Moi...perdu?...Hein?",
+                "Qu...qu...qu...Hein ?",
+                "Moi...perdu ?...Hein ?",
                 "Moi...faible...nul.",
                 "Toi...nouveau pharaon...",
                 "Tiens...pour toi...",
@@ -2294,16 +2294,16 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Grrrrr! Tu m'as surpris...",
-                "Je t'ai sous-estimé!",
-                "Petit mais costaud, hein?",
+                "Grrrrr ! Tu m'as surpris...",
+                "Je t'ai sous-estimé !",
+                "Petit mais costaud, hein ?",
                 "Mais Peach est toujours",
-                "ma prisonnière! Ha Ha!",
+                "ma prisonnière ! Ha Ha !",
                 "Ne t'inquiète pas, on se",
-                "reverra! Et la prochaine",
+                "reverra ! Et la prochaine",
                 "fois, je te mangerai les",
-                "doigts!",
-                "Allez, à bientôt! GWA HA!"
+                "doigts !",
+                "Allez, à bientôt ! GWA HA !"
             ]
         },
         {
@@ -2312,18 +2312,18 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Moi? Le grand Bowser?",
-                "Vaincu? Non, non!",
-                "Ça ne compte pas!",
-                "Je dormais! Tu as triché!",
+                "Moi ? Le grand Bowser ?",
+                "Vaincu ? Non, non !",
+                "Ça ne compte pas !",
+                "Je dormais ! Tu as triché !",
                 "La prochaine fois, je te",
-                "mangerai les oreilles!",
+                "mangerai les oreilles !",
                 "Si tu veux revoir ta",
                 "p'tite Peach, rejoins-moi",
                 "en haut de la tour...",
-                "Allez, à la prochaine!",
-                "GWA HA HA HA HA HA HA!",
-                "GWA HI HOU HÉ HEU...HA!"
+                "Allez, à la prochaine !",
+                "GWA HA HA HA HA HA HA !",
+                "GWA HI HOU HÉ HEU...HA !"
             ]
         },
         {
@@ -2332,22 +2332,22 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "NOoOoOoOoOoOoOoOon!",
-                "Mario... Méchant petit!",
+                "NOoOoOoOoOoOoOoOon !",
+                "Mario... Méchant petit !",
                 "Cette fois-ci...",
-                "...je suis cuit!!!",
+                "...je suis cuit !!!",
                 "Mes pouvoirs maléfiques",
-                "disparaissent!",
+                "disparaissent !",
                 "Toutes mes troupes sont",
-                "anéanties!",
+                "anéanties !",
                 "La paix, l'amour et",
-                "l'amitié sont de retour!",
-                "AaAaAaAaAargh!",
-                "C'est insupportable!",
+                "l'amitié sont de retour !",
+                "AaAaAaAaAargh !",
+                "C'est insupportable !",
                 "Mais je reviendrai...",
-                "Un jour... Je reviendrai!",
+                "Un jour... Je reviendrai !",
                 "Et ce jour-là...",
-                "Bye Bye Mario! BWA HA!!"
+                "Bye Bye Mario ! BWA HA !!"
             ]
         },
         {
@@ -2357,11 +2357,11 @@
             "width": 200,
             "lines": [
                 "-Le Trou Noir-",
-                "Droite: Plate-forme de",
+                "Droite : Plate-forme de",
                 "////travail.",
                 "////Labyrinthe",
                 "////toxique.",
-                "Gauche: Lac souterrain."
+                "Gauche : Lac souterrain."
             ]
         },
         {
@@ -2371,8 +2371,8 @@
             "width": 200,
             "lines": [
                 "-Caverne Métallique-",
-                "Droite: Vers la cascade.",
-                "Gauche: Interrupteur des",
+                "Droite : Vers la cascade.",
+                "Gauche : Interrupteur des",
                 "////casquettes-métal."
             ]
         },
@@ -2382,10 +2382,10 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Plate-forme de travail:",
-                "Danger!",
+                "Plate-forme de travail :",
+                "Danger !",
                 "Lire le mode d'emploi",
-                "attentivement!!!",
+                "attentivement !!!",
                 "Appuyez sur une flèche",
                 "pour déplacer la plate-",
                 "forme.",
@@ -2403,8 +2403,8 @@
             "width": 200,
             "lines": [
                 "Sortie du Labyrinthe",
-                "toxique... Fermée!",
-                "Faites demi-tour!"
+                "toxique... Fermée !",
+                "Faites demi-tour !"
             ]
         },
         {
@@ -2414,8 +2414,8 @@
             "width": 200,
             "lines": [
                 "-Ascenseur 1-",
-                "Haut:/ Trou Noir.",
-                "Droite: Plate-forme de",
+                "Haut :/ Trou Noir.",
+                "Droite : Plate-forme de",
                 "////travail.",
                 "////Labyrinthe",
                 "////toxique."
@@ -2428,9 +2428,9 @@
             "width": 200,
             "lines": [
                 "-Lac Souterrain-",
-                "Droite: Caverne",
+                "Droite : Caverne",
                 "////métallique.",
-                "Gauche: Mine abandonnée",
+                "Gauche : Mine abandonnée",
                 "////(Fermée).",
                 "Gros Bibi, un gentil",
                 "dragon, vit ici.",
@@ -2446,10 +2446,10 @@
             "width": 200,
             "lines": [
                 "Tu dois te battre avec",
-                "honneur! Il est interdit",
+                "honneur ! Il est interdit",
                 "de jeter une personnalité",
                 "royale hors de la surface",
-                "de combat!"
+                "de combat !"
             ]
         },
         {
@@ -2460,7 +2460,7 @@
             "lines": [
                 "Bienvenue dans",
                 "le niveau des casquettes",
-                "d'invisibilité!!!",
+                "d'invisibilité !!!",
                 "",
                 "",
                 "Si vous marchez sur",
@@ -2482,7 +2482,7 @@
             "width": 200,
             "lines": [
                 "Bienvenue dans le niveau",
-                "des casquettes-métal!!!",
+                "des casquettes-métal !!!",
                 "Si vous marchez sur",
                 "l'interrupteur vert, tous",
                 "les blocs verts",
@@ -2490,9 +2490,9 @@
                 "Si vous portez une",
                 "casquette-métal, vous",
                 "vous transformerez en",
-                "Métal Mario! Vous pourrez",
+                "Métal Mario ! Vous pourrez",
                 "alors marcher sous l'eau.",
-                "Faites un essai pour voir!"
+                "Faites un essai pour voir !"
             ]
         },
         {
@@ -2502,7 +2502,7 @@
             "width": 200,
             "lines": [
                 "Bienvenue dans le niveau",
-                "des casquettes ailées!!!",
+                "des casquettes ailées !!!",
                 "Marchez sur l'interrupteur",
                 "rouge au sommet de la",
                 "tour, au centre des",
@@ -2524,7 +2524,7 @@
                 "pour prendre de l'altitude",
                 "et vers le haut pour",
                 "piquer du nez. Imaginez-",
-                "vous à bord d'un 747!!!"
+                "vous à bord d'un 747 !!!"
             ]
         },
         {
@@ -2533,12 +2533,12 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Non, mais?",
-                "Tu...tu...t'es fou?",
-                "Tu triches?",
-                "OK! T'es disqualifié!",
-                "Tu l'auras pas volé!",
-                "Houuuuuu! Le tricheur!"
+                "Non, mais ?",
+                "Tu...tu...t'es fou ?",
+                "Tu triches ?",
+                "OK ! T'es disqualifié !",
+                "Tu l'auras pas volé !",
+                "Houuuuuu ! Le tricheur !"
             ]
         },
         {
@@ -2547,9 +2547,9 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Mario! C'est toi?",
+                "Mario ! C'est toi ?",
                 "Comme je suis heureux de",
-                "te voir!",
+                "te voir !",
                 "La Princesse, comme nous",
                 "tous, a été emprisonnée",
                 "dans les murs du château.",
@@ -2557,10 +2557,10 @@
                 "du château, et il utilise",
                 "leur puissance pour se",
                 "créer un monde dans les",
-                "tableaux et les murs!",
+                "tableaux et les murs !",
                 "",
                 "Je t'en prie, retrouve les",
-                "étoiles de puissance!",
+                "étoiles de puissance !",
                 "Grâce à elles, tu pourras",
                 "ouvrir les portes du",
                 "château que Bowser a",
@@ -2575,8 +2575,8 @@
                 "cette porte. Lorsque tu",
                 "auras récupéré 8 étoiles,",
                 "va ouvrir la porte avec la",
-                "grosse étoile: la Princesse",
-                "doit être de l'autre côté!"
+                "grosse étoile : la Princesse",
+                "doit être de l'autre côté !"
             ]
         },
         {
@@ -2587,7 +2587,7 @@
             "lines": [
                 "Le nom des étoiles inscrit",
                 "au début de chaque monde",
-                "est un indice!",
+                "est un indice !",
                 "",
                 "Tu peux récupérer les",
                 "étoiles dans n'importe",
@@ -2612,9 +2612,9 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Bowser a volé les étoiles!",
-                "Je l'ai vu!",
-                "De mes propres yeux!",
+                "Bowser a volé les étoiles !",
+                "Je l'ai vu !",
+                "De mes propres yeux !",
                 "Il faut que tu nous",
                 "viennes en aide, Mario...",
                 "",
@@ -2643,10 +2643,10 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Whoa!!! Tu as déjà",
-                "récupéré autant d'étoiles?",
-                "Incroyable! T'es fort, toi!",
-                "Mais fais attention:",
+                "Whoa !!! Tu as déjà",
+                "récupéré autant d'étoiles ?",
+                "Incroyable ! T'es fort, toi !",
+                "Mais fais attention :",
                 "Bowser et ses sbires sont",
                 "des durs à cuire...",
                 "N'oublie pas de récupérer",
@@ -2681,16 +2681,16 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Merci Mario!",
+                "Merci Mario !",
                 "Grâce à tes étoiles de",
                 "puissance, Bowser est allé",
                 "se réfugier dans une",
-                "autre partie du château!",
+                "autre partie du château !",
                 "Au fait, savais-tu qu'une",
                 "étoile de puissance",
                 "apparaît à chaque fois",
                 "que tu récupères 100",
-                "pièces dans un niveau?"
+                "pièces dans un niveau ?"
             ]
         },
         {
@@ -2700,9 +2700,9 @@
             "width": 200,
             "lines": [
                 "-Ascenseur 2-",
-                "Bas://Lac souterrain.",
-                "Gauche: Trou Noir.",
-                "Droite: Labyrinthe",
+                "Bas ://Lac souterrain.",
+                "Gauche : Trou Noir.",
+                "Droite : Labyrinthe",
                 "////toxique",
                 "////(fermé)."
             ]
@@ -2714,7 +2714,7 @@
             "width": 200,
             "lines": [
                 "",
-                "Au dessus:",
+                "Au dessus :",
                 "Chariot automatique.",
                 "",
                 "Le chariot se met en",
@@ -2733,12 +2733,12 @@
             "width": 200,
             "lines": [
                 "-Plate-forme de travail-",
-                "Droite: Entrée du",
+                "Droite : Entrée du",
                 "////Labyrinthe",
                 "////toxique.",
-                "Gauche: Trou Noir.",
+                "Gauche : Trou Noir.",
                 "////Ascenseur 1.",
-                "Flèche: Votre position",
+                "Flèche : Votre position",
                 "////actuelle."
             ]
         },
@@ -2749,9 +2749,9 @@
             "width": 200,
             "lines": [
                 "Vous avez récupéré une",
-                "des étoiles du château!",
+                "des étoiles du château !",
                 "Vous pouvez désormais",
-                "ouvrir certaines portes!",
+                "ouvrir certaines portes !",
                 "Essayez celle de la",
                 "chambre de la Princesse",
                 "Peach, en haut à droite",
@@ -2761,9 +2761,9 @@
                 "Forteresse de Whomp,",
                 "au rez-de-chaussée...",
                 "Les troupes de Bowser",
-                "sont encore nombreuses!",
+                "sont encore nombreuses !",
                 "Il faut les arrêter à tout",
-                "prix! Courage..."
+                "prix ! Courage..."
             ]
         },
         {
@@ -2773,7 +2773,7 @@
             "width": 200,
             "lines": [
                 "Vous avez récupéré trois",
-                "étoiles de puissance!",
+                "étoiles de puissance !",
                 "Désormais, vous pouvez",
                 "ouvrir les portes marquées",
                 "d'un 『3』.",
@@ -2784,7 +2784,7 @@
                 "",
                 "Les ennemis qui vous",
                 "attendent seront de plus",
-                "en plus costauds!",
+                "en plus costauds !",
                 "Alors, prudence..."
             ]
         },
@@ -2795,15 +2795,15 @@
             "width": 200,
             "lines": [
                 "Vous avez récupéré huit",
-                "étoiles de puissance!",
+                "étoiles de puissance !",
                 "Vous pouvez désormais",
                 "ouvrir la porte marquée",
-                "d'une grosse étoile!",
+                "d'une grosse étoile !",
                 "La Princesse est juste de",
                 "l'autre côté...",
                 "Pouvez-vous l'entendre",
-                "crier votre nom?",
-                "『Marioooooo!』"
+                "crier votre nom ?",
+                "『Marioooooo !』"
             ]
         },
         {
@@ -2813,18 +2813,18 @@
             "width": 200,
             "lines": [
                 "Vous avez récupéré 30",
-                "étoiles de puissance!",
+                "étoiles de puissance !",
                 "Vous pouvez désormais",
                 "ouvrir la porte marquée",
-                "d'une grosse étoile!",
+                "d'une grosse étoile !",
                 "Mais avant de foncer",
                 "comme un dingue vers la",
                 "porte, êtes-vous sûr de",
-                "n'avoir rien oublié?",
+                "n'avoir rien oublié ?",
                 "",
                 "Avez-vous enfoncé les",
-                "deux piliers? Avez-vous",
-                "toujours votre casquette?",
+                "deux piliers ? Avez-vous",
+                "toujours votre casquette ?",
                 "",
                 "",
                 "Si vous l'avez perdue",
@@ -2835,7 +2835,7 @@
                 "On dit que Bowser s'est",
                 "réfugié dans les",
                 "profondeurs de l'océan...",
-                "L'avez-vous rencontré?"
+                "L'avez-vous rencontré ?"
             ]
         },
         {
@@ -2845,14 +2845,14 @@
             "width": 200,
             "lines": [
                 "Vous avez récupéré 50",
-                "étoiles de puissance!",
+                "étoiles de puissance !",
                 "Vous pouvez désormais",
                 "ouvrir la porte marquée",
                 "d'une grosse étoile au",
                 "deuxième étage...",
                 "Avez-vous trouvé les trois",
-                "interrupteurs: rouge, vert",
-                "et bleu?",
+                "interrupteurs : rouge, vert",
+                "et bleu ?",
                 "Les casquettes provenant",
                 "des blocs de couleur",
                 "peuvent être très utiles...",
@@ -2868,14 +2868,14 @@
             "width": 200,
             "lines": [
                 "Vous avez récupéré 70",
-                "étoiles de puissance!",
+                "étoiles de puissance !",
                 "Désormais, vous pouvez",
                 "accéder en haut de",
                 "『l'escalier sans fin』...",
                 "Le terrible Bowser vous y",
                 "attend...",
                 "Etes-vous prêt à",
-                "l'affronter?"
+                "l'affronter ?"
             ]
         },
         {
@@ -2885,7 +2885,7 @@
             "width": 200,
             "lines": [
                 "Faites-vous bon usage",
-                "des casquettes spéciales?",
+                "des casquettes spéciales ?",
                 "Elles peuvent vous être",
                 "très utiles...",
                 "",
@@ -2911,7 +2911,7 @@
             "width": 200,
             "lines": [
                 "Montagne du Bonhomme de",
-                "neige.../DANGER!",
+                "neige.../DANGER !",
                 "Ne pas tenter le Triple",
                 "Saut au-dessus de la",
                 "machine à cracher des",
@@ -2920,7 +2920,7 @@
                 "vous fera vite perdre de",
                 "l'énergie de façon",
                 "permanente.",
-                "Alors, attention!",
+                "Alors, attention !",
                 "-Le Bonhomme de neige-"
             ]
         },
@@ -2931,7 +2931,7 @@
             "width": 200,
             "lines": [
                 "Voici la Glissade Secrète",
-                "de la Princesse Peach!",
+                "de la Princesse Peach !",
                 "Vous y trouverez une",
                 "étoile secrète que Bowser",
                 "n'a pas pu voler...",
@@ -2943,7 +2943,7 @@
                 "Si vous glissez très vite,",
                 "vous découvrirez une",
                 "des étoiles secrètes du",
-                "château!"
+                "château !"
             ]
         },
         {
@@ -2952,21 +2952,21 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Whoa! Va-z'y, lui!",
-                "T' as inondé ma zon-mé!!!",
-                "Pourquoi t'as fait ça, yo!",
-                "T'es pas cool, toi?",
-                "Regarde! Mon toit est",
+                "Whoa ! Va-z'y, lui !",
+                "T' as inondé ma zon-mé !!!",
+                "Pourquoi t'as fait ça, yo !",
+                "T'es pas cool, toi ?",
+                "Regarde ! Mon toit est",
                 "fichu, et mon plancher",
-                "est trempé!",
-                "NoOoOoOoOoOoOon!!!",
+                "est trempé !",
+                "NoOoOoOoOoOoOon !!!",
                 "Ça me rend ouf de voir",
-                "ça! Complètement chtarbé!",
+                "ça ! Complètement chtarbé !",
                 "C'est à cause de cette",
                 "étoile...",
                 "Je suis sûr qu'elle me",
                 "porte la poisse...",
-                "Saleté, va!"
+                "Saleté, va !"
             ]
         },
         {
@@ -2975,12 +2975,12 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Ah non! Ça suffit!",
+                "Ah non ! Ça suffit !",
                 "D'abord tu me mouilles,",
                 "ensuite tu m'écrases la",
                 "face...",
-                "Grrrr! Pas cool, Bob.",
-                "Tu cherches le contact?"
+                "Grrrr ! Pas cool, Bob.",
+                "Tu cherches le contact ?"
             ]
         },
         {
@@ -2989,8 +2989,8 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Gnaaaaa! Pov'type, va!",
-                "Tiens, la v'là ton étoile!",
+                "Gnaaaaa ! Pov'type, va !",
+                "Tiens, la v'là ton étoile !",
                 "J'm'en fiche...",
                 "J'peux en avoir d'autres.",
                 "Allez, à la prochaine...",
@@ -3003,13 +3003,13 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Hé! Qui va là?",
-                "Qui me grimpe dessus?",
-                "Une mouche?",
-                "Un moustique?",
-                "Un cafard?",
-                "T'as intérêt à dégager!",
-                "Sinon j'te souffle dessus!"
+                "Hé ! Qui va là ?",
+                "Qui me grimpe dessus ?",
+                "Une mouche ?",
+                "Un moustique ?",
+                "Un cafard ?",
+                "T'as intérêt à dégager !",
+                "Sinon j'te souffle dessus !"
             ]
         },
         {
@@ -3019,23 +3019,23 @@
             "width": 200,
             "lines": [
                 "Accroche-toi à ta",
-                "casquette! Si jamais tu",
+                "casquette ! Si jamais tu",
                 "la perds, retourne la",
                 "chercher là où tu l'as",
                 "perdue...",
                 "Sans elle tu peux te faire",
                 "très mal...",
-                "Alors, fais-y attention!",
+                "Alors, fais-y attention !",
                 "",
                 "",
                 "Au fait, la Princesse est",
                 "toujours emprisonnée dans",
-                "les murs du château!",
+                "les murs du château !",
                 "Sauve-la, mon mignon",
                 "Mario rouge et bleu...",
                 "Heu... Tu savais qu'il",
                 "existe aussi des niveaux",
-                "dans les murs, hein?"
+                "dans les murs, hein ?"
             ]
         },
         {
@@ -3048,17 +3048,17 @@
                 "étoiles, le château revient",
                 "peu à peu à la vie...",
                 "Je t'en prie Mario,",
-                "va affronter Bowser!",
+                "va affronter Bowser !",
                 "Connais-tu la salle du",
-                "miroir? Fais attention à",
+                "miroir ? Fais attention à",
                 "tout ce qui n'a pas de",
                 "reflet...",
                 "",
-                "Autre chose: rentre dans",
+                "Autre chose : rentre dans",
                 "le niveau Trempé-Séché",
                 "à l'aide d'un grand saut.",
                 "",
-                "Allez, courage camarade!"
+                "Allez, courage camarade !"
             ]
         },
         {
@@ -3082,10 +3082,10 @@
             "width": 200,
             "lines": [
                 "Attention aux sables",
-                "mouvants!",
+                "mouvants !",
                 "Si vous vous faites",
                 "avaler, tâchez de ne pas",
-                "boire la tasse!",
+                "boire la tasse !",
                 "Les zones sombres sont",
                 "des trous sans fond...",
                 "Alors, prudence jeune",
@@ -3147,36 +3147,36 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Mario!?!?!",
-                "C'est toi? Vraiment toi?",
+                "Mario !?!?!",
+                "C'est toi ? Vraiment toi ?",
                 "Ça fait un bout de temps",
-                "que je ne t'avais pas vu!",
-                "Tu as grossi, non?",
+                "que je ne t'avais pas vu !",
+                "Tu as grossi, non ?",
                 "On m'a dit de t'attendre",
                 "ici, mais je commençais",
                 "à perdre espoir...",
-                "Alors c'est vrai? Tu as",
-                "battu Bowser? Encore une",
-                "fois? Il n'abandonne",
+                "Alors c'est vrai ? Tu as",
+                "battu Bowser ? Encore une",
+                "fois ? Il n'abandonne",
                 "jamais ce gros reptile...",
                 "Tu as récupéré toutes les",
-                "étoiles? Tu as sauvé la",
-                "Princesse Peach?",
-                "T'es amoureux, non?",
+                "étoiles ? Tu as sauvé la",
+                "Princesse Peach ?",
+                "T'es amoureux, non ?",
                 "Tiens...",
                 "J'ai une lettre pour toi...",
                 "C'est peut-être une",
-                "admiratrice, qui sait?",
+                "admiratrice, qui sait ?",
                 "『Merci d'avoir joué au",
                 "plus beau jeu de toute la",
-                "galaxie:",
-                "MARIO 64!!!",
+                "galaxie :",
+                "MARIO 64 !!!",
                 "Il reste sûrement des",
                 "niveaux que vous ne",
-                "connaissez pas par coeur,",
+                "connaissez pas par cœur,",
                 "alors...",
-                "Voici quelques munitions!",
-                "A bientôt et merci!",
+                "Voici quelques munitions !",
+                "A bientôt et merci !",
                 "--Les créateurs de",
                 "/Mario 64..."
             ]
@@ -3187,22 +3187,22 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Oh, non!",
-                "Encore toi?",
-                "T'es amoureux, ou quoi?",
-                "Tu veux m'épouser?",
+                "Oh, non !",
+                "Encore toi ?",
+                "T'es amoureux, ou quoi ?",
+                "Tu veux m'épouser ?",
                 "Désolé, mais tu n'es pas",
                 "mon type...",
                 "Mon truc à moi, c'est les",
                 "femelles...",
-                "Ah! Tu veux peut-être",
-                "une étoile?",
-                "OK. Mais j'te préviens:",
-                "c'est la dernière fois!",
+                "Ah ! Tu veux peut-être",
+                "une étoile ?",
+                "OK. Mais j'te préviens :",
+                "c'est la dernière fois !",
                 "Ah... Autre chose...",
                 "",
-                "L CHE-MOI!!!!!",
-                "GRANDE BRUTE!!!!!"
+                "LÂCHE-MOI !!!!!",
+                "GRANDE BRUTE !!!!!"
             ]
         },
         {
@@ -3211,25 +3211,25 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "NoOoOoOoOoOoOoOon!!!",
-                "Tu...tu...tu m'as battu?",
-                "Moi?!? C'est illogique!",
-                "C'est moi le plus grand!",
-                "Quoi? Il y avait 120",
-                "étoiles en tout?!?",
+                "NoOoOoOoOoOoOoOon !!!",
+                "Tu...tu...tu m'as battu ?",
+                "Moi ?!? C'est illogique !",
+                "C'est moi le plus grand !",
+                "Quoi ? Il y avait 120",
+                "étoiles en tout ?!?",
                 "Heu......",
-                "Je le savais!",
-                "Aaaargh! Le château",
+                "Je le savais !",
+                "Aaaargh ! Le château",
                 "regagne tous ses pouvoirs,",
-                "c'est insupportable!",
-                "GnAaAaAaAaAaAaAaArgh!",
+                "c'est insupportable !",
+                "GnAaAaAaAaAaAaAaArgh !",
                 "A la prochaine, Mario...",
                 "Tu sais bien que je ne",
                 "suis pas du genre à",
-                "abandonner si facilement!",
-                "BWA HA HA HA HA HA HA!",
-                "GWA HI HA HI HOU HEU!",
-                "..... Atcha!"
+                "abandonner si facilement !",
+                "BWA HA HA HA HA HA HA !",
+                "GWA HI HA HI HOU HEU !",
+                "..... Atcha !"
             ]
         },
         {
@@ -3241,15 +3241,15 @@
                 "Beuuuuuuuu...",
                 "J'ai trop mangé, moi...",
                 "Beuuuuuuuu...",
-                "Mm? Qui es-tu?",
-                "Mario! Te voilà, rigolo!",
+                "Mm ? Qui es-tu ?",
+                "Mario ! Te voilà, rigolo !",
                 "Ça te dit une petite",
-                "course?",
-                "A moins que tu aies peur!",
-                "Alors, c'est d'accord?",
+                "course ?",
+                "A moins que tu aies peur !",
+                "Alors, c'est d'accord ?",
                 "Prêt...",
                 "",
-                "//Partez!//Heu, non!"
+                "//Partez !//Heu, non!"
             ]
         },
         {
@@ -3281,7 +3281,7 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "En route vers le château!",
+                "En route vers le château !",
                 "",
                 "Appuyez sur [A] pour sauter",
                 "et sur [Z] pour vous",
@@ -3299,12 +3299,12 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Hé! Lâche-moi un peu!",
+                "Hé ! Lâche-moi un peu !",
                 "Ça fait deux fois que tu",
                 "t'essuies les pieds sur",
-                "ma tête!",
-                "Tu m'cherches ou quoi?",
-                "Coup d'boule!!!!"
+                "ma tête !",
+                "Tu m'cherches ou quoi ?",
+                "Coup d'boule !!!!"
             ]
         },
         {
@@ -3313,198 +3313,275 @@
             "leftOffset": 30,
             "width": 200,
             "lines": [
-                "Dehors les touristes!",
+                "Dehors les touristes !",
                 "Cette caverne est très",
-                "dangereuse!!!",
-                "Alors... DEHORS!",
+                "dangereuse !!!",
+                "Alors... DEHORS !",
                 "/-- Le capitaine --"
             ]
         }
     ],
     "courses": [
         {
-            "course": " 1 BATAILLE DE BOB-OMB",
+            "course": " 1 Bataille De Bob-Omb",
             "acts": [
-                "ROI BOB-OMB DU SOMMET",
-                "COURSE CONTRE KOOPA-RAPIDO",
-                "CANON VERS L'ÎLE PERCHÉE",
-                "LES 8 PIÈCES ROUGES",
-                "VOL DU MARIO AILÉ",
-                "DERRIÈRE LA CAGE DE CHOMP"
+                "Roi Bob-Omb Au Sommet",
+                "Course Contre Koopa-Rapido",
+                "Canon Vers L'île Perchée",
+                "Les 8 Pièces Rouges",
+                "Vol Du Mario Ailé",
+                "Derrière La Cage De Chomp"
             ]
         },
         {
-            "course": " 2 FORTERESSE DE WHOMP",
+            "course": " 2 Forteresse De Whomp",
             "acts": [
-                "DESTRUCTION DU GROS WHOMP",
-                "EN HAUT DE LA FORTERESSE",
-                "CANON VERS LES CIEUX",
-                "PIÈCES ROUGES DANS LES AIRS",
-                "TOMBEZ DANS LA CAGE PERCHÉE",
-                "CANON VERS UN MUR..."
+                "Destruction Du Gros Whomp",
+                "En Haut De La Forteresse",
+                "Canon Vers Les Cieux",
+                "Pièces Rouges Dans Les Airs",
+                "Tombez Dans La Cage Perchée",
+                "Canon Vers Un Mur..."
             ]
         },
         {
-            "course": " 3 BAIE DES PIRATES",
+            "course": " 3 Baie Des Pirates",
             "acts": [
-                "PILLEZ LE BATEAU COULE",
-                "L'ANGUILLE VEUT FAIRE JOUJOU?",
-                "TRÉSOR DANS LA CAVERNE",
-                "PIÈCES ROUGES À BORD!",
-                "CANON VERS LES PILIERS",
-                "DANS LE GEYSER"
+                "Pillez Le Bateau Coulé",
+                "L'anguille Veut Faire Joujou ?",
+                "Trésor Dans La Caverne",
+                "Pièces Rouges À Bord !",
+                "Canon Vers Les Piliers",
+                "Dans Le Geyser"
             ]
         },
         {
-            "course": " 4 MONTAGNE GLA-GLA",
+            "course": " 4 Montagne Gla-Gla",
             "acts": [
-                "GLISSADE SUR GLACE",
-                "PETIT PINGOUIN PERDU",
-                "COURSE DU PINGOUIN",
-                "8 PIÈCES ROUGES GIVRÉES",
-                "BONHOMME DE NEIGE SANS TÊTE",
-                "MURS POUR REBONDIR"
+                "Glissade Sur Glace",
+                "Petit Pingouin Perdu",
+                "Course Du Pingouin",
+                "8 Pièces Rouges Givrées",
+                "Bonhomme De Neige Sans Tête",
+                "Murs Pour Rebondir"
             ]
         },
         {
-            "course": " 5 MANOIR DE BIG BOO",
+            "course": " 5 Manoir De Gros Boo",
             "acts": [
-                "CHERCHEZ LE BIG BOO",
-                "MANÈGE DES BOOS PAS BEAUX",
-                "SECRET DES LIVRES HANTÉS",
-                "TROUVEZ LES 8 PIÈCES ROUGES",
-                "BALCON DE BIG BOO",
-                "UN OEIL SUR LES SALLES SECRÈTES"
+                "Cherchez Le Gros Boo",
+                "Manège Des Boos Pas Beaux",
+                "Secret Des Livres Hantés",
+                "Trouvez Les 8 Pièces Rouges",
+                "Balcon De Gros Boo",
+                "Un Œil Sur Les Salles Secrètes"
             ]
         },
         {
-            "course": " 6 CAVERNE BRUMEUSE",
+            "course": " 6 Caverne Brumeuse",
             "acts": [
-                "GROS BIBI DE LA CAVERNE",
-                "CHARIOT POUR PIÈCES ROUGES",
-                "COURSE DE METAL MARIO",
-                "DANS LE LABYRINTHE TOXIQUE",
-                "AU-DESSUS DES GAZ...",
-                "ATTENTION AUX BOULETS"
+                "Gros Bibi De La Caverne",
+                "Chariot Pour Pièces Rouges",
+                "Course De Metal Mario",
+                "Dans Le Labyrinthe Toxique",
+                "Au-Dessus Des Gaz...",
+                "Attention Aux Boulets"
             ]
         },
         {
-            "course": " 7 LAVES FATALES",
+            "course": " 7 Laves Fatales",
             "acts": [
-                "CRAMEZ LE GROS MOCHE",
-                "POUSSEZ LES PETITS MOCHES",
-                "PUZZLE DE 8 PIÈCES ROUGES",
-                "BALADE SUR LA BÛCHE",
-                "CHAUD DANS LE VOLCAN",
-                "ASCENSEUR DANS LE VOLCAN"
+                "Cramez Le Gros Moche",
+                "Poussez Les Petits Moches",
+                "Puzzle De 8 Pièces Rouges",
+                "Balade Sur La Bûche",
+                "Chaud Dans Le Volcan",
+                "Ascenseur Dans Le Volcan"
             ]
         },
         {
-            "course": " 8 SABLES TROP MOUVANTS",
+            "course": " 8 Sables Trop Mouvants",
             "acts": [
-                "DANS LES GRIFFES DU VAUTOUR",
-                "AU SOMMET DE LA PYRAMIDE",
-                "DANS L'ANCIENNE PYRAMIDE",
-                "LES QUATRE PILIERS DE LA FOI",
-                "VOL VERS LES PIÈCES ROUGES",
-                "ENIGME DE LA PYRAMIDE"
+                "Dans Les Griffes Du Vautour",
+                "Au Sommet De La Pyramide",
+                "Dans L'ancienne Pyramide",
+                "Les Quatre Piliers De La Foi",
+                "Vol Vers Les Pièces Rouges",
+                "Enigme De La Pyramide"
             ]
         },
         {
-            "course": " 9 AFFREUX BASSIN",
+            "course": " 9 Affreux Bassin",
             "acts": [
-                "SOUS-MARIN DE BOWSER",
-                "COFFRES DANS LE COURANT",
-                "PERCHES POUR PIÈCES ROUGES",
-                "DANS LE GEYSER",
-                "RÉCOMPENSE DE LA RAIE",
-                "ASSOCIATION DE CASQUETTES..."
+                "Sous-Marin De Bowser",
+                "Coffres Dans Le Courant",
+                "Perches Pour Pièces Rouges",
+                "Dans Le Geyser",
+                "Récompense De La Raie",
+                "Association De Casquettes..."
             ]
         },
         {
-            "course": "10 CHEZ LE ROI DES NEIGES",
+            "course": "10 Chez Le Roi Des Neiges",
             "acts": [
-                "GROSSE TÊTE DU BONHOMME",
-                "COMBATTEZ LE GROS MOCHE GIVRE",
-                "DANS LE GLAÇON",
-                "VRILLE DEPUIS LE LAC",
-                "CARAPACE POUR PIÈCES ROUGES",
-                "DANS L'IGLOO"
+                "Grosse Tête Du Bonhomme",
+                "Combattez Le Gros Moche Givre",
+                "Dans Le Glaçon",
+                "Vrille Depuis Le Lac",
+                "Carapace Pour Pièces Rouges",
+                "Dans L'igloo"
             ]
         },
         {
-            "course": "11 MONDE TREMPE-SECHE",
+            "course": "11 Monde Trempé-Séché",
             "acts": [
-                "MINI PLATES-FORMES FLECHÉES!",
-                "SUR LES TOITS",
-                "ENIGME DES CHIFFRES CACHÉS",
-                "ASCENSEUR EXPRESS!",
-                "PIÈCES ROUGES: VILLE ENGLOUTIE",
-                "COURSE EN VILLE"
+                "Mini Plates-Formes Flechées !",
+                "Sur Les Toits",
+                "Énigme Des Chiffres Cachés",
+                "Ascenseur Express !",
+                "Pièces Rouges : Ville Engloutie",
+                "Course En Ville"
             ]
         },
         {
-            "course": "12 TROP HAUTE MONTAGNE",
+            "course": "12 Trop Haute Montagne",
             "acts": [
-                "ESCALADEZ LA MONTAGNE",
-                "MYSTÈRE DE LA CAGE DU SINGE",
-                "PIÈCES ROUGES SUR CHAMPIGNON",
-                "PAROI MYSTÉRIEUSE",
-                "PANORAMA DU PONT",
-                "CANON VERS LE CHAMPIGNON"
+                "Escaladez La Montagne",
+                "Mystère De La Cage Du Singe",
+                "Pièces Rouges Sur Champignon",
+                "Paroi Mystérieuse",
+                "Panorama Du Pont",
+                "Canon Vers Le Champignon"
             ]
         },
         {
-            "course": "13 ILE GRANDS-PETITS",
+            "course": "13 Île Grands-Petits",
             "acts": [
-                "DÉTRUISEZ LES MAXI-CARNIVORES",
-                "AU SOMMET DE L'ÎLE DES GÉANTS",
-                "KOOPA-RAPIDO, LA VENGEANCE",
-                "CINQ TOUT PETITS SECRETS",
-                "LES PIÈCES ROUGES DU GIGOTEUR",
-                "ÉNERVEZ LE GIGOTEUR"
+                "Détruisez Les Maxi-Carnivores",
+                "Au Sommet De L'île Des Géants",
+                "Koopa-Rapido, La Vengeance",
+                "Cinq Tout Petits Secrets",
+                "Les Pièces Rouges Du Gigoteur",
+                "Énervez Le Gigoteur"
             ]
         },
         {
-            "course": "14 HORLOGE TIC-TAC",
+            "course": "14 Horloge Tic-Tac",
             "acts": [
-                "ROULEMENTS DANS LA CAGE",
-                "LES TROUS ET LE PENDULE",
-                "CHEVAUCHEZ L'AIGUILLE",
-                "L'ECRABOUILLEUR",
-                "SAUTS SYNCHRONISÉS",
-                "L'HEURE PILE POUR LES PIÈCES"
+                "Roulements Dans La Cage",
+                "Les Trous Et Le Pendule",
+                "Chevauchez L'aiguille",
+                "L'écrabouilleur",
+                "Sauts Synchronisés",
+                "L'heure Pile Pour Les Pièces"
             ]
         },
         {
-            "course": "15 COURSE ARC-EN-CIEL",
+            "course": "15 Course Arc-En-Ciel",
             "acts": [
-                "CROISIÈRE SUR L'ARC-EN-CIEL",
-                "MANOIR DANS LES AIRS",
-                "LABYRINTHE DES PIÈCES ROUGES",
-                "BALANÇOIRE CÉLESTE",
-                "VICIEUX TRIANGLES!",
-                "L'ARC-EN-CIEL ET AU-DELÀ"
+                "Croisière Sur L'arc-En-Ciel",
+                "Manoir Dans Les Airs",
+                "Labyrinthe Des Pièces Rouges",
+                "Balançoire Céleste",
+                "Vicieux Triangles !",
+                "L'arc-En-Ciel Et Au-Delà"
             ]
         },
-        { "course": "CH TEAU", "acts": ["UNE ÉTOILE SECRÈTE DU CH TEAU"] }
+        { "course": "Château", "acts": ["Une Étoile Secrète Du Château !"] }
     ],
     "secrets": [
-        "   BOWSER DES TÉNÈBRES",
-        "   BOWSER DES LAVES",
-        "   BOWSER DES CIEUX",
-        "   GLISSADE DE LA PRINCESSE",
-        "   MINE DES CASQUETTES-METAL",
-        "   INTERRUPTEUR DE LA TOUR AILEE",
-        "   INVISIBLE SOUS LES DOUVES",
-        "   AU-DELA DE L'ARC-EN-CIEL",
-        "   AQUARIUM SECRET",
-        "   CASTLE SECRET STARS"
+        "   Bowser Des Ténèbres",
+        "   Bowser Des Laves",
+        "   Bowser Des Cieux",
+        "   Glissade De La Princesse",
+        "   Mine Des Casquettes-Métal",
+        "   Interrupteur De La Tour Ailée",
+        "   Invisible Sous Les Douves",
+        "   Au-Delà De L'arc-En-Ciel",
+        "   Aquarium Secret",
+        "   Étoiles Secrètes Du Château"
     ],
     "options": {
+        "TEXT_OPT_CHEAT1": "Activer les Codes de Triche",
+        "TEXT_OPT_CHEAT2": "Saut Infini (Appuyez L)",
+        "TEXT_OPT_CHEAT3": "Mario Invincible",
+        "TEXT_OPT_CHEAT4": "Vies Infinies",
+        "TEXT_OPT_CHEAT5": "Super Vitesse",
+        "TEXT_OPT_CHEAT6": "Contrôles super réactifs",
+        "TEXT_OPT_CHEAT7": "Quitter le niveau à tout moment",
+        "TEXT_OPT_CHEAT8": "Géant Mario",
+        "TEXT_OPT_CHEAT9": "Minuscule Mario",
+        "TEXT_OPT_COIN": "TRICHE PIÈCE (TENEZ [B])",
+        "TEXT_OPT_HOVER": "MODE FLOTTAGE",
+        "TEXT_OPT_MOON": "GRAVITÉ LUNAIRE",
+        "TEXT_OPT_RUN": "VITESSE DE COURSE",
+        "TEXT_OPT_NDB": "PAS DE BARRIÈRE FATALE",
+        "TEXT_OPT_JUMP": "TOUS LES SAUTS PLUS HAUT",
+        "TEXT_OPT_SPDDPS": "VITESSE D'AFFICHAGE",
+        "TEXT_OPT_TPF": "POSE (T) FLOTTAGE",
+        "TEXT_OPT_JB": "LISTE DE MUSIQUES",
+        "TEXT_OPT_JBC": "JOUE LA MUSIQUE",
+        "TEXT_OPT_QUIKEND": "FIN RAPIDE",
+        "TEXT_OPT_HURT": "DOMMAGES À MARIO L + [A]",
+        "TEXT_OPT_CANN": "CANON N'IMPORTE OÙ L + [C]^",
+        "TEXT_OPT_AWK": "WALL KICK AUTOMATIQUE",
+        "TEXT_OPT_SHELL": "OBTENIR CARAPACE L + [R]",
+        "TEXT_OPT_BOB": "OBTENIR BOB-OMB L + [B]",
+        "TEXT_OPT_SPAMBA": "SPAMBA L + [Z]",
+        "TEXT_OPT_SWIM": "NAGE RAPIDE",
+        "TEXT_OPT_WING_CAP": "OBTENIR CASQUETTE AILÉE",
+        "TEXT_OPT_METAL_CAP": "OBTENIR CASQUETTE MÉTAL",
+        "TEXT_OPT_VANISH_CAP": "OBTENIR CASQUETTE D'INVISIBILITÉ",
+        "TEXT_OPT_REMOVE_CAP": "ENLEVER CASQUETTE",
+        "TEXT_OPT_NORMAL_CAP": "RÉINITIALISER CASQUETTE",
+        "TEXT_OPT_BLJ": "BLJ N'IMPORTE OÙ",
+        "TEXT_OPT_PAC": "JOUER EN TANT QUE",
+        "TEXT_OPT_TRIPLE": "TOUS LES SAUT TRIPLÉS",
+        "TEXT_OPT_FLY": "VOLER",
+        "TEXT_OPT_NOB": "SANS LIMITES",
+        "TEXT_OPT_FLJ": "SAUT EN LONGUEUR AVANT",
+        "TEXT_OPT_TS": "ARRÊTE LE TEMPS",
+        "TEXT_OPT_COIN1": "ÉTEINT",
+        "TEXT_OPT_COIN2": "PIÈCE",
+        "TEXT_OPT_COIN3": "PIÈCE BLEUE",
+        "TEXT_OPT_COIN4": "PIÈCE ROUGE",
+        "TEXT_OPT_SS1": "NORMAL",
+        "TEXT_OPT_SS2": "LENT",
+        "TEXT_OPT_SS3": "PLUS LENT",
+        "TEXT_OPT_SS4": "RAPIDE",
+        "TEXT_OPT_SS5": "PLUS RAPIDE",
+        "TEXT_OPT_SEQ1": "HERBE",
+        "TEXT_OPT_SEQ2": "CHÂTEAU",
+        "TEXT_OPT_SEQ3": "EAU",
+        "TEXT_OPT_SEQ4": "CHAUD",
+        "TEXT_OPT_SEQ5": "BOWSER",
+        "TEXT_OPT_SEQ6": "NEIGE",
+        "TEXT_OPT_SEQ7": "GLISSE",
+        "TEXT_OPT_SEQ8": "EFFRAYANT",
+        "TEXT_OPT_SEQ9": "SOUTERRAIN",
+        "TEXT_OPT_SEQ10": "ROUTE KOOPA",
+        "TEXT_OPT_SEQ11": "BOWSER FINAL",
+        "TEXT_OPT_HURTCHT1": "DÉSACTIVÉ",
+        "TEXT_OPT_HURTCHT2": "BRÛLURE",
+        "TEXT_OPT_HURTCHT3": "CHOC",
+        "TEXT_OPT_HURTCHT4": "UN PV",
+        "TEXT_OPT_SPAMCHT1": "DÉSACTIVÉ",
+        "TEXT_OPT_SPAMCHT2": "AMP",
+        "TEXT_OPT_SPAMCHT3": "INTERRUPTEUR DE PIÈCE BLEUES",
+        "TEXT_OPT_SPAMCHT4": "BALLE DE BOWLING",
+        "TEXT_OPT_SPAMCHT5": "BOÎTE CASSABLE",
+        "TEXT_OPT_SPAMCHT6": "PETITE BOÎTE CASSABLE",
+        "TEXT_OPT_SPAMCHT7": "BOÎTE SAUTABLE",
+        "TEXT_OPT_SPAMCHT8": "PLATFORME D'ÉCHEC",
+        "TEXT_OPT_SPAMCHT9": "CHUCKYA",
+        "TEXT_OPT_SPAMCHT10": "FLYGUY",
+        "TEXT_OPT_SPAMCHT11": "GOOMBAS",
+        "TEXT_OPT_SPAMCHT12": "CŒUR",
+        "TEXT_OPT_SPAMCHT13": "BOÎTE DE METAL",
+        "TEXT_OPT_SPAMCHT14": "INTERRUPTEUR VIOLET",
         "TEXT_OPT_OPTIONS": "OPTIONS",
         "TEXT_OPT_CAMERA": "CAMERA",
-        "TEXT_OPT_CONTROLS": "CONTRÔLES",
+        "TEXT_OPT_CONTROLS": "CONTROLES",
         "TEXT_OPT_VIDEO": "AFFICHAGE",
         "TEXT_OPT_AUDIO": "SON",
         "TEXT_OPT_CHEATS": "CODES DE TRICHE",
@@ -3514,31 +3591,50 @@
         "TEXT_OPT_BUTTON1": "[R] Options",
         "TEXT_OPT_BUTTON2": "[R] Retour",
         "TEXT_OPT_ENABLED": "Activer",
-        "TEXT_OPT_DISABLED": "désactiver",
-        "TEXT_OPT_CAMX": "Sensibilité de l’angle de caméra X",
-        "TEXT_OPT_CAMY": "Sensibilité de l’angle de caméra Y",
+        "TEXT_OPT_DISABLED": "Désactiver",
+        "TEXT_OPT_CAMX": "Sensibilité de l'angle de caméra X",
+        "TEXT_OPT_CAMY": "Sensibilité de l'angle de caméra Y",
         "TEXT_OPT_INVERTX": "Inverser l'axe X",
         "TEXT_OPT_INVERTY": "Inverser l'axe Y",
-        "TEXT_OPT_CAMC": "Camera Centre Aggression",
-        "TEXT_OPT_CAMP": "Camera Pan Level",
-        "TEXT_OPT_CAMD": "Camera Deceleration",
+        "TEXT_OPT_CAMC": "Agressivité Centrage Caméra",
+        "TEXT_OPT_CAMP": "Niveau Panoramique Caméra",
+        "TEXT_OPT_CAMD": "Décéleration Caméra",
         "TEXT_OPT_CAMON": "Caméra Libre",
-        "TEXT_OPT_ANALOGUE": "Analogue Caméra",
-        "TEXT_OPT_MOUSE": "Regard avec souris",
-        "TEXT_OPT_TEXFILTER": "Filtrage de texture",
-        "TEXT_OPT_FSCREEN": "Plein écran",
-        "TEXT_OPT_NEAREST": "Proche",
+        "TEXT_OPT_ANALOGUE": "Caméra Analogique",
+        "TEXT_OPT_MOUSE": "Regard avec Souris",
+        "TEXT_OPT_TEXFILTER": "Filtrage de Texture",
+        "TEXT_OPT_FSCREEN": "Plein écran (Appliquer Requis)",
+        "TEXT_OPT_NEAREST": "Au Plus Proche",
         "TEXT_OPT_LINEAR": "Linéaire",
-        "TEXT_OPT_MVOLUME": "Volume principal",
+        "TEXT_OPT_MVOLUME": "Volume Principal",
         "TEXT_OPT_MUSVOLUME": "Volume Musique",
         "TEXT_OPT_SFXVOLUME": "Volume Effects",
-        "TEXT_OPT_ENVVOLUME": "Volume Environnement",
-        "TEXT_OPT_VSYNC": "Synchronisation Verticale",
-        "TEXT_OPT_DRAWDIST": "Draw Distance",
+        "TEXT_OPT_ENVVOLUME": "Volume Env",
+        "TEXT_OPT_MUSMUTE": "Musique Muette",
+        "TEXT_OPT_SFXMUTE": "Effets Muets",
+        "TEXT_OPT_ENVMUTE": "Env Muet",
+        "TEXT_OPT_VSYNC": "Synchronisation Verticale (Appliquer Requis)",
+        "TEXT_OPT_DRAWDIST": "Distance d'Affichage",
         "TEXT_OPT_AUTO": "Auto",
         "TEXT_OPT_HUD": "HUD",
         "TEXT_OPT_THREEPT": "Trois-points",
         "TEXT_OPT_APPLY": "Appliquer",
+        "TEXT_OPT_60FPS": "60 IPS",
+        "TEXT_OPT_INTERNAL_BOOL": "Activer Rés Interne (Expérimental)",
+        "TEXT_OPT_INTERNAL": "Résolution Interne",
+        "TEXT_OPT_RES1": "320x240",
+        "TEXT_OPT_RES2": "640x480",
+        "TEXT_OPT_RES3": "960x720",
+        "TEXT_OPT_RES4": "1440x1080",
+        "TEXT_OPT_RES5": "1920x1440",
+        "TEXT_OPT_RES6": "640x360",
+        "TEXT_OPT_RES7": "848x480",
+        "TEXT_OPT_RES8": "1280x720",
+        "TEXT_OPT_RES9": "1600x900",
+        "TEXT_OPT_RES10": "1920x1080",
+        "TEXT_OPT_RES11": "2560x1440",
+        "TEXT_OPT_RES12": "3840x2160",
+        "TEXT_OPT_FORCE4BY3": "Forcer 4:3 (Désactiver Rés Interne)",
         "TEXT_OPT_RESETWND": "Réinitialiser la fenêtre",
         "TEXT_BIND_A": "Bouton B",
         "TEXT_BIND_B": "Bouton B",
@@ -3554,168 +3650,388 @@
         "TEXT_BIND_DOWN": "Stick Bas",
         "TEXT_BIND_LEFT": "Stick Gauche",
         "TEXT_BIND_RIGHT": "Stick Droite",
-        "TEXT_OPT_DEADZONE": "Stick Zone-morte",
+        "TEXT_OPT_DEADZONE": "Zone-morte du Stick",
         "TEXT_OPT_RUMBLE": "Force de Vibration",
-        "TEXT_OPT_CHEAT1": "Activer les Codes de Triche ",
-        "TEXT_OPT_CHEAT2": "Saut Infini (Appuyez L)",
-        "TEXT_OPT_CHEAT3": "Mario Invincible",
-        "TEXT_OPT_CHEAT4": "Vies Infinies",
-        "TEXT_OPT_CHEAT5": "Super Vitesse",
-        "TEXT_OPT_CHEAT6": "Contrôles super réactifs",
-        "TEXT_OPT_CHEAT7": "Quitté le niveau à tout moment  ",
-        "TEXT_OPT_CHEAT8": "Géant Mario",
-        "TEXT_OPT_CHEAT9": "Minuscule Mario",
-		"TEXT_OPT_COIN": "TRICHE PIÈCE (TENEZ [B])",
-        "TEXT_OPT_HOVER": "MODE FLOTTAGE",
-        "TEXT_OPT_MOON": "GRAVITÉ DE LA LUNE",
-        "TEXT_OPT_RUN": "VITESSE DE COURSE",
-        "TEXT_OPT_NDB": "PAS DE BARRIÈRE DE MORT",
-        "TEXT_OPT_JUMP": "TOUS LES SAUTE PLUS HAUT",
-        "TEXT_OPT_SPDDPS": "VITESSE D'AFFICHAGE",
-        "TEXT_OPT_TPF": "POSE (T) FLOTAGE",
-        "TEXT_OPT_JB": "LISTE DE CHANSSONS",
-        "TEXT_OPT_JBC": "JOUE LA MUSIQUE",
-        "TEXT_OPT_QUIKEND": "FIN RAPIDE",
-        "TEXT_OPT_HURT": "BLESSE MARIO L + [A]",
-        "TEXT_OPT_CANN": "CANNON N'IMPORTE OÙ L + [C]^",
-        "TEXT_OPT_AWK": "WALL KICK AUTOMATIQUE",
-        "TEXT_OPT_SHELL": "OBTENEZ CARAPACE L + [R]",
-        "TEXT_OPT_BOB": "OBTENEZ BOBOMB L + [B]",
-        "TEXT_OPT_SPAMBA": "SPAMBA L + [Z]",
-        "TEXT_OPT_SWIM": "NAGE RAPIDE",
-        "TEXT_OPT_WING_CAP": "OBTENEZ CASQUETTE AILÉ",
-        "TEXT_OPT_METAL_CAP": "OBTENEZ CASQUETTE METAL",
-        "TEXT_OPT_VANISH_CAP": "GET CASQUETTE D'INVISIBILITÉ",
-        "TEXT_OPT_REMOVE_CAP": "ENLEVER CASQUETTE",
-        "TEXT_OPT_NORMAL_CAP": "RÉINITIALISE CASQUETTE",
-        "TEXT_OPT_BLJ": "BLJ N'IMPORTE OÙ",
-        "TEXT_OPT_PAC": "JOUER EN TANT",
-        "TEXT_OPT_TRIPLE": "TOUS LES SAUT TRIPLÉS",
-        "TEXT_OPT_FLY": "VOLE",
-        "TEXT_OPT_NOB": "SANS LIMITES",
-        "TEXT_OPT_FLJ": "SAUT EN LONGUEUR AVANT",
-        "TEXT_OPT_TS": "ARRÊTE LE TEMPS",
-        "TEXT_OPT_COIN1": "ÉTEINT",
-        "TEXT_OPT_COIN2": "PIÈCE",
-        "TEXT_OPT_COIN3": "PIÈCE BLEUE",
-        "TEXT_OPT_COIN4": "PIÈCE ROUGE",
-        "TEXT_OPT_SS1": "NORMAL",
-        "TEXT_OPT_SS2": "LENT",
-        "TEXT_OPT_SS3": "PLUS LENT",
-        "TEXT_OPT_SS4": "VITE",
-        "TEXT_OPT_SS5": "PLUS VITE",
-        "TEXT_OPT_PA1": "DÉSACTIVÉ",
-        "TEXT_OPT_PA2": "BOBOMB NOIRE",
-        "TEXT_OPT_PA3": "BOBOMB ROSE",
-        "TEXT_OPT_PA4": "GOOMBA",
-        "TEXT_OPT_PA5": "CARAPACE DE KOOPA",
-        "TEXT_OPT_PA6": "CHUCKYA",
-        "TEXT_OPT_PA7": "FLYGUY",
-        "TEXT_OPT_PA8": "PAR NIVEAU",
-        "TEXT_OPT_SEQ1": "INTRO",
-        "TEXT_OPT_SEQ2": "HERBE",
-        "TEXT_OPT_SEQ3": "CHÂTEAU",
-        "TEXT_OPT_SEQ4": "EAU",
-        "TEXT_OPT_SEQ5": "CHAUD",
-        "TEXT_OPT_SEQ6": "BOWSER",
-        "TEXT_OPT_SEQ7": "NEIGE",
-        "TEXT_OPT_SEQ8": "GLISSE",
-        "TEXT_OPT_SEQ9": "EFFRAYENT",
-        "TEXT_OPT_SEQ10": "SOUTERRAIN",
-        "TEXT_OPT_SEQ11": "ROUTE KOOPA",
-        "TEXT_OPT_SEQ12": "BOWSER FINAL",
-        "TEXT_OPT_SEQ13": "TITRE",
-        "TEXT_OPT_SEQ14": "FICHIER SELECTION",
-        "TEXT_OPT_SEQ15": "POUVOIR",
-        "TEXT_OPT_SEQ16": "CASQUETTE METAL",
-        "TEXT_OPT_SEQ17": "BOSS",
-        "TEXT_OPT_SEQ18": "MANÈGE",
-        "TEXT_OPT_SEQ19": "CRÉDIT",
-        "TEXT_OPT_HURTCHT1": "DÉSACTIVÉ",
-        "TEXT_OPT_HURTCHT2": "BRULE",
-        "TEXT_OPT_HURTCHT3": "SHOC",
-        "TEXT_OPT_HURTCHT4": "UN HP",
-        "TEXT_OPT_SPAMCHT1": "DÉSACTIVÉ",
-        "TEXT_OPT_SPAMCHT2": "AMP",
-        "TEXT_OPT_SPAMCHT3": "INTERRUPTEUR DE PIÈCE BLEUES",
-        "TEXT_OPT_SPAMCHT4": "BALLE DE BOWLING",
-        "TEXT_OPT_SPAMCHT5": "BOÎTE CASSABLE",
-        "TEXT_OPT_SPAMCHT6": "PETITE BOÎTE CASSABLE",
-        "TEXT_OPT_SPAMCHT7": "BOÎTE SAUTABLE",
-        "TEXT_OPT_SPAMCHT8": "PLATFORME D'ÉCHEC",
-        "TEXT_OPT_SPAMCHT9": "CHUCKYA",
-        "TEXT_OPT_SPAMCHT10": "FLYGUY",
-        "TEXT_OPT_SPAMCHT11": "GOOMBAS",
-        "TEXT_OPT_SPAMCHT12": "COEUR",
-        "TEXT_OPT_SPAMCHT13": " BOÎTE DE METAL",
-        "TEXT_OPT_SPAMCHT14": "INTERRUPTEUR VIOLET",
-        "TEXT_OPT_BLJCHT1": "DÉSACTIVER",
-        "TEXT_OPT_BLJCHT2": "ACTIVÉ",
-        "TEXT_OPT_BLJCHT3": "ACTIVÉ - BOOST: 1",
-        "TEXT_OPT_BLJCHT4": "ACTIVÉ - BOOST: 2",
-        "TEXT_OPT_BLJCHT5": "ACTIVÉ - BOOST: 3",
-        "TEXT_OPT_BLJCHT6": "ACTIVÉ - BOOST: 4",
-        "TEXT_OPT_BLJCHT7": "ACTIVÉ - BOOST: 5",
-        "TEXT_OPT_BLJCHT8": "TIR RAPIDE",
-        "TEXT_OPT_BLJCHT9": "TIR RAPIDE - BOOST: 1",
-        "TEXT_OPT_BLJCHT10": "TIR RAPIDE - BOOST: 2",
-        "TEXT_OPT_BLJCHT11": "TIR RAPIDE - BOOST: 3",
-        "TEXT_OPT_BLJCHT12": "TIR RAPIDE - BOOST: 4",
-        "TEXT_OPT_BLJCHT13": "TIR RAPIDE - BOOST: 5",
+        "TEXT_OPT_PA1": "Désactivé",
+        "TEXT_OPT_PA2": "Bob-omb",
+        "TEXT_OPT_PA3": "Bob-omb Rose",
+        "TEXT_OPT_PA4": "Goomba",
+        "TEXT_OPT_PA5": "Carapace de Koopa",
+        "TEXT_OPT_PA6": "Chuckya",
+        "TEXT_OPT_PA7": "Flyguy",
+        "TEXT_OPT_PA8": "Par Niveau",
+        "TEXT_OPT_BLJCHT1": "Désactiver",
+        "TEXT_OPT_BLJCHT2": "Activé",
+        "TEXT_OPT_BLJCHT3": "Activé - Boost : 1",
+        "TEXT_OPT_BLJCHT4": "Activé - Boost : 2",
+        "TEXT_OPT_BLJCHT5": "Activé - Boost : 3",
+        "TEXT_OPT_BLJCHT6": "Activé - Boost : 4",
+        "TEXT_OPT_BLJCHT7": "Activé - Boost : 5",
+        "TEXT_OPT_BLJCHT8": "Tir Rapide",
+        "TEXT_OPT_BLJCHT9": "Tir Rapide - Boost : 1",
+        "TEXT_OPT_BLJCHT10": "Tir Rapide - Boost : 2",
+        "TEXT_OPT_BLJCHT11": "Tir Rapide - Boost : 3",
+        "TEXT_OPT_BLJCHT12": "Tir Rapide - Boost : 4",
+        "TEXT_OPT_BLJCHT13": "Tir Rapide - Boost : 5",
         "TEXT_OPT_GAME": "JEU",
         "TEXT_OPT_LANGUAGE": "Langue Actuelle",
-        "TEXT_OPT_PRECACHE": "Precache Textures",
-        "TEXT_OPT_SWITCH_HUD": "Switch HUD"
+        "TEXT_OPT_PRECACHE": "Précache des Textures",
+        "TEXT_OPT_SWITCH_HUD": "Switch HUD",
+        "TEXT_OPT_BILLBOARDS": "Désactiver Panneaux",
+
+        "TEXT_OPT_RT64": "RAYTRACING",
+        "TEXT_OPT_TARGETFPS": "IPS Cibles",
+        "TEXT_OPT_UPSCALER": "Upscaleur",
+        "TEXT_OPT_UPSMODE": "Mode",
+        "TEXT_OPT_UPSSHARP": "Netteté",
+        "TEXT_OPT_RESSCALE": "Échelle de Résolution",
+        "TEXT_OPT_MAXLIGHTS": "Lumières Max",
+        "TEXT_OPT_SPHEREL": "Lumières de Sphere",
+        "TEXT_OPT_GI": "Illumination Globale",
+        "TEXT_OPT_DENOISER": "Débruitage",
+        "TEXT_OPT_MOTBLUR": "Flou de Mouvement",
+        "TEXT_OPT_UPSCALER_OFF": "Désactivé",
+        "TEXT_OPT_UPSCALER_AUTO": "Auto",
+        "TEXT_OPT_UPSCALER_DLSS": "NVIDIA DLSS",
+        "TEXT_OPT_UPSCALER_FSR": "AMD FSR",
+        "TEXT_OPT_UPSCALER_XESS": "Intel XeSS",
+        "TEXT_OPT_UPSCALER_ULTP": "Performances Ultra",
+        "TEXT_OPT_UPSCALER_PERF": "Performances",
+        "TEXT_OPT_UPSCALER_BAL": "Équilibré",
+        "TEXT_OPT_UPSCALER_QUAL": "Qualité",
+        "TEXT_OPT_UPSCALER_ULTQ": "Qualité Ultra",
+        "TEXT_OPT_UPSCALER_NAT": "Native",
+        "TEXT_BIND_D_UP": "Croix Haut",
+        "TEXT_BIND_D_DOWN": "Croix Bas",
+        "TEXT_BIND_D_LEFT": "Croix Gauche",
+        "TEXT_BIND_D_RIGHT": "Croix Droite",
+        "TEXT_BIND_TIME_STOP": "Touche Arrêt Temps",
+        "TEXT_BIND_SPAMBA_CONTROLS": "Contrôles Spamba",
+
+        "TEXT_OPT_CHEAT_CATEGORY_CLASSIC_TITLE": "CLASSIQUE",
+        "TEXT_OPT_CHEAT_CATEGORY_MODIFIERS_TITLE": "MODIFICATEURS",
+        "TEXT_OPT_CHEAT_CATEGORY_TIME_SPACE_TITLE": "ESPACE TEMPS",
+        "TEXT_OPT_CHEAT_CATEGORY_CLASSIC_LABEL": "Classique",
+        "TEXT_OPT_CHEAT_CATEGORY_MODIFIERS_LABEL": "Modificateurs",
+        "TEXT_OPT_CHEAT_CATEGORY_TIME_SPACE_LABEL": "Espace-Temps",
+        "TEXT_OPT_CHEAT_DISABLE_ALL_CHEATS": "Désactiver Tous les Cheats",
+
+        "TEXT_OPT_CHEAT_ENABLE_CHEATS": "Activer les Cheats",
+        "TEXT_OPT_CHEAT_SPAMBA": "Spamba",
+        "TEXT_OPT_CHEAT_CHAOS_MODE": "Mode Chaos",
+
+        "TEXT_OPT_CHEAT_MOON_JUMP": "Saut Lunaire (Garder L Enfoncé)",
+        "TEXT_OPT_CHEAT_GOD_MODE": "God Mode",
+        "TEXT_OPT_CHEAT_INFINITE_LIVES": "Vies Infinies",
+        "TEXT_OPT_CHEAT_RESPONSIVE": "Contrôles Super Responsifs",
+        "TEXT_OPT_CHEAT_MOON_GRAVITY": "Gravité Lunaire",
+        "TEXT_OPT_CHEAT_DEBUG_MOVE": "Mode Flottage",
+        "TEXT_OPT_CHEAT_SUPER_COPTER": "Super Copter (Garder A Enfoncé)",
+        "TEXT_OPT_CHEAT_AUTO_WALL_KICK": "Wall-kicks Auto",
+        "TEXT_OPT_CHEAT_NO_HOLD_HEAVY": "Pas de Charge de Portage",
+
+        "TEXT_OPT_CHEAT_SPEED_MODIFIER": "Modificateur de Vitesse",
+        "TEXT_OPT_CHEAT_JUMP_MODIFIER": "Modificateur de Saut",
+        "TEXT_OPT_CHEAT_SWIM_MODIFIER": "Modificateur de Nage",
+        "TEXT_OPT_CHEAT_SIZE_MODIFIER": "Modificateur de Taille",
+        "TEXT_OPT_CHEAT_CAP_MODIFIER": "Modificateur de Casquette (L + Croix)",
+        "TEXT_OPT_CHEAT_SUPER_WING_CAP": "Super Casquette Ailée",
+        "TEXT_OPT_CHEAT_PLAY_AS": "Jouer En Tant Que",
+        "TEXT_OPT_CHEAT_JUKEBOX": "Jukebox",
+        "TEXT_OPT_CHEAT_JUKEBOX_MUSIC": "Musique du Jukebox",
+        "TEXT_OPT_CHEAT_SPEED_DISPLAY": "Affichage de Vitesse",
+        
+        "TEXT_OPT_CHEAT_BLJ_ANYWHERE": "BLJ N'importe Où",
+        "TEXT_OPT_CHEAT_SWIM_ANYWHERE": "Nage N'importe Où",
+        "TEXT_OPT_CHEAT_EXIT_ANYWHERE": "Sortie N'importe Où",
+        "TEXT_OPT_CHEAT_WALK_ON_HAZARDS": "Marcher sur les Dangers",
+        "TEXT_OPT_CHEAT_NO_DEATH_BARRIER": "Pas de Barrière Fatale",
+        "TEXT_OPT_CHEAT_NO_BOUNDS": "Pas de Limites",
+        "TEXT_OPT_CHEAT_WATER_LEVEL": "Niveau de l'Eau",
+        "TEXT_OPT_CHEAT_COINS_MAGNET": "Aimant à Pièces",
+        "TEXT_OPT_CHEAT_TIME_STOP": "Arrêt du Temps",
+        "TEXT_OPT_CHEAT_QUICK_ENDING": "Fin Rapide",
+        "TEXT_OPT_CHEAT_HURT_MARIO": "Dommages à Mario (L + A)",
+
+        "TEXT_OPT_CHEAT_MODIFIER_X1": "1x",
+        "TEXT_OPT_CHEAT_MODIFIER_X2": "2x",
+        "TEXT_OPT_CHEAT_MODIFIER_X3": "3x",
+        "TEXT_OPT_CHEAT_MODIFIER_X4": "4x",
+        "TEXT_OPT_CHEAT_MODIFIER_X5": "5x",
+        
+        "TEXT_OPT_CHEAT_SIZE_X1": "1x",
+        "TEXT_OPT_CHEAT_SIZE_X2": "2x",
+        "TEXT_OPT_CHEAT_SIZE_X3": "3x",
+        "TEXT_OPT_CHEAT_SIZE_X4": "4x",
+        "TEXT_OPT_CHEAT_SIZE_X0": "0x",
+        "TEXT_OPT_CHEAT_SIZE_X0_25": "0.25x",
+        "TEXT_OPT_CHEAT_SIZE_X0_5": "0.5x",
+        "TEXT_OPT_CHEAT_SIZE_X0_75": "0.75x",
+
+        "TEXT_OPT_CHEAT_HURT_DISABLED": "Désactivé",
+        "TEXT_OPT_CHEAT_HURT_KNOCKBACK": "Recul",
+        "TEXT_OPT_CHEAT_HURT_SHOCK": "Choc",
+        "TEXT_OPT_CHEAT_HURT_BURN": "Brûlure",
+        "TEXT_OPT_CHEAT_HURT_LAVA_BOOST": "Boost de Lave",
+        "TEXT_OPT_CHEAT_HURT_SQUISH": "Écrasement",
+        "TEXT_OPT_CHEAT_HURT_STUCK": "Coincé",
+        "TEXT_OPT_CHEAT_HURT_1_HP": "1 Point de Vie",
+
+        "TEXT_OPT_CHEAT_WATER_LEVEL_DEFAULT": "Par Défaut",
+        "TEXT_OPT_CHEAT_WATER_LEVEL_DRAINED": "Drainé",
+        "TEXT_OPT_CHEAT_WATER_LEVEL_FLOODED": "Inondé",
+
+        "TEXT_OPT_CHEAT_JUKEBOX_BOB": "Bataille De Bob-Omb",
+        "TEXT_OPT_CHEAT_JUKEBOX_WF": "Forteresse De Whomp",
+        "TEXT_OPT_CHEAT_JUKEBOX_CCM": "Montagne Gla-Gla",
+        "TEXT_OPT_CHEAT_JUKEBOX_CCM_SLIDE": "Course Du Pingouin",
+        "TEXT_OPT_CHEAT_JUKEBOX_JRB_PHASE_1": "Baie Des Pirates (Phase 1)",
+        "TEXT_OPT_CHEAT_JUKEBOX_JRB_PHASE_2": "Baie Des Pirates (Phase 2)",
+        "TEXT_OPT_CHEAT_JUKEBOX_JRB_PHASE_3": "Baie Des Pirates (Phase 3)",
+        "TEXT_OPT_CHEAT_JUKEBOX_JRB_SHIP": "Baie Des Pirates (Bateau Coulé)",
+        "TEXT_OPT_CHEAT_JUKEBOX_BBH_PHASE_1": "Manoir De Gros Boo (Phase 1)",
+        "TEXT_OPT_CHEAT_JUKEBOX_BBH_PHASE_2": "Manoir De Gros Boo (Phase 2)",
+        "TEXT_OPT_CHEAT_JUKEBOX_HMC_PHASE_1": "Caverne Brumeuse (Phase 1)",
+        "TEXT_OPT_CHEAT_JUKEBOX_HMC_PHASE_2": "Caverne Brumeuse (Phase 2)",
+        "TEXT_OPT_CHEAT_JUKEBOX_LLL_OUTSIDE": "Laves Fatales (Dehors)",
+        "TEXT_OPT_CHEAT_JUKEBOX_LLL_VOLCANO": "Laves Fatales (Volcan)",
+        "TEXT_OPT_CHEAT_JUKEBOX_SSL_OUTSIDE": "Sables Trop Mouvants (Dehors)",
+        "TEXT_OPT_CHEAT_JUKEBOX_SSL_PYRAMID": "Sables Trop Mouvants (Pyramide)",
+        "TEXT_OPT_CHEAT_JUKEBOX_SSL_EYEROK": "Sables Trop Mouvants (Eyerock)",
+        "TEXT_OPT_CHEAT_JUKEBOX_DDD_PHASE_1": "Affreux Bassin (Phase 1)",
+        "TEXT_OPT_CHEAT_JUKEBOX_DDD_PHASE_2": "Affreux Bassin (Phase 2)",
+        "TEXT_OPT_CHEAT_JUKEBOX_DDD_PHASE_3": "Affreux Bassin (Phase 3)",
+        "TEXT_OPT_CHEAT_JUKEBOX_SL_OUTSIDE": "Chez Le Roi Des Neiges (Dehors)",
+        "TEXT_OPT_CHEAT_JUKEBOX_SL_IGLOO": "Chez Le Roi Des Neiges (Igloo)",
+        "TEXT_OPT_CHEAT_JUKEBOX_WDW_MAIN": "Monde Trempé-Séché (Principal)",
+        "TEXT_OPT_CHEAT_JUKEBOX_WDW_TOWN": "Monde Trempé-Séché (Ville)",
+        "TEXT_OPT_CHEAT_JUKEBOX_TTM_OUTSIDE": "Trop Haute Montagne (Dehors)",
+        "TEXT_OPT_CHEAT_JUKEBOX_TTM_SLIDE": "Trop Haute Montagne (Glissade)",
+        "TEXT_OPT_CHEAT_JUKEBOX_THI_HUGE": "Île Grands-Petits (Grand)",
+        "TEXT_OPT_CHEAT_JUKEBOX_THI_TINY": "Île Grands-Petits (Petit)",
+        "TEXT_OPT_CHEAT_JUKEBOX_THI_WIGGLER": "Île Grands-Petits (Chambre du Gigoteur)",
+        "TEXT_OPT_CHEAT_JUKEBOX_TTC": "Horloge Tic-Tac",
+        "TEXT_OPT_CHEAT_JUKEBOX_RR": "Course Arc-En-Ciel",
+        "TEXT_OPT_CHEAT_JUKEBOX_BITDW": "Bowser Des Ténèbres",
+        "TEXT_OPT_CHEAT_JUKEBOX_BITFS": "Bowser Des Laves",
+        "TEXT_OPT_CHEAT_JUKEBOX_BITS": "Bowser Des Cieux",
+        "TEXT_OPT_CHEAT_JUKEBOX_SA": "Aquarium Secret",
+        "TEXT_OPT_CHEAT_JUKEBOX_WMOTR": "Au-Delà De L'arc-En-Ciel",
+        "TEXT_OPT_CHEAT_JUKEBOX_PSS": "Glissade De La Princesse",
+        "TEXT_OPT_CHEAT_JUKEBOX_COTMC": "Mine Des Casquettes-Métal",
+        "TEXT_OPT_CHEAT_JUKEBOX_TOTWC": "Interrupteur De La Tour Ailée",
+        "TEXT_OPT_CHEAT_JUKEBOX_VCUTM": "Invisible Sous Les Douves",
+        "TEXT_OPT_CHEAT_JUKEBOX_BOWSER_1": "Bowser 1",
+        "TEXT_OPT_CHEAT_JUKEBOX_BOWSER_2": "Bowser 2",
+        "TEXT_OPT_CHEAT_JUKEBOX_BOWSER_3": "Bowser 3",
+        "TEXT_OPT_CHEAT_JUKEBOX_INSIDE_CASTLE_LOBBY": "Château (Intérieur)",
+        "TEXT_OPT_CHEAT_JUKEBOX_INSIDE_CASTLE_TIPPY": "Château (Étage)",
+        "TEXT_OPT_CHEAT_JUKEBOX_INSIDE_CASTLE_BASEMENT": "Château (Sous-Sol)",
+        "TEXT_OPT_CHEAT_JUKEBOX_CASTLE_GROUNDS": "Château",
+        "TEXT_OPT_CHEAT_JUKEBOX_CASTLE_COURTYARD": "Cour Du Château",
+        "TEXT_OPT_CHEAT_JUKEBOX_FOURTH_FLOOR": "Quatrième Étage",
+        "TEXT_OPT_CHEAT_JUKEBOX_CAP_WING": "Casquette Ailée",
+        "TEXT_OPT_CHEAT_JUKEBOX_CAP_VANISH": "Casquette d'Invisibilité",
+        "TEXT_OPT_CHEAT_JUKEBOX_CAP_METAL": "Casquette Métal",
+        "TEXT_OPT_CHEAT_JUKEBOX_SHELL": "Carapace",
+        "TEXT_OPT_CHEAT_JUKEBOX_RACE": "Course",
+        "TEXT_OPT_CHEAT_JUKEBOX_BOSS_INTRO": "Boss (Intro)",
+        "TEXT_OPT_CHEAT_JUKEBOX_BOSS_THEME": "Boss",
+        "TEXT_OPT_CHEAT_JUKEBOX_GOT_MILK": "Vous Avez Du Lait ?",
+        
+        "TEXT_OPT_CHEAT_JUKEBOX_TITLE_SCREEN": "Écran Titre",
+        "TEXT_OPT_CHEAT_JUKEBOX_FILE_SELECT": "Sélection Fichier",
+        "TEXT_OPT_CHEAT_JUKEBOX_PIRANHA_PLANT": "Berceuse Du Piranha",
+        "TEXT_OPT_CHEAT_JUKEBOX_MERRY_GO_ROUND": "Manège",
+        "TEXT_OPT_CHEAT_JUKEBOX_ENDLESS_STAIRS": "Escaliers Infinis",
+
+        "TEXT_OPT_CHEAT_SPAMBA_YELLOW_COIN": "PIÈCE JAUNE",
+        "TEXT_OPT_CHEAT_SPAMBA_RED_COIN": "PIÈCE ROUGE",
+        "TEXT_OPT_CHEAT_SPAMBA_BLUE_COIN": "PIÈCE BLEUE",
+        "TEXT_OPT_CHEAT_SPAMBA_MUSHROOM_1UP": "CHAMPIGNON 1UP",
+        "TEXT_OPT_CHEAT_SPAMBA_STAR_1": "ÉTOILE 1",
+        "TEXT_OPT_CHEAT_SPAMBA_STAR_2": "ÉTOILE 2",
+        "TEXT_OPT_CHEAT_SPAMBA_STAR_3": "ÉTOILE 3",
+        "TEXT_OPT_CHEAT_SPAMBA_STAR_4": "ÉTOILE 4",
+        "TEXT_OPT_CHEAT_SPAMBA_STAR_5": "ÉTOILE 5",
+        "TEXT_OPT_CHEAT_SPAMBA_STAR_6": "ÉTOILE 6",
+        "TEXT_OPT_CHEAT_SPAMBA_STAR_7": "ÉTOILE 100 PIÈCES",
+        "TEXT_OPT_CHEAT_SPAMBA_WING_CAP": "CASQUETTE AILÉE",
+        "TEXT_OPT_CHEAT_SPAMBA_VANISH_CAP": "CASQUETTE D'INVISIBILITÉ",
+        "TEXT_OPT_CHEAT_SPAMBA_METAL_CAP": "CASQUETTE MÉTAL",
+        "TEXT_OPT_CHEAT_SPAMBA_NORMAL_CAP": "CASQUETTE NORMALE",
+        "TEXT_OPT_CHEAT_SPAMBA_RECOVERY_HEART": "CŒUR ÉNERGIE",
+        "TEXT_OPT_CHEAT_SPAMBA_GOOMBA": "GOOMBA",
+        "TEXT_OPT_CHEAT_SPAMBA_GOOMBA_TRIPLET": "GOOMBAS TRIPLÉS",
+        "TEXT_OPT_CHEAT_SPAMBA_KOOPA": "KOOPA",
+        "TEXT_OPT_CHEAT_SPAMBA_KOOPA_SHELL": "CARAPACE KOOPA",
+        "TEXT_OPT_CHEAT_SPAMBA_BOBOMB": "BOB-OMB",
+        "TEXT_OPT_CHEAT_SPAMBA_BOBOMB_BUDDY": "AMI BOB-OMB",
+        "TEXT_OPT_CHEAT_SPAMBA_CHAIN_CHOMP": "CHAIN CHOMP",
+        "TEXT_OPT_CHEAT_SPAMBA_PIRANHA_PLANT": "PLANTE PIRANHA",
+        "TEXT_OPT_CHEAT_SPAMBA_PIRANHA_PLANT_FIRE": "PLANTE PIRANHA DE FEU",
+        "TEXT_OPT_CHEAT_SPAMBA_WHOMP": "WHOMP",
+        "TEXT_OPT_CHEAT_SPAMBA_SPINDRIFT": "SPINDRIFT",
+        "TEXT_OPT_CHEAT_SPAMBA_BOO": "BOO",
+        "TEXT_OPT_CHEAT_SPAMBA_MR_I": "MR I",
+        "TEXT_OPT_CHEAT_SPAMBA_BOOK": "LIVRE",
+        "TEXT_OPT_CHEAT_SPAMBA_SCUTTLEBUG": "SCUTTLEBUG",
+        "TEXT_OPT_CHEAT_SPAMBA_SWOOP": "SWOOP",
+        "TEXT_OPT_CHEAT_SPAMBA_SNUFIT": "SNUFIT",
+        "TEXT_OPT_CHEAT_SPAMBA_BULLY": "BULLY",
+        "TEXT_OPT_CHEAT_SPAMBA_CHILL_BULLY": "CHILL BULLY",
+        "TEXT_OPT_CHEAT_SPAMBA_MOTOS": "MOTOS",
+        "TEXT_OPT_CHEAT_SPAMBA_BLARGG": "BLARGG",
+        "TEXT_OPT_CHEAT_SPAMBA_POKEY": "POKEY",
+        "TEXT_OPT_CHEAT_SPAMBA_FLYGUY": "FLYGUY",
+        "TEXT_OPT_CHEAT_SPAMBA_MONEYBAG": "MONEYBAG",
+        "TEXT_OPT_CHEAT_SPAMBA_CHUCKYA": "CHUCKYA",
+        "TEXT_OPT_CHEAT_SPAMBA_SKEETER": "SKEETER",
+        "TEXT_OPT_CHEAT_SPAMBA_LAKITU": "LAKITU",
+        "TEXT_OPT_CHEAT_SPAMBA_SPINY": "SPINY",
+        "TEXT_OPT_CHEAT_SPAMBA_BOWLING_BALL": "BALLE DE BOWLING",
+        "TEXT_OPT_CHEAT_SPAMBA_CLAM": "CLAM",
+        "TEXT_OPT_CHEAT_SPAMBA_MR_BLIZZARD": "MR BLIZZARD",
+        "TEXT_OPT_CHEAT_SPAMBA_HAUNTED_CHAIR": "CHAISE HANTÉE",
+        "TEXT_OPT_CHEAT_SPAMBA_MAD_PIANO": "PIANO FOU",
+        "TEXT_OPT_CHEAT_SPAMBA_BIG_BOULDER": "GROS ROCHER",
+        "TEXT_OPT_CHEAT_SPAMBA_FIRE_SPITTER": "CRACHEUR DE FEU",
+        "TEXT_OPT_CHEAT_SPAMBA_FLAMETHROWER": "LANCE FLAMMES",
+        "TEXT_OPT_CHEAT_SPAMBA_BOUNCING_FIREBALL": "BOULE DE FEU",
+        "TEXT_OPT_CHEAT_SPAMBA_CIRCLING_AMP": "CIRCLING AMP",
+        "TEXT_OPT_CHEAT_SPAMBA_HOMING_AMP": "HOMING AMP",
+        "TEXT_OPT_CHEAT_SPAMBA_HEAVE_HO": "HEAVE HO",
+        "TEXT_OPT_CHEAT_SPAMBA_KING_BOBOMB": "ROI BOB-OMB",
+        "TEXT_OPT_CHEAT_SPAMBA_KING_WHOMP": "ROI WHOMP",
+        "TEXT_OPT_CHEAT_SPAMBA_BIG_BOO": "GROS BOO",
+        "TEXT_OPT_CHEAT_SPAMBA_BIG_BULLY": "GROS BULLY",
+        "TEXT_OPT_CHEAT_SPAMBA_BIG_CHILL_BULLY": "GROS CHILL BULLY",
+        "TEXT_OPT_CHEAT_SPAMBA_EYEROCK": "EYEROCK",
+        "TEXT_OPT_CHEAT_SPAMBA_WIGGLER": "GIGOTEUR",
+        "TEXT_OPT_CHEAT_SPAMBA_BOWSER": "BOWSER",
+        "TEXT_OPT_CHEAT_SPAMBA_HOOT": "HOOT",
+        "TEXT_OPT_CHEAT_SPAMBA_PENGUIN": "PINGOUIN",
+        "TEXT_OPT_CHEAT_SPAMBA_MOTHER_PENGUIN": "MÈRE PINGOUIN",
+        "TEXT_OPT_CHEAT_SPAMBA_KLEPTO": "KLEPTO",
+        "TEXT_OPT_CHEAT_SPAMBA_UKIKI": "UKIKI",
+        "TEXT_OPT_CHEAT_SPAMBA_TOAD": "TOAD",
+        "TEXT_OPT_CHEAT_SPAMBA_SIGNPOST": "PANNEAU",
+        "TEXT_OPT_CHEAT_SPAMBA_CANNON": "CANON",
+        "TEXT_OPT_CHEAT_SPAMBA_BREAKABLE_BOX": "BOÎTE CASSABLE",
+        "TEXT_OPT_CHEAT_SPAMBA_BREAKABLE_BOX_SMALL": "PETITE BOÎTE",
+        "TEXT_OPT_CHEAT_SPAMBA_CRAZY_BOX": "BOÎTE FOLLE",
+        "TEXT_OPT_CHEAT_SPAMBA_EXCLAMATION_BOX_WING_CAP": "BOÎTE EXCL CASQUETTE AILÉE",
+        "TEXT_OPT_CHEAT_SPAMBA_EXCLAMATION_BOX_METAL_CAP": "BOÎTE EXCL CASQUETTE MÉTAL",
+        "TEXT_OPT_CHEAT_SPAMBA_EXCLAMATION_BOX_VANISH_CAP": "BOÎTE EXCL CASQUETTE D'INVISIBILITÉ",
+        "TEXT_OPT_CHEAT_SPAMBA_EXCLAMATION_BOX_KOOPA_SHELL": "BOÎTE EXCL CARAPACE KOOPA",
+        "TEXT_OPT_CHEAT_SPAMBA_EXCLAMATION_BOX_ONE_COIN": "BOÎTE EXCL 1 PIÈCE",
+        "TEXT_OPT_CHEAT_SPAMBA_EXCLAMATION_BOX_THREE_COINS": "BOÎTE EXCL 3 PIÈCES",
+        "TEXT_OPT_CHEAT_SPAMBA_EXCLAMATION_BOX_TEN_COINS": "BOÎTE EXCL 10 PIÈCES",
+        "TEXT_OPT_CHEAT_SPAMBA_EXCLAMATION_BOX_MUSHROOM_1UP": "BOÎTE EXCL CHAMPIGNON 1UP",
+        "TEXT_OPT_CHEAT_SPAMBA_EXCLAMATION_BOX_STAR_1": "BOÎTE EXCL ÉTOILE 1",
+        "TEXT_OPT_CHEAT_SPAMBA_EXCLAMATION_BOX_STAR_2": "BOÎTE EXCL ÉTOILE 2",
+        "TEXT_OPT_CHEAT_SPAMBA_EXCLAMATION_BOX_STAR_3": "BOÎTE EXCL ÉTOILE 3",
+        "TEXT_OPT_CHEAT_SPAMBA_EXCLAMATION_BOX_STAR_4": "BOÎTE EXCL ÉTOILE 4",
+        "TEXT_OPT_CHEAT_SPAMBA_EXCLAMATION_BOX_STAR_5": "BOÎTE EXCL ÉTOILE 5",
+        "TEXT_OPT_CHEAT_SPAMBA_EXCLAMATION_BOX_STAR_6": "BOÎTE EXCL ÉTOILE 6",
+        "TEXT_OPT_CHEAT_SPAMBA_METAL_BOX": "BOÎTE MÉTAL",
+        "TEXT_OPT_CHEAT_SPAMBA_THWOMP": "THWOMP",
+        "TEXT_OPT_CHEAT_SPAMBA_GRINDEL": "GRINDEL",
+        "TEXT_OPT_CHEAT_SPAMBA_GRINDEL_HORIZONTAL": "GRINDEL HORIZONTAL",
+        "TEXT_OPT_CHEAT_SPAMBA_SPINDEL": "SPINDEL",
+        "TEXT_OPT_CHEAT_SPAMBA_TOX_BOX": "BOÎTE TOX",
+
+        "TEXT_OPT_CHEAT_CHAOS_TEXT": "PROCHAIN EFFET DANS",
+        "TEXT_OPT_CHEAT_CHAOS_LIFE_DRAIN": "DRAINAGE DE VIE",
+        "TEXT_OPT_CHEAT_CHAOS_CONTROLS": "CONTRÔLES CHAOTIQUES",
+        "TEXT_OPT_CHEAT_CHAOS_GRAVITY": "GRAVITÉ ALTÉRÉE",
+        "TEXT_OPT_CHEAT_CHAOS_WALL_KICKS": "WALL KICKS OU BONKS",
+        "TEXT_OPT_CHEAT_CHAOS_HOLD_MODIFIER": "MODIFICATEUR DE PORTAGE",
+        "TEXT_OPT_CHEAT_CHAOS_SPEED_MODIFIER": "MODIFICATEUR DE VITESSE",
+        "TEXT_OPT_CHEAT_CHAOS_JUMP_MODIFIER": "MODIFICATEUR DE SAUT",
+        "TEXT_OPT_CHEAT_CHAOS_SWIM_MODIFIER": "MODIFICATEUR DE NAGE",
+        "TEXT_OPT_CHEAT_CHAOS_SIZE_MODIFIER": "MODIFICATEUR DE TAILLE",
+        "TEXT_OPT_CHEAT_CHAOS_CAP_MODIFIER": "MODIFICATEUR DE CASQUETTE",
+        "TEXT_OPT_CHEAT_CHAOS_PLAY_AS": "PAS MARIO",
+        "TEXT_OPT_CHEAT_CHAOS_RELEASIO": "PHYSIQUES RELEASIO",
+        "TEXT_OPT_CHEAT_CHAOS_SWIM_ANYWHERE": "NAGE N'IMPORTE OÙ",
+        "TEXT_OPT_CHEAT_CHAOS_FLOOR_IS_LAVA": "LE SOL EST DE LAVE",
+        "TEXT_OPT_CHEAT_CHAOS_DEADLY_OBJECTS": "OBJETS MORTELS",
+        "TEXT_OPT_CHEAT_CHAOS_NO_BOUNDS": "PAS DE LIMITES",
+        "TEXT_OPT_CHEAT_CHAOS_WATER_LEVEL": "NIVEAU DE L'EAU",
+        "TEXT_OPT_CHEAT_CHAOS_OBJECT_MAGNET": "AIMANT À OBJETS",
+        "TEXT_OPT_CHEAT_CHAOS_SLOW_TIME": "TEMPS RALENTI",
+        "TEXT_OPT_CHEAT_CHAOS_HURT_MARIO": "DOMMAGES À MARIO",
+        "TEXT_OPT_CHEAT_CHAOS_DISPLAY": "ÉCRAN CHAOTIQUE",
+        "TEXT_OPT_CHEAT_CHAOS_RAINBOW": "EFFET ARC-EN-CIEL",
+        "TEXT_OPT_CHEAT_CHAOS_INVERTED_SCREEN": "ÉCRAN INVERSÉ",
+        "TEXT_OPT_CHEAT_CHAOS_WIREFRAME": "FIL DE FER",
+        "TEXT_OPT_CHEAT_CHAOS_JACKPOT": "JACKPOT",
+        "TEXT_OPT_CHEAT_CHAOS_GREEN_DEMON": "DÉMON VERT",
+        "TEXT_OPT_CHEAT_CHAOS_STAR": "OBTENIR UNE ÉTOILE",
+        "TEXT_OPT_CHEAT_CHAOS_GOOMBA_PLAGUE": "PESTE GOOMBA",
+        "TEXT_OPT_CHEAT_CHAOS_BOBOMB_RAIN": "PLUIE DE BOB-OMB",
+        "TEXT_OPT_CHEAT_CHAOS_CHAIRS": "CHAISES",
+        "TEXT_OPT_CHEAT_CHAOS_STALKERS": "HARCELEURS",
+        "TEXT_OPT_CHEAT_CHAOS_SHOOTERS": "TIREURS",
+        "TEXT_OPT_CHEAT_CHAOS_CHUCKSTERS": "CHUCKSTERS",
+        "TEXT_OPT_CHEAT_CHAOS_DODGEBALL": "BALLON_CHASSEUR",
+        "TEXT_OPT_CHEAT_CHAOS_BOSS_FIGHT": "COMBAT DE BOSS",
+        "TEXT_OPT_CHEAT_CHAOS_BOWSER_TIME": "TEMPS DE BOWSER",
+        "TEXT_OPT_CHEAT_CHAOS_HOOT": "HOOT",
+        "TEXT_OPT_CHEAT_CHAOS_NPCS": "NPCS BAVARDS",
+        "TEXT_OPT_CHEAT_CHAOS_MINECRAFT": "MINECRAFT",
+        "TEXT_OPT_CHEAT_CHAOS_SURPRISE": "BOÎTES SURPRISE"
     },
     "strings": {
         "TEXT_ZERO": "0",
         "TEXT_COIN": "$",
-        "TEXT_STAR": "{09733}",
-        "TEXT_COIN_X": "${00215}",
-        "TEXT_STAR_X": "{09733}{00215}",
-        "TEXT_VARIABLE_X": "{00215}",
-        "TEXT_UNFILLED_STAR": "{09734}",
+        "TEXT_STAR": "★",
+        "TEXT_COIN_X": "$×",
+        "TEXT_STAR_X": "★×",
+        "TEXT_VARIABLE_X": "×",
+        "TEXT_UNFILLED_STAR": "☆",
         "TEXT_NEW": "VIDE",
         "TEXT_4DASHES": "----",
         "TEXT_PAUSE": "PAUSE",
-        "TEXT_HUD_CONGRATULATIONS": "FÉLICITATIONS",
+        "TEXT_HUD_CONGRATULATIONS": "FELICITATIONS",
         "TEXT_MARIO": "MARIO",
-        "TEXT_SELECT_FILE": "CHOISIR FICHIER",
-        "TEXT_CHECK_FILE": "VÉRIFIER FICHIER",
-        "TEXT_COPY_FILE": "COPIER FICHIER",
-        "TEXT_ERASE_FILE": "ÉFFACER FICHIER",
-        "TEXT_SOUND_SELECT": "SÉLECTION DE SON",
+        "TEXT_SELECT_FILE": "CHOISIR",
+        "TEXT_CHECK_FILE": "VERIFIER",
+        "TEXT_COPY_FILE": "COPIER",
+        "TEXT_ERASE_FILE": "ECRASER",
+        "TEXT_SOUND_SELECT": "SELECTION SON",
         "TEXT_FILE_MARIO_A": "MARIO A",
         "TEXT_FILE_MARIO_B": "MARIO B",
         "TEXT_FILE_MARIO_C": "MARIO C",
         "TEXT_FILE_MARIO_D": "MARIO D",
         "TEXT_SCORE": "SCORE",
         "TEXT_COPY": "COPIER",
-        "TEXT_ERASE": "ÉFFACER",
-        "TEXT_STEREO": "STEREO",
+        "TEXT_ERASE": "EFFACER",
+        "TEXT_STEREO": "STÉRÉO",
         "TEXT_MONO": "MONO",
         "TEXT_HEADSET": "CASQUE",
-        "TEXT_SAVED_DATA_EXISTS": "SAUVEGARDE EXISTE",
-        "TEXT_NO_SAVED_DATA_EXISTS": "AUCUN SAUVEGARDE EXISTE",
+        "TEXT_SAVED_DATA_EXISTS": "SAUVEGARDE EXISTANTE",
+        "TEXT_NO_SAVED_DATA_EXISTS": "AUCUNE SAUVEGARDE EXISTANTE",
         "TEXT_RETURN": "RETOUR",
-        "TEXT_CHECK_SCORE": "VÉRIFIER SCORE",
-        "TEXT_COPY_FILE_BUTTON": "COPIER FICHIER",
-        "TEXT_ERASE_FILE_BUTTON": "ÉFFACER FICHIER",
-        "TEXT_HI_SCORE": "HI SCORE",
+        "TEXT_CHECK_SCORE": "VÉRIFIER",
+        "TEXT_COPY_FILE_BUTTON": "COPIER",
+        "TEXT_ERASE_FILE_BUTTON": "EFFACER",
+        "TEXT_HI_SCORE": "MEILLEUR SCORE",
         "TEXT_MY_SCORE": "MON SCORE",
-        "TEXT_SCORE_MARIO_A": "{09786}A",
-        "TEXT_SCORE_MARIO_B": "{09786}B",
-        "TEXT_SCORE_MARIO_C": "{09786}C",
-        "TEXT_SCORE_MARIO_D": "{09786}D",
-        "TEXT_COPY_IT_TO_WHERE": "COPIER OU?",
+        "TEXT_SCORE_MARIO_A": "☺A",
+        "TEXT_SCORE_MARIO_B": "☺B",
+        "TEXT_SCORE_MARIO_C": "☺C",
+        "TEXT_SCORE_MARIO_D": "☺D",
+        "TEXT_COPY_IT_TO_WHERE": "COPIER VERS ?",
         "TEXT_COPYING_COMPLETED": "COPIE TERMINÉE",
         "TEXT_NO_FILE_TO_COPY_FROM": "AUCUN FICHIER VIDE",
-        "TEXT_SURE": "CERTAIN?",
+        "TEXT_SURE": "CERTAIN ?",
         "TEXT_YES": "OUI",
         "TEXT_NO": "NON",
         "TEXT_FILE_MARIO_A_JUST_ERASED": "MARIO A EST EFFACÉ",
-        "TEXT_COURSE": "COURSE",
-        "TEXT_MYSCORE": "MONSCORE",
+        "TEXT_COURSE": "NIVEAU",
+        "TEXT_MYSCORE": "MON SCORE",
         "TEXT_CONTINUE": "CONTINUER",
         "TEXT_EXIT_COURSE": "QUITTER NIVEAU",
         "TEXT_EXIT_GAME": "QUITTER JEU",
@@ -3726,19 +4042,19 @@
         "TEXT_NORMAL_FIXED": "(NORMAL)(FIXÉ)",
         "TEXT_CATCH": "CAPTURE",
         "TEXT_CLEAR": "CLAIRE",
-        "TEXT_HUD_HI_SCORE": "HI SCORE",
+        "TEXT_HUD_HI_SCORE": "MEILLEUR SCORE",
         "TEXT_SAVE_AND_CONTINUE": "SAUVEGARDER ET CONTINUER",
         "TEXT_SAVE_AND_QUIT": "SAUVEGARDER ET QUITTER",
         "TEXT_SAVE_EXIT_GAME": "SAUVEGARDER ET QUITTER JEU",
         "TEXT_CONTINUE_WITHOUT_SAVING": "CONTINUER, NE PAS SAUVEGARDER",
-        "TEXT_FILE_MARIO_EXCLAMATION": "Mario!",
+        "TEXT_FILE_MARIO_EXCLAMATION": "Mario !",
         "TEXT_POWER_STARS_RESTORED": "Le pouvoir des étoiles est revenu au château...",
-        "TEXT_THANKS_TO_YOU": "...et c’est tout grâce à toi!",
-        "TEXT_THANK_YOU_MARIO": "Merci beaucoup, Mario!",
+        "TEXT_THANKS_TO_YOU": "...et c'est tout grâce à toi !",
+        "TEXT_THANK_YOU_MARIO": "Merci beaucoup, Mario !",
         "TEXT_SOMETHING_SPECIAL": "On doit faire quelque chose de spécial pour toi...",
         "TEXT_LISTEN_EVERYBODY": "Écoutez tous,",
         "TEXT_LETS_HAVE_CAKE": "faisons cuire un délicieux gâteau...",
         "TEXT_FOR_MARIO": "...pour Mario...",
-        "TEXT_FILE_MARIO_QUESTION": "Mario!"
+        "TEXT_FILE_MARIO_QUESTION": "Mario !"
     }
 }
