@@ -74,12 +74,12 @@
     "dynos_warp_to_level": "Aller",
 
     "dynos_warp_to_castle_submenu": "Aller au Ch{00226}teau",
-    "dynos_warp_to_castle_submenu_title": "ALLER AU CH{00194}TEAU",
+    "dynos_warp_to_castle_submenu_title": "ALLER AU CHATEAU",
     "dynos_warp_castle": "Sortie du Niveau",
     "dynos_warp_to_castle": "Aller",
 
     "dynos_model_loader_submenu": "Packs de Mod{00232}les",
-    "dynos_model_loader_submenu_title": "PACKS DE MOD{00200}LES",
+    "dynos_model_loader_submenu_title": "PACKS DE MODELES",
     "dynos_packs_disable_all": "D{00233}sactiver tous les packs"
   }
 }
