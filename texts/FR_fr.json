@@ -2168,10 +2168,10 @@
                 "les 15 mondes.",
                 "Vous pouvez aussi remplir",
                 "votre {00233}nergie en touchant",
-                "un coeur !",
+                "un c{00339}ur !",
                 "",
                 "Si vous faites tourner le",
-                "coeur tr{00232}s vite, il vous",
+                "c{00339}ur tr{00232}s vite, il vous",
                 "donnera beaucoup",
                 "d'{00233}nergie..."
             ]
@@ -2229,7 +2229,7 @@
                 "Quoi ? J'ai perdu ?!?",
                 "Sacr{00233} nom d'un p{00233}tard !",
                 "Vous les humains, vous",
-                "n'avez aucun coeur...",
+                "n'avez aucun c{00339}ur...",
                 "Tiens, prends {00231}a...",
                 "Et va-t'en !"
             ]
@@ -3173,7 +3173,7 @@
                 "MARIO 64 !!!",
                 "Il reste s{00251}rement des",
                 "niveaux que vous ne",
-                "connaissez pas par coeur,",
+                "connaissez pas par c{00339}ur,",
                 "alors...",
                 "Voici quelques munitions !",
                 "A bient{00244}t et merci !",
