@@ -217,7 +217,7 @@
                 "ENCHA{00206}N{00201} !!!",
                 "Danger ! Approchez-vous",
                 "et appuyez sur [C]^ pour",
-                "jeter un oeil.",
+                "jeter un {00339}il.",
                 "Impressionnant, non ?",
                 "Avez-vous remarqu{00233} la",
                 "pi{00232}ce rouge sur le rondin ?",
@@ -650,7 +650,7 @@
                 "est impossible de bouger",
                 "la cam{00233}ra, un signal",
                 "sonore retentira.",
-                "Pour jeter un oeil autour",
+                "Pour jeter un {00339}il autour",
                 "de Mario, arr{00234}tez-vous",
                 "et appuyez sur [C]^.",
                 "Appuyez sur le bouton [A]",
@@ -678,7 +678,7 @@
                 "[C]. En appuyant sur [C]^ et",
                 "en bougeant le stick",
                 "multidirectionnel, vous",
-                "pourrez jeter un oeil aux",
+                "pourrez jeter un {00339}il aux",
                 "alentours...",
                 "L'angle de vue normal est",
                 "celui de la cam{00233}ra de",
@@ -702,7 +702,7 @@
             "lines": [
                 "--PANORAMA--",
                 "Appuyez sur [C]^ pour jeter",
-                "un coup d'oeil. Profitez",
+                "un coup d'{00339}il. Profitez",
                 "de la vue !",
                 "Appuyez sur [R] pour",
                 "utiliser la cam{00233}ra-Mario",
@@ -1760,7 +1760,7 @@
             "lines": [
                 "Tourner autour de",
                 "certains ennemis peut",
-                "faire tourner de l'oeil..."
+                "faire tourner de l'{00339}il..."
             ]
         },
         {
@@ -2162,7 +2162,7 @@
                 "possible ! Elles rempliront",
                 "votre {00233}nergie !",
                 "",
-                "Vous pouvez jeter un oeil",
+                "Vous pouvez jeter un {00339}il",
                 "au nombre de pi{00232}ces que",
                 "vous avez r{00233}cup{00233}r{00233}es dans",
                 "les 15 mondes.",
@@ -3323,183 +3323,183 @@
     ],
     "courses": [
         {
-            "course": " 1 BATAILLE DE BOB-OMB",
+            "course": " 1 Bataille De Bob-Omb",
             "acts": [
-                "ROI BOB-OMB AU SOMMET",
-                "COURSE CONTRE KOOPA-RAPIDO",
-                "CANON VERS L'{00206}LE PERCH{00201}E",
-                "LES 8 PI{00200}CES ROUGES",
-                "VOL DU MARIO AIL{00201}",
-                "DERRI{00200}RE LA CAGE DE CHOMP"
+                "Roi Bob-Omb Au Sommet",
+                "Course Contre Koopa-Rapido",
+                "Canon Vers L'{00238}le Perch{00233}e",
+                "Les 8 Pi{00232}ces Rouges",
+                "Vol Du Mario Ail{00233}",
+                "Derri{00232}re La Cage De Chomp"
             ]
         },
         {
-            "course": " 2 FORTERESSE DE WHOMP",
+            "course": " 2 Forteresse De Whomp",
             "acts": [
-                "DESTRUCTION DU GROS WHOMP",
-                "EN HAUT DE LA FORTERESSE",
-                "CANON VERS LES CIEUX",
-                "PI{00200}CES ROUGES DANS LES AIRS",
-                "TOMBEZ DANS LA CAGE PERCH{00201}E",
-                "CANON VERS UN MUR..."
+                "Destruction Du Gros Whomp",
+                "En Haut De La Forteresse",
+                "Canon Vers Les Cieux",
+                "Pi{00232}ces Rouges Dans Les Airs",
+                "Tombez Dans La Cage Perch{00233}e",
+                "Canon Vers Un Mur..."
             ]
         },
         {
-            "course": " 3 BAIE DES PIRATES",
+            "course": " 3 Baie Des Pirates",
             "acts": [
-                "PILLEZ LE BATEAU COUL{00201}",
-                "L'ANGUILLE VEUT FAIRE JOUJOU ?",
-                "TR{00201}SOR DANS LA CAVERNE",
-                "PI{00200}CES ROUGES {00192} BORD !",
-                "CANON VERS LES PILIERS",
-                "DANS LE GEYSER"
+                "Pillez Le Bateau Coul{00233}",
+                "L'anguille Veut Faire Joujou ?",
+                "Tr{00233}sor Dans La Caverne",
+                "Pi{00232}ces Rouges {00192} Bord !",
+                "Canon Vers Les Piliers",
+                "Dans Le Geyser"
             ]
         },
         {
-            "course": " 4 MONTAGNE GLA-GLA",
+            "course": " 4 Montagne Gla-Gla",
             "acts": [
-                "GLISSADE SUR GLACE",
-                "PETIT PINGOUIN PERDU",
-                "COURSE DU PINGOUIN",
-                "8 PI{00200}CES ROUGES GIVR{00201}ES",
-                "BONHOMME DE NEIGE SANS T{00202}TE",
-                "MURS POUR REBONDIR"
+                "Glissade Sur Glace",
+                "Petit Pingouin Perdu",
+                "Course Du Pingouin",
+                "8 Pi{00232}ces Rouges Givr{00233}es",
+                "Bonhomme De Neige Sans T{00234}te",
+                "Murs Pour Rebondir"
             ]
         },
         {
-            "course": " 5 MANOIR DE GROS BOO",
+            "course": " 5 Manoir De Gros Boo",
             "acts": [
-                "CHERCHEZ LE GROS BOO",
-                "MAN{00200}GE DES BOOS PAS BEAUX",
-                "SECRET DES LIVRES HANT{00201}S",
-                "TROUVEZ LES 8 PI{00200}CES ROUGES",
-                "BALCON DE GROS BOO",
-                "UN OEIL SUR LES SALLES SECR{00200}TES"
+                "Cherchez Le Gros Boo",
+                "Man{00232}ge Des Boos Pas Beaux",
+                "Secret Des Livres Hant{00233}s",
+                "Trouvez Les 8 Pi{00232}ces Rouges",
+                "Balcon De Gros Boo",
+                "Un {00338}il Sur Les Salles Secr{00232}tes"
             ]
         },
         {
-            "course": " 6 CAVERNE BRUMEUSE",
+            "course": " 6 Caverne Brumeuse",
             "acts": [
-                "GROS BIBI DE LA CAVERNE",
-                "CHARIOT POUR PI{00200}CES ROUGES",
-                "COURSE DE METAL MARIO",
-                "DANS LE LABYRINTHE TOXIQUE",
-                "AU-DESSUS DES GAZ...",
-                "ATTENTION AUX BOULETS"
+                "Gros Bibi De La Caverne",
+                "Chariot Pour Pi{00232}ces Rouges",
+                "Course De Metal Mario",
+                "Dans Le Labyrinthe Toxique",
+                "Au-Dessus Des Gaz...",
+                "Attention Aux Boulets"
             ]
         },
         {
-            "course": " 7 LAVES FATALES",
+            "course": " 7 Laves Fatales",
             "acts": [
-                "CRAMEZ LE GROS MOCHE",
-                "POUSSEZ LES PETITS MOCHES",
-                "PUZZLE DE 8 PI{00200}CES ROUGES",
-                "BALADE SUR LA B{00219}CHE",
-                "CHAUD DANS LE VOLCAN",
-                "ASCENSEUR DANS LE VOLCAN"
+                "Cramez Le Gros Moche",
+                "Poussez Les Petits Moches",
+                "Puzzle De 8 Pi{00232}ces Rouges",
+                "Balade Sur La Bûche",
+                "Chaud Dans Le Volcan",
+                "Ascenseur Dans Le Volcan"
             ]
         },
         {
-            "course": " 8 SABLES TROP MOUVANTS",
+            "course": " 8 Sables Trop Mouvants",
             "acts": [
-                "DANS LES GRIFFES DU VAUTOUR",
-                "AU SOMMET DE LA PYRAMIDE",
-                "DANS L'ANCIENNE PYRAMIDE",
-                "LES QUATRE PILIERS DE LA FOI",
-                "VOL VERS LES PI{00200}CES ROUGES",
-                "ENIGME DE LA PYRAMIDE"
+                "Dans Les Griffes Du Vautour",
+                "Au Sommet De La Pyramide",
+                "Dans L'ancienne Pyramide",
+                "Les Quatre Piliers De La Foi",
+                "Vol Vers Les Pi{00232}ces Rouges",
+                "Enigme De La Pyramide"
             ]
         },
         {
-            "course": " 9 AFFREUX BASSIN",
+            "course": " 9 Affreux Bassin",
             "acts": [
-                "SOUS-MARIN DE BOWSER",
-                "COFFRES DANS LE COURANT",
-                "PERCHES POUR PI{00200}CES ROUGES",
-                "DANS LE GEYSER",
-                "R{00201}COMPENSE DE LA RAIE",
-                "ASSOCIATION DE CASQUETTES..."
+                "Sous-Marin De Bowser",
+                "Coffres Dans Le Courant",
+                "Perches Pour Pi{00232}ces Rouges",
+                "Dans Le Geyser",
+                "R{00233}compense De La Raie",
+                "Association De Casquettes..."
             ]
         },
         {
-            "course": "10 CHEZ LE ROI DES NEIGES",
+            "course": "10 Chez Le Roi Des Neiges",
             "acts": [
-                "GROSSE T{00202}TE DU BONHOMME",
-                "COMBATTEZ LE GROS MOCHE GIVRE",
-                "DANS LE GLA{00199}ON",
-                "VRILLE DEPUIS LE LAC",
-                "CARAPACE POUR PI{00200}CES ROUGES",
-                "DANS L'IGLOO"
+                "Grosse T{00234}te Du Bonhomme",
+                "Combattez Le Gros Moche Givre",
+                "Dans Le Gla{00231}on",
+                "Vrille Depuis Le Lac",
+                "Carapace Pour Pi{00232}ces Rouges",
+                "Dans L'igloo"
             ]
         },
         {
-            "course": "11 MONDE TREMPE-SECHE",
+            "course": "11 Monde Tremp{00233}-S{00233}ch{00233}",
             "acts": [
-                "MINI PLATES-FORMES FLECH{00201}ES !",
-                "SUR LES TOITS",
-                "ENIGME DES CHIFFRES CACH{00201}S",
-                "ASCENSEUR EXPRESS !",
-                "PI{00200}CES ROUGES : VILLE ENGLOUTIE",
-                "COURSE EN VILLE"
+                "Mini Plates-Formes Flech{00233}es !",
+                "Sur Les Toits",
+                "{00201}nigme Des Chiffres Cach{00233}s",
+                "Ascenseur Express !",
+                "Pi{00232}ces Rouges : Ville Engloutie",
+                "Course En Ville"
             ]
         },
         {
-            "course": "12 TROP HAUTE MONTAGNE",
+            "course": "12 Trop Haute Montagne",
             "acts": [
-                "ESCALADEZ LA MONTAGNE",
-                "MYST{00200}RE DE LA CAGE DU SINGE",
-                "PI{00200}CES ROUGES SUR CHAMPIGNON",
-                "PAROI MYST{00201}RIEUSE",
-                "PANORAMA DU PONT",
-                "CANON VERS LE CHAMPIGNON"
+                "Escaladez La Montagne",
+                "Myst{00232}re De La Cage Du Singe",
+                "Pi{00232}ces Rouges Sur Champignon",
+                "Paroi Myst{00233}rieuse",
+                "Panorama Du Pont",
+                "Canon Vers Le Champignon"
             ]
         },
         {
-            "course": "13 {00206}LE GRANDS-PETITS",
+            "course": "13 {00206}le Grands-Petits",
             "acts": [
-                "D{00201}TRUISEZ LES MAXI-CARNIVORES",
-                "AU SOMMET DE L'{00206}LE DES G{00201}ANTS",
-                "KOOPA-RAPIDO, LA VENGEANCE",
-                "CINQ TOUT PETITS SECRETS",
-                "LES PI{00200}CES ROUGES DU GIGOTEUR",
-                "{00201}NERVEZ LE GIGOTEUR"
+                "D{00233}truisez Les Maxi-Carnivores",
+                "Au Sommet De L'{00238}le Des G{00233}ants",
+                "Koopa-Rapido, La Vengeance",
+                "Cinq Tout Petits Secrets",
+                "Les Pi{00232}ces Rouges Du Gigoteur",
+                "{00201}nervez Le Gigoteur"
             ]
         },
         {
-            "course": "14 HORLOGE TIC-TAC",
+            "course": "14 Horloge Tic-Tac",
             "acts": [
-                "ROULEMENTS DANS LA CAGE",
-                "LES TROUS ET LE PENDULE",
-                "CHEVAUCHEZ L'AIGUILLE",
-                "L'{00201}CRABOUILLEUR",
-                "SAUTS SYNCHRONIS{00201}S",
-                "L'HEURE PILE POUR LES PI{00200}CES"
+                "Roulements Dans La Cage",
+                "Les Trous Et Le Pendule",
+                "Chevauchez L'aiguille",
+                "L'{00233}crabouilleur",
+                "Sauts Synchronis{00233}s",
+                "L'heure Pile Pour Les Pi{00232}ces"
             ]
         },
         {
-            "course": "15 COURSE ARC-EN-CIEL",
+            "course": "15 Course Arc-En-Ciel",
             "acts": [
-                "CROISI{00200}RE SUR L'ARC-EN-CIEL",
-                "MANOIR DANS LES AIRS",
-                "LABYRINTHE DES PI{00200}CES ROUGES",
-                "BALAN{00199}OIRE C{00201}LESTE",
-                "VICIEUX TRIANGLES !",
-                "L'ARC-EN-CIEL ET AU-DEL{00192}"
+                "Croisi{00232}re Sur L'arc-En-Ciel",
+                "Manoir Dans Les Airs",
+                "Labyrinthe Des Pi{00232}ces Rouges",
+                "Balan{00231}oire C{00233}leste",
+                "Vicieux Triangles !",
+                "L'arc-En-Ciel Et Au-Del{00224}"
             ]
         },
-        { "course": "CH{00194}TEAU", "acts": ["UNE {00201}TOILE SECR{00200}TE DU CH{00194}TEAU !"] }
+        { "course": "Ch{00226}teau", "acts": ["Une {00201}toile Secr{00232}te Du Ch{00226}teau !"] }
     ],
     "secrets": [
-        "   BOWSER DES T{00201}N{00200}BRES",
-        "   BOWSER DES LAVES",
-        "   BOWSER DES CIEUX",
-        "   GLISSADE DE LA PRINCESSE",
-        "   MINE DES CASQUETTES-M{00201}TAL",
-        "   INTERRUPTEUR DE LA TOUR AIL{00201}E",
-        "   INVISIBLE SOUS LES DOUVES",
-        "   AU-DEL{00192} DE L'ARC-EN-CIEL",
-        "   AQUARIUM SECRET",
-        "   {00201}TOILES SECR{00200}TES DU CH{00194}TEAU"
+        "   Bowser Des T{00233}n{00232}bres",
+        "   Bowser Des Laves",
+        "   Bowser Des Cieux",
+        "   Glissade De La Princesse",
+        "   Mine Des Casquettes-M{00233}tal",
+        "   Interrupteur De La Tour Ail{00233}e",
+        "   Invisible Sous Les Douves",
+        "   Au-Del{00224} De L'arc-En-Ciel",
+        "   Aquarium Secret",
+        "   {00201}toiles Secr{00232}tes Du Ch{00226}teau"
     ],
     "options": {
         "TEXT_OPT_CHEAT1": "Activer les Codes de Triche",
