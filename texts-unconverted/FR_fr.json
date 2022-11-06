@@ -3323,183 +3323,188 @@
     ],
     "courses": [
         {
-            "course": " 1 Bataille De Bob-Omb",
+            "course": " 1 BATAILLE DE BOB-OMB",
             "acts": [
-                "Roi Bob-Omb Au Sommet",
-                "Course Contre Koopa-Rapido",
-                "Canon Vers L'île Perchée",
-                "Les 8 Pièces Rouges",
-                "Vol Du Mario Ailé",
-                "Derrière La Cage De Chomp"
+                "ROI BOB-OMB AU SOMMET",
+                "COURSE CONTRE KOOPA-RAPIDO",
+                "CANON VERS L'ILE PERCHEE",
+                "LES 8 PIECES ROUGES",
+                "VOL DU MARIO AILE",
+                "DERRIERE LA CAGE DE CHOMP"
             ]
         },
         {
-            "course": " 2 Forteresse De Whomp",
+            "course": " 2 FORTERESSE DE WHOMP",
             "acts": [
-                "Destruction Du Gros Whomp",
-                "En Haut De La Forteresse",
-                "Canon Vers Les Cieux",
-                "Pièces Rouges Dans Les Airs",
-                "Tombez Dans La Cage Perchée",
-                "Canon Vers Un Mur..."
+                "DESTRUCTION DU GROS WHOMP",
+                "EN HAUT DE LA FORTERESSE",
+                "CANON VERS LES CIEUX",
+                "PIECES ROUGES DANS LES AIRS",
+                "TOMBEZ DANS LA CAGE PERCHEE",
+                "CANON VERS UN MUR..."
             ]
         },
         {
-            "course": " 3 Baie Des Pirates",
+            "course": " 3 BAIE DES PIRATES",
             "acts": [
-                "Pillez Le Bateau Coulé",
-                "L'anguille Veut Faire Joujou ?",
-                "Trésor Dans La Caverne",
-                "Pièces Rouges À Bord !",
-                "Canon Vers Les Piliers",
-                "Dans Le Geyser"
+                "PILLEZ LE BATEAU COULE",
+                "L'ANGUILLE VEUT FAIRE JOUJOU ?",
+                "TRESOR DANS LA CAVERNE",
+                "PIECES ROUGES À BORD !",
+                "CANON VERS LES PILIERS",
+                "DANS LE GEYSER"
             ]
         },
         {
-            "course": " 4 Montagne Gla-Gla",
+            "course": " 4 MONTAGNE GLA-GLA",
             "acts": [
-                "Glissade Sur Glace",
-                "Petit Pingouin Perdu",
-                "Course Du Pingouin",
-                "8 Pièces Rouges Givrées",
-                "Bonhomme De Neige Sans Tête",
-                "Murs Pour Rebondir"
+                "GLISSADE SUR GLACE",
+                "PETIT PINGOUIN PERDU",
+                "COURSE DU PINGOUIN",
+                "8 PIECES ROUGES GIVREES",
+                "BONHOMME DE NEIGE SANS TETE",
+                "MURS POUR REBONDIR"
             ]
         },
         {
-            "course": " 5 Manoir De Gros Boo",
+            "course": " 5 MANOIR DE GROS BOO",
             "acts": [
-                "Cherchez Le Gros Boo",
-                "Manège Des Boos Pas Beaux",
-                "Secret Des Livres Hantés",
-                "Trouvez Les 8 Pièces Rouges",
-                "Balcon De Gros Boo",
-                "Un Œil Sur Les Salles Secrètes"
+                "CHERCHEZ LE GROS BOO",
+                "MANEGE DES BOOS PAS BEAUX",
+                "SECRET DES LIVRES HANTES",
+                "TROUVEZ LES 8 PIECES ROUGES",
+                "BALCON DE GROS BOO",
+                "UN OEIL SUR LES SALLES SECRETES"
             ]
         },
         {
-            "course": " 6 Caverne Brumeuse",
+            "course": " 6 CAVERNE BRUMEUSE",
             "acts": [
-                "Gros Bibi De La Caverne",
-                "Chariot Pour Pièces Rouges",
-                "Course De Metal Mario",
-                "Dans Le Labyrinthe Toxique",
-                "Au-Dessus Des Gaz...",
-                "Attention Aux Boulets"
+                "GROS BIBI DE LA CAVERNE",
+                "CHARIOT POUR PIECES ROUGES",
+                "COURSE DE MARIO METAL",
+                "DANS LE LABYRINTHE TOXIQUE",
+                "AU-DESSUS DES GAZ...",
+                "ATTENTION AUX BOULETS"
             ]
         },
         {
-            "course": " 7 Laves Fatales",
+            "course": " 7 LAVES FATALES",
             "acts": [
-                "Cramez Le Gros Moche",
-                "Poussez Les Petits Moches",
-                "Puzzle De 8 Pièces Rouges",
-                "Balade Sur La Bûche",
-                "Chaud Dans Le Volcan",
-                "Ascenseur Dans Le Volcan"
+                "CRAMEZ LE GROS MOCHE",
+                "POUSSEZ LES PETITS MOCHES",
+                "PUZZLE DE 8 PIECES ROUGES",
+                "BALADE SUR LA BUCHE",
+                "CHAUD DANS LE VOLCAN",
+                "ASCENSEUR DANS LE VOLCAN"
             ]
         },
         {
-            "course": " 8 Sables Trop Mouvants",
+            "course": " 8 SABLES TROP MOUVANTS",
             "acts": [
-                "Dans Les Griffes Du Vautour",
-                "Au Sommet De La Pyramide",
-                "Dans L'ancienne Pyramide",
-                "Les Quatre Piliers De La Foi",
-                "Vol Vers Les Pièces Rouges",
-                "Enigme De La Pyramide"
+                "DANS LES GRIFFES DU VAUTOUR",
+                "AU SOMMET DE LA PYRAMIDE",
+                "DANS L'ANCIENNE PYRAMIDE",
+                "LES QUATRE PILIERS DE LA FOI",
+                "VOL VERS LES PIECES ROUGES",
+                "ENIGME DE LA PYRAMIDE"
             ]
         },
         {
-            "course": " 9 Affreux Bassin",
+            "course": " 9 AFFREUX BASSIN",
             "acts": [
-                "Sous-Marin De Bowser",
-                "Coffres Dans Le Courant",
-                "Perches Pour Pièces Rouges",
-                "Dans Le Geyser",
-                "Récompense De La Raie",
-                "Association De Casquettes..."
+                "SOUS-MARIN DE BOWSER",
+                "COFFRES DANS LE COURANT",
+                "PERCHES POUR PIECES ROUGES",
+                "DANS LE GEYSER",
+                "RECOMPENSE DE LA RAIE",
+                "ASSOCIATION DE CASQUETTES..."
             ]
         },
         {
-            "course": "10 Chez Le Roi Des Neiges",
+            "course": "10 CHEZ LE ROI DES NEIGES",
             "acts": [
-                "Grosse Tête Du Bonhomme",
-                "Combattez Le Gros Moche Givre",
-                "Dans Le Glaçon",
-                "Vrille Depuis Le Lac",
-                "Carapace Pour Pièces Rouges",
-                "Dans L'igloo"
+                "GROSSE TETE DU BONHOMME",
+                "COMBATTEZ LE GROS MOCHE GIVRE",
+                "DANS LE GLACON",
+                "VRILLE DEPUIS LE LAC",
+                "CARAPACE POUR PIECES ROUGES",
+                "DANS L'IGLOO"
             ]
         },
         {
-            "course": "11 Monde Trempé-Séché",
+            "course": "11 MONDE TREMPE-SECHE",
             "acts": [
-                "Mini Plates-Formes Flechées !",
-                "Sur Les Toits",
-                "Énigme Des Chiffres Cachés",
-                "Ascenseur Express !",
-                "Pièces Rouges : Ville Engloutie",
-                "Course En Ville"
+                "MINI PLATES-FORMES FLECHEES !",
+                "SUR LES TOITS",
+                "ENIGME DES CHIFFRES CACHES",
+                "ASCENSEUR EXPRESS !",
+                "PIECES ROUGES : VILLE ENGLOUTIE",
+                "COURSE EN VILLE"
             ]
         },
         {
-            "course": "12 Trop Haute Montagne",
+            "course": "12 TROP HAUTE MONTAGNE",
             "acts": [
-                "Escaladez La Montagne",
-                "Mystère De La Cage Du Singe",
-                "Pièces Rouges Sur Champignon",
-                "Paroi Mystérieuse",
-                "Panorama Du Pont",
-                "Canon Vers Le Champignon"
+                "ESCALADEZ LA MONTAGNE",
+                "MYSTERE DE LA CAGE DU SINGE",
+                "PIECES ROUGES SUR CHAMPIGNON",
+                "PAROI MYSTERIEUSE",
+                "PANORAMA DU PONT",
+                "CANON VERS LE CHAMPIGNON"
             ]
         },
         {
-            "course": "13 Île Grands-Petits",
+            "course": "13 ILE GRANDS-PETITS",
             "acts": [
-                "Détruisez Les Maxi-Carnivores",
-                "Au Sommet De L'île Des Géants",
-                "Koopa-Rapido, La Vengeance",
-                "Cinq Tout Petits Secrets",
-                "Les Pièces Rouges Du Gigoteur",
-                "Énervez Le Gigoteur"
+                "DETRUISEZ LES MAXI-CARNIVORES",
+                "AU SOMMET DE L'ILE DES GEANTS",
+                "KOOPA-RAPIDO, LA VENGEANCE",
+                "CINQ TOUT PETITS SECRETS",
+                "LES PIECES ROUGES DU GIGOTEUR",
+                "ENERVEZ LE GIGOTEUR"
             ]
         },
         {
-            "course": "14 Horloge Tic-Tac",
+            "course": "14 HORLOGE TIC-TAC",
             "acts": [
-                "Roulements Dans La Cage",
-                "Les Trous Et Le Pendule",
-                "Chevauchez L'aiguille",
-                "L'écrabouilleur",
-                "Sauts Synchronisés",
-                "L'heure Pile Pour Les Pièces"
+                "ROULEMENTS DANS LA CAGE",
+                "LES TROUS ET LE PENDULE",
+                "CHEVAUCHEZ L'AIGUILLE",
+                "L'ECRABOUILLEUR",
+                "SAUTS SYNCHRONISES",
+                "L'HEURE PILE POUR LES PIECES"
             ]
         },
         {
-            "course": "15 Course Arc-En-Ciel",
+            "course": "15 COURSE ARC-EN-CIEL",
             "acts": [
-                "Croisière Sur L'arc-En-Ciel",
-                "Manoir Dans Les Airs",
-                "Labyrinthe Des Pièces Rouges",
-                "Balançoire Céleste",
-                "Vicieux Triangles !",
-                "L'arc-En-Ciel Et Au-Delà"
+                "CROISIERE SUR L'ARC-EN-CIEL",
+                "MANOIR DANS LES AIRS",
+                "LABYRINTHE DES PIECES ROUGES",
+                "BALANCOIRE CELESTE",
+                "VICIEUX TRIANGLES !",
+                "L'ARC-EN-CIEL ET AU-DELA"
             ]
         },
-        { "course": "Château", "acts": ["Une Étoile Secrète Du Château !"] }
+        {
+            "course": "CHATEAU",
+            "acts": [
+                "UNE ETOILE SECRETE DU CHATEAU !"
+            ]
+        }
     ],
     "secrets": [
-        "   Bowser Des Ténèbres",
-        "   Bowser Des Laves",
-        "   Bowser Des Cieux",
-        "   Glissade De La Princesse",
-        "   Mine Des Casquettes-Métal",
-        "   Interrupteur De La Tour Ailée",
-        "   Invisible Sous Les Douves",
-        "   Au-Delà De L'arc-En-Ciel",
-        "   Aquarium Secret",
-        "   Étoiles Secrètes Du Château"
+        "   BOWSER DES TENEBRES",
+        "   BOWSER DES LAVES",
+        "   BOWSER DES CIEUX",
+        "   GLISSADE DE LA PRINCESSE",
+        "   MINE DES CASQUETTES-METAL",
+        "   INTERRUPTEUR DE LA TOUR AILEE",
+        "   INVISIBLE SOUS LES DOUVES",
+        "   AU-DELA DE L'ARC-EN-CIEL",
+        "   AQUARIUM SECRET",
+        "   ETOILES SECRETES DU CHATEAU"
     ],
     "options": {
         "TEXT_OPT_CHEAT1": "Activer les Cheats",
@@ -3867,7 +3872,7 @@
         "TEXT_OPT_CHEAT_SPAMBA_KOOPA_SHELL": "CARAPACE KOOPA",
         "TEXT_OPT_CHEAT_SPAMBA_BOBOMB": "BOB-OMB",
         "TEXT_OPT_CHEAT_SPAMBA_BOBOMB_BUDDY": "AMI BOB-OMB",
-        "TEXT_OPT_CHEAT_SPAMBA_CHAIN_CHOMP": "CHAIN CHOMP",
+        "TEXT_OPT_CHEAT_SPAMBA_CHAIN_CHOMP": "CHOMP ENCHAÎNÉ",
         "TEXT_OPT_CHEAT_SPAMBA_PIRANHA_PLANT": "PLANTE PIRANHA",
         "TEXT_OPT_CHEAT_SPAMBA_PIRANHA_PLANT_FIRE": "PLANTE PIRANHA DE FEU",
         "TEXT_OPT_CHEAT_SPAMBA_WHOMP": "WHOMP",
