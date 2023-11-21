@@ -1,37 +1,37 @@
 {
   "manifest": {
-    "langName": "Espa{00241}ol Latinoamerica",
+    "langName": "Espa{00241}ol Latinoam{00233}rica",
     "langLogo": "none"
   },
   "options": {
-    "DYNOS_TEXT_DYNOS_MENU": "DYNOS MENU",
+    "DYNOS_TEXT_DYNOS_MENU": "MEN{00218} DYNOS",
     "DYNOS_TEXT_A": "([A]) >",
     "DYNOS_TEXT_OPEN_LEFT": "[Z] DynOS",
-    "DYNOS_TEXT_CLOSE_LEFT": "[Z] Return",
-    "DYNOS_TEXT_OPTIONS_MENU": "OPTIONS",
-    "DYNOS_TEXT_DISABLED": "Disabled",
-    "DYNOS_TEXT_ENABLED": "Enabled",
-    "DYNOS_TEXT_NONE": "NONE",
+    "DYNOS_TEXT_CLOSE_LEFT": "[Z] Volver",
+    "DYNOS_TEXT_OPTIONS_MENU": "OPCIONES",
+    "DYNOS_TEXT_DISABLED": "Desactivado",
+    "DYNOS_TEXT_ENABLED": "Activado",
+    "DYNOS_TEXT_NONE": "NADA",
     "DYNOS_TEXT_DOT_DOT_DOT": "...",
-    "DYNOS_TEXT_OPEN_RIGHT": "[R] Options",
-    "DYNOS_TEXT_CLOSE_RIGHT": "[R] Return",
+    "DYNOS_TEXT_OPEN_RIGHT": "[R] Opciones",
+    "DYNOS_TEXT_CLOSE_RIGHT": "[R] Volver",
 
-    "dynos_restart_level": "Restart Level",
-    "dynos_exit_level": "Exit Level",
-    "dynos_return_to_main_menu": "Return To Main Menu",
-    "dynos_warp_to_level_submenu": "Warp to Level",
-    "dynos_warp_to_level_submenu_title": "WARP TO LEVEL",
-    "dynos_warp_level": "Level Select",
-    "dynos_warp_act": "Star Select",
+    "dynos_restart_level": "Reiniciar Nivel",
+    "dynos_exit_level": "Salir del Nivel",
+    "dynos_return_to_main_menu": "Volver al Men{00250} Principal",
+    "dynos_warp_to_level_submenu": "Warp a Nivel",
+    "dynos_warp_to_level_submenu_title": "WARP A NIVEL",
+    "dynos_warp_level": "Seleccionar Nivel",
+    "dynos_warp_act": "Seleccionar Estrella",
     "dynos_warp_to_level": "Warp",
 
-    "dynos_warp_to_castle_submenu": "Warp to Castle",
-    "dynos_warp_to_castle_submenu_title": "WARP TO CASTLE",
-    "dynos_warp_castle": "Level Exit",
+    "dynos_warp_to_castle_submenu": "Warp al Castillo",
+    "dynos_warp_to_castle_submenu_title": "WARP AL CASTILLO",
+    "dynos_warp_castle": "Salir del Nivel",
     "dynos_warp_to_castle": "Warp",
 
-    "dynos_model_loader_submenu": "Model Packs",
-    "dynos_model_loader_submenu_title": "MODEL PACKS",
-    "dynos_packs_disable_all": "Disable all packs"
+    "dynos_model_loader_submenu": "Packs de Modelos",
+    "dynos_model_loader_submenu_title": "PACKS DE MODELOS",
+    "dynos_packs_disable_all": "Desactiva todos los packs"
   }
 }
