@@ -102,23 +102,23 @@ endif
 # macOS overrides
 ifeq ($(HOST_OS),Darwin)
   OSX_BUILD := 1
-  # Using MacPorts?
-  ifeq ($(shell test -d /opt/local/lib && echo y),y)
-    OSX_GCC_VER = $(shell find /opt/local/bin/gcc* | grep -oE '[[:digit:]]+' | sort -n | uniq | tail -1)
-    CC := gcc-mp-$(OSX_GCC_VER)
-    CXX := g++-mp-$(OSX_GCC_VER)
-    CPP := cpp-mp-$(OSX_GCC_VER) -P
-    PLATFORM_CFLAGS := -I /opt/local/include
-    PLATFORM_LDFLAGS := -L /opt/local/lib
+  # Using Homebrew?
+  ifeq ($(shell which brew >/dev/null 2>&1 && echo y),y)
+    OSX_GCC_VER = $(shell find `brew --prefix`/bin/gcc* | grep -oE '[[:digit:]]+' | sort -n | uniq | tail -1)
+    CC := gcc-$(OSX_GCC_VER)
+    CXX := g++-$(OSX_GCC_VER)
+    CPP := cpp-$(OSX_GCC_VER) -P
+    PLATFORM_CFLAGS := -I $(shell brew --prefix)/include
+    PLATFORM_LDFLAGS := -L $(shell brew --prefix)/lib
   else
-    # Using Homebrew?
-    ifeq ($(shell which brew >/dev/null 2>&1 && echo y),y)
-      OSX_GCC_VER = $(shell find `brew --prefix`/bin/gcc* | grep -oE '[[:digit:]]+' | sort -n | uniq | tail -1)
-      CC := gcc-$(OSX_GCC_VER)
-      CXX := g++-$(OSX_GCC_VER)
-      CPP := cpp-$(OSX_GCC_VER) -P
-      PLATFORM_CFLAGS := -I /usr/local/include
-      PLATFORM_LDFLAGS := -L /usr/local/lib
+    # Using MacPorts?
+    ifeq ($(shell test -d /opt/local/lib && echo y),y)
+      OSX_GCC_VER = $(shell find /opt/local/bin/gcc* | grep -oE '[[:digit:]]+' | sort -n | uniq | tail -1)
+      CC := gcc-mp-$(OSX_GCC_VER)
+      CXX := g++-mp-$(OSX_GCC_VER)
+      CPP := cpp-mp-$(OSX_GCC_VER) -P
+      PLATFORM_CFLAGS := -I /opt/local/include
+      PLATFORM_LDFLAGS := -L /opt/local/lib
     else
       $(error No suitable macOS toolchain found, have you installed Homebrew?)
     endif
