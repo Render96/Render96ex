@@ -7392,12 +7392,12 @@ BAD_RETURN(s32) cutscene_ending_peach_wakeup(struct Camera *c) {
     cutscene_event(cutscene_ending_look_up_at_castle, c, 0, 0);
 #ifdef VERSION_EU
     cutscene_event(cutscene_ending_look_up_at_castle, c, 265, -1);
-    cutscene_spawn_obj(7, 315);
-    cutscene_spawn_obj(9, 355);
+    cutscene_spawn_obj(7, 320);
+    cutscene_spawn_obj(9, 360);
 #else
     cutscene_event(cutscene_ending_look_up_at_castle, c, 250, -1);
-    cutscene_spawn_obj(7, 300);
-    cutscene_spawn_obj(9, 340);
+    cutscene_spawn_obj(7, 305);
+    cutscene_spawn_obj(9, 345);
 #endif
     vec3f_set(c->pos, -163.f, 978.f, -1082.f);
     player2_rotate_cam(c, -0x800, 0x2000, -0x2000, 0x2000);
@@ -7445,7 +7445,7 @@ BAD_RETURN(s32) cutscene_ending_kiss(struct Camera *c) {
 #ifdef VERSION_EU
     cutscene_event(cutscene_ending_kiss_here_we_go, c, 185, -1);
 #else
-    cutscene_event(cutscene_ending_kiss_here_we_go, c, 155, -1);
+    cutscene_event(cutscene_ending_kiss_here_we_go, c, 161, -1);
 #endif
     player2_rotate_cam(c, -0x800, 0x2000, -0x2000, 0x2000);
 }
@@ -7472,12 +7472,12 @@ BAD_RETURN(s32) cutscene_ending_zoom_fov(UNUSED struct Camera *c) {
 BAD_RETURN(s32) cutscene_ending_cake_for_mario(struct Camera *c) {
     cutscene_event(cutscene_ending_reset_spline, c, 0, 0);
     cutscene_event(cutscene_ending_look_at_sky, c, 0, 0);
-    cutscene_event(cutscene_ending_zoom_fov, c, 0, 499);
-    cutscene_event(cutscene_ending_look_at_sky, c, 500, -1);
-    cutscene_spawn_obj(8, 600);
-    cutscene_spawn_obj(8, 608);
-    cutscene_spawn_obj(8, 624);
-    cutscene_spawn_obj(8, 710);
+    cutscene_event(cutscene_ending_zoom_fov, c, 0, 518);
+    cutscene_event(cutscene_ending_look_at_sky, c, 519, -1);
+    cutscene_spawn_obj(8, 619);
+    cutscene_spawn_obj(8, 627);
+    cutscene_spawn_obj(8, 643);
+    cutscene_spawn_obj(8, 729);
 }
 
 /**
@@ -10386,13 +10386,13 @@ struct Cutscene sCutsceneEnding[] = {
     { cutscene_ending_kiss, 0x10b },
 #else
     { cutscene_ending_mario_land_closeup, 75 },
-    { cutscene_ending_stars_free_peach, 386 },
-    { cutscene_ending_peach_appears, 139 },
-    { cutscene_ending_peach_descends, 590 },
-    { cutscene_ending_mario_to_peach, 95 },
-    { cutscene_ending_peach_wakeup, 425 },
-    { cutscene_ending_dialog, 236 },
-    { cutscene_ending_kiss, 245 },
+    { cutscene_ending_stars_free_peach, 394 },
+    { cutscene_ending_peach_appears, 149 },
+    { cutscene_ending_peach_descends, 615 },
+    { cutscene_ending_mario_to_peach, 91 },
+    { cutscene_ending_peach_wakeup, 454 },
+    { cutscene_ending_dialog, 252 },
+    { cutscene_ending_kiss, 259 },
 #endif
     { cutscene_ending_cake_for_mario, CUTSCENE_LOOP },
     { cutscene_ending_stop, 0 }

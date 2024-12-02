@@ -2054,7 +2054,7 @@ static void end_peach_cutscene_summon_jumbo_star(struct MarioState *m) {
     if (m->actionState == 0 && is_anim_past_end(m)) {
         m->actionState++;
     }
-    if (m->actionTimer == 90) {
+    if (m->actionTimer == 85) {
         r96_play_jingle(R96_EVENT_PEACH_ENDING);
     }
     if (m->actionTimer == 255) {
@@ -2066,8 +2066,8 @@ static void end_peach_cutscene_summon_jumbo_star(struct MarioState *m) {
     play_sound(SOUND_AIR_PEACH_TWINKLE, sEndJumboStarObj->header.gfx.cameraToObject);
 }
 
-#define TIMER_FADE_IN_PEACH 276
-#define TIMER_DESCEND_PEACH 355
+#define TIMER_FADE_IN_PEACH 284
+#define TIMER_DESCEND_PEACH 373
 
 // free peach from the stained glass window
 static void end_peach_cutscene_spawn_peach(struct MarioState *m) {
@@ -2120,7 +2120,7 @@ static void end_peach_cutscene_spawn_peach(struct MarioState *m) {
     }
 }
 
-#define TIMER_RUN_TO_PEACH 584
+#define TIMER_RUN_TO_PEACH 609
 
 // descend peach
 static void end_peach_cutscene_descend_peach(struct MarioState *m) {
@@ -2223,14 +2223,14 @@ static void end_peach_cutscene_dialog_1(struct MarioState *m) {
             r96_play_character_sound(m, R96_MARIO_PEACH_POWER_OF_THE_STARS, R96_LUIGI_PEACH_POWER_OF_THE_STARS, R96_WARIO_PEACH_POWER_OF_THE_STARS);
             break;
 
-        case 480:
+        case 504:
             advance_cutscene_step(m);
             break;
     }
 }
 
-#define TIMER_SOMETHING_SPECIAL 130
-#define TIMER_PEACH_KISS        200
+#define TIMER_SOMETHING_SPECIAL 136
+#define TIMER_PEACH_KISS        220
 
 // dialog 2
 // "...and it's all thanks to you!"
@@ -2249,7 +2249,7 @@ static void end_peach_cutscene_dialog_2(struct MarioState *m) {
             D_8032CBE8 = 1;
             break;
 
-        case 75:
+        case 78:
             set_cutscene_message(160, 227, 3, 30);
             r96_play_character_sound(m, R96_MARIO_PEACH_THANK_YOU_MARIO, R96_LUIGI_PEACH_THANK_YOU_LUIGI, R96_WARIO_PEACH_THANK_YOU_WARIO);
             break;
@@ -2286,35 +2286,35 @@ static void end_peach_cutscene_kiss_from_peach(struct MarioState *m) {
     }
 
     switch (m->actionTimer) {
-        case 8:
+        case 14:
             D_8032CBE8 = 0;
             break;
 
-        case 10:
+        case 16:
             D_8032CBE4 = 3;
             break;
 
-        case 50:
+        case 56:
             D_8032CBE4 = 4;
             break;
 
-        case 75:
+        case 81:
             m->marioBodyState->eyeState = MARIO_EYES_HALF_CLOSED;
             break;
 
-        case 76:
+        case 82:
             m->marioBodyState->eyeState = MARIO_EYES_CLOSED;
             break;
 
-        case 100:
+        case 106:
             D_8032CBE4 = 3;
             break;
 
-        case 136:
+        case 142:
             D_8032CBE4 = 0;
             break;
 
-        case 140:
+        case 146:
             advance_cutscene_step(m);
             break;
     }
@@ -2354,12 +2354,16 @@ static void end_peach_cutscene_star_dance(struct MarioState *m) {
             D_8032CBE4 = 0;
             break;
 
-        case 140:
+        case 125:
+            r96_jingle_fade_out();
+            break;
+
+        case 145:
             sequence_player_unlower(SEQ_PLAYER_LEVEL, 60);
             r96_play_jingle(R96_EVENT_CREDITS);
             break;
 
-        case 142:
+        case 147:
             advance_cutscene_step(m);
             break;
     }
@@ -2396,7 +2400,7 @@ static void end_peach_cutscene_dialog_3(struct MarioState *m) {
             break;
     }
 
-    if (m->actionTimer == 350) {
+    if (m->actionTimer == 375) {
         advance_cutscene_step(m);
     }
 }
