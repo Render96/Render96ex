@@ -1,0 +1,48 @@
+name: Build Render96ex for Switch
+
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch: {}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Install host (native) build dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y build-essential git python3 unzip \
+            libsdl2-dev libasound2-dev libx11-dev libxi-dev libxrandr-dev \
+            libglu1-mesa-dev
+
+      - name: Build native host version
+        run: |
+          make -j$(nproc)
+
+      - name: Set up devkitPro Switch toolchain & portlibs
+        uses: devkitPro/setup-devkitpro@v2
+        with:
+          packages: devkit-a64 libnx switch-tools switch-mesa switch-libdrm_nouveau switch-sdl2
+
+      - name: Prepare environment for Switch build
+        run: echo "DEVKITPRO=/opt/devkitpro" >> $GITHUB_ENV
+
+      - name: Build Switch version
+        run: |
+          source $DEVKITPRO/switchvars.sh
+          make TARGET_SWITCH=1 -j$(nproc)
+
+      - name: Upload Switch artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: render96ex-switch-build
+          path: |
+            build/us-nx/*.nro
+            build/us-nx/*.elf
+            build/us-nx/res
