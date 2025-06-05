@@ -1,0 +1,56 @@
+# File: .github/workflows/build-switch.yml
+name: Build Render96ex for Switch
+
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+
+jobs:
+  build_switch:
+    name: Build Render96ex (host tools + Switch) inside devkitpro/devkita64
+    runs-on: ubuntu-latest
+    container:
+      image: devkitpro/devkita64:latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Install Linux Host Dependencies
+        run: |
+          apt-get update
+          apt-get install -y \
+            build-essential \
+            libpng-dev \
+            zlib1g-dev \
+            python3 \
+            libsdl2-dev \
+            bsdmainutils
+
+      - name: Mark Repo as Safe for Git
+        run: |
+          git config --global --add safe.directory "${GITHUB_WORKSPACE}"
+
+      - name: Configure devkitPro Environment
+        shell: bash
+        run: |
+          . /opt/devkitpro/switchvars.sh
+
+      - name: Build Native Host Tools + Build for Switch
+        run: |
+          make TARGET_SWITCH=1 MODELPACK=0 HIGHFPS=1 TEXTURE_FIX=1 -j$(nproc)
+
+      - name: List build directory
+        # This will show you exactly where the .nro ended up (e.g. "us-nx" or "us_nx")
+        run: |
+          echo "---- Contents of build/ ----"
+          ls -R build
+
+      - name: Upload Switch‐NRO
+        uses: actions/upload-artifact@v4
+        with:
+          name: switch-nro
+          # Grab any .nro anywhere under build/
+          path: build/**/*.nro
