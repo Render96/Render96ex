@@ -9,7 +9,7 @@ on:
 
 jobs:
   build_switch:
-    name: Build Render96ex (host tools + Switch) inside devkitpro/devkita64
+    name: Build Render96ex (host tools + Switch)
     runs-on: ubuntu-latest
     container:
       image: devkitpro/devkita64:latest
@@ -43,7 +43,6 @@ jobs:
           make TARGET_SWITCH=1 MODELPACK=0 HIGHFPS=1 TEXTURE_FIX=1 -j$(nproc)
 
       - name: List build directory
-        # This will show you exactly where the .nro ended up (e.g. "us-nx" or "us_nx")
         run: |
           echo "---- Contents of build/ ----"
           ls -R build
@@ -52,5 +51,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: switch-nro
-          # Grab any .nro anywhere under build/
-          path: build/**/*.nro
+          path: build/*-nx/*.nro
