@@ -26,7 +26,8 @@ jobs:
             libpng-dev \
             zlib1g-dev \
             python3 \
-            libsdl2-dev
+            libsdl2-dev \
+            bsdmainutils
 
       - name: Mark Repo as Safe for Git
         run: |
