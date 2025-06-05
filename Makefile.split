@@ -252,32 +252,3 @@ IPL3_RAW_FILES              := $(addprefix $(BUILD_DIR)/,$(patsubst %.png,%,$(IP
 
 CRASH_TEXTURE_FILES         := $(wildcard $(TEXTURE_DIR)/crash_screen/*.png)
 CRASH_TEXTURE_C_FILES       := $(addprefix $(BUILD_DIR)/,$(patsubst %.png,%.inc.c,$(CRASH_TEXTURE_FILES)))
-# -------------------------------------------------------------------------------
-# Switch Build Rules (append this at the end of your Makefile.split)
-# -------------------------------------------------------------------------------
-
-ifeq ($(TARGET_SWITCH),1)
-CROSS ?= aarch64-none-elf-
-
-NX_INCLUDE := $(DEVKITA64)/libnx/include
-NX_LIB     := $(DEVKITA64)/libnx/lib
-
-TARGET_CFLAGS := -I$(NX_INCLUDE) $(OPT_FLAGS) $(VERSION_CFLAGS) $(GRUCODE_CFLAGS) -DSTANDALONE -DRELEASE
-
-TARGET_LDFLAGS := -L$(NX_LIB) -lnx -lswitch -lSDL2 $(BACKEND_LDFLAGS)
-
-CC  := $(CROSS)gcc
-CXX := $(CROSS)g++
-LD  := $(CC)
-
-BUILD_DIR := $(BUILD_DIR_BASE)/$(VERSION)_nx
-EXE       := $(BUILD_DIR)/$(TARGET).nro
-
-DUMMY != mkdir -p $(BUILD_DIR)
-
-$(EXE): $(O_FILES) $(SOUND_OBJ_FILES) $(ULTRA_O_FILES) $(GODDARD_O_FILES)
-	$(LD) -o $@ \
-	  $(O_FILES) $(SOUND_OBJ_FILES) $(ULTRA_O_FILES) $(GODDARD_O_FILES) \
-	  $(LDFLAGS) $(TARGET_LDFLAGS)
-
-endif
