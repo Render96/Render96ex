@@ -28,7 +28,7 @@ jobs:
             libasound2-dev \
             libpng-dev \
             libopenal-dev \
-            **libsdl2-dev**   # ← add this so `sdl2-config` is available :contentReference[oaicite:1]{index=1}
+            libsdl2-dev
 
       - name: Build Native Host Tools
         run: make -j$(nproc)
@@ -38,5 +38,35 @@ jobs:
         with:
           name: host-tools
           path: |
-            tools        # contains n64graphics, extract_assets.py, etc.
-            build/us_pc  # optional PC build output (not required for Switch)
+            tools
+            build/us_pc
+
+  build_switch:
+    name: Build for Nintendo Switch
+    needs: build_native
+    runs-on: ubuntu-latest
+    container:
+      image: devkitpro/devkita64:latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Download Host Tools Artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: host-tools
+          path: tools
+
+      - name: Configure devkitPro Environment
+        run: source /opt/devkitpro/switchvars.sh
+
+      - name: Build Render96ex for Switch
+        run: |
+          make TARGET_SWITCH=1 MODELPACK=0 HIGHFPS=1 TEXTURE_FIX=1 -j$(nproc)
+
+      - name: Upload Switch Build Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: switch-build
+          path: build
