@@ -257,37 +257,27 @@ CRASH_TEXTURE_C_FILES       := $(addprefix $(BUILD_DIR)/,$(patsubst %.png,%.inc.
 # -------------------------------------------------------------------------------
 
 ifeq ($(TARGET_SWITCH),1)
-# 1) Force CROSS‐PREFIX to aarch64‐none‐elf‐
 CROSS ?= aarch64-none-elf-
 
-# 2) Pull in devkitPro/libnx include and library paths.
-#    (Assumes /opt/devkitpro/switchvars.sh has been sourced.)
 NX_INCLUDE := $(DEVKITA64)/libnx/include
 NX_LIB     := $(DEVKITA64)/libnx/lib
 
-# 3) Switch‐specific compiler flags
 TARGET_CFLAGS := -I$(NX_INCLUDE) $(OPT_FLAGS) $(VERSION_CFLAGS) $(GRUCODE_CFLAGS) -DSTANDALONE -DRELEASE
 
-# 4) Switch‐specific linker flags
 TARGET_LDFLAGS := -L$(NX_LIB) -lnx -lswitch -lSDL2 $(BACKEND_LDFLAGS)
 
-# 5) Override compilers to use the aarch64‐none‐elf toolchain
 CC  := $(CROSS)gcc
 CXX := $(CROSS)g++
 LD  := $(CC)
 
-# 6) Change the build directory and executable name for Switch
 BUILD_DIR := $(BUILD_DIR_BASE)/$(VERSION)_nx
 EXE       := $(BUILD_DIR)/$(TARGET).nro
 
-# Ensure the target build directory exists before linking
 DUMMY != mkdir -p $(BUILD_DIR)
 
-# 7) Link object files into the final Switch .nro
-#    (the two lines below must each begin with a literal tab)
 $(EXE): $(O_FILES) $(SOUND_OBJ_FILES) $(ULTRA_O_FILES) $(GODDARD_O_FILES)
-<tab>$(LD) -o $@ \
-<tab>  $(O_FILES) $(SOUND_OBJ_FILES) $(ULTRA_O_FILES) $(GODDARD_O_FILES) \
-<tab>  $(LDFLAGS) $(TARGET_LDFLAGS)
+	$(LD) -o $@ \
+	  $(O_FILES) $(SOUND_OBJ_FILES) $(ULTRA_O_FILES) $(GODDARD_O_FILES) \
+	  $(LDFLAGS) $(TARGET_LDFLAGS)
 
 endif
