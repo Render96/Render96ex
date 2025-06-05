@@ -42,8 +42,15 @@ jobs:
         run: |
           make TARGET_SWITCH=1 MODELPACK=0 HIGHFPS=1 TEXTURE_FIX=1 -j$(nproc)
 
-      - name: Upload Switch Build Artifact
+      - name: List build directory
+        # This will show you exactly where the .nro ended up (e.g. "us-nx" or "us_nx")
+        run: |
+          echo "---- Contents of build/ ----"
+          ls -R build
+
+      - name: Upload Switch‐NRO
         uses: actions/upload-artifact@v4
         with:
-          name: switch-build
-          path: build
+          name: switch-nro
+          # Grab any .nro anywhere under build/
+          path: build/**/*.nro
