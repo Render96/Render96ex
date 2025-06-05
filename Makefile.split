@@ -252,78 +252,42 @@ IPL3_RAW_FILES              := $(addprefix $(BUILD_DIR)/,$(patsubst %.png,%,$(IP
 
 CRASH_TEXTURE_FILES         := $(wildcard $(TEXTURE_DIR)/crash_screen/*.png)
 CRASH_TEXTURE_C_FILES       := $(addprefix $(BUILD_DIR)/,$(patsubst %.png,%.inc.c,$(CRASH_TEXTURE_FILES)))
-# --------------------------------------
-# General Rules
-# --------------------------------------
-
-# obtain a list of segments from the *.c files in bin directory
-SEGMENTS := $(notdir $(basename $(wildcard bin/*.c))) $(addprefix textures/skyboxes/,$(notdir $(basename $(wildcard textures/skyboxes/*.png))))
-ACTORS := $(filter %/,$(wildcard actors/*/))
-TEXTURE_DIRS := $(addprefix textures/,$(SEGMENTS)) $(ACTORS) textures/crash_screen
-
-# --------------------------------------
-# Variables for Switch‐split builds (if any)
-# --------------------------------------
-# (Most Switch‐specific variables and rules are injected via the TARGET_SWITCH block appended at the end.)
-
-# --------------------------------------
-# (The rest of the upstream Makefile.split content goes here.)
-# For brevity, I'm including only the final portions relevant to asset definitions
-# and letting you know that everything from your original Makefile.split should remain
-# unchanged up to this point.
-
-$(TEXTURE_DIR)/intro_raw/*.png
-$(BUILD_DIR)/src/goddard/renderer.o: $(addprefix $(BUILD_DIR)/,$(patsubst %.png,%.inc.c,$(INTRO_RAW_FILES)))
-
-IPL3_TEXTURE_FILES          := $(wildcard $(TEXTURE_DIR)/ipl3_raw/*.png)
-IPL3_RAW_FILES              := $(addprefix $(BUILD_DIR)/,$(patsubst %.png,%,$(IPL3_TEXTURE_FILES)))
-
-CRASH_TEXTURE_FILES         := $(wildcard $(TEXTURE_DIR)/crash_screen/*.png)
-CRASH_TEXTURE_C_FILES       := $(addprefix $(BUILD_DIR)/,$(patsubst %.png,%.inc.c,$(CRASH_TEXTURE_FILES)))
-
 # -------------------------------------------------------------------------------
-# Important: The Switch‐specific build block was missing from your local copy.
-# Below is the full block that must be appended to enable `make TARGET_SWITCH=1`
-# to produce a `.nro` under build/<version>_nx/.
+# Switch Build Rules (append this at the end of your Makefile.split)
 # -------------------------------------------------------------------------------
 
-# --------------------------------------
-# Switch Build Rules
-# --------------------------------------
 ifeq ($(TARGET_SWITCH),1)
-	# 1) Force CROSS‐PREFIX to aarch64-none-elf-
-	CROSS ?= aarch64-none-elf-
+# 1) Force CROSS‐PREFIX to aarch64‐none‐elf‐
+CROSS ?= aarch64-none-elf-
 
-	# 2) Pull in devkitPro/libnx include and library paths.
-	#    (Assumes /opt/devkitpro/switchvars.sh has been sourced before invoking make.)
-	NX_INCLUDE := $(DEVKITA64)/libnx/include
-	NX_LIB     := $(DEVKITA64)/libnx/lib
+# 2) Pull in devkitPro/libnx include and library paths.
+#    (Assumes /opt/devkitpro/switchvars.sh has been sourced.)
+NX_INCLUDE := $(DEVKITA64)/libnx/include
+NX_LIB     := $(DEVKITA64)/libnx/lib
 
-	# 3) Switch‐specific compiler flags
-	#    -DSTANDALONE -DRELEASE are typical defines for a release build on Switch.
-	TARGET_CFLAGS  := -I$(NX_INCLUDE) $(OPT_FLAGS) $(VERSION_CFLAGS) $(GRUCODE_CFLAGS) -DSTANDALONE -DRELEASE
+# 3) Switch‐specific compiler flags
+TARGET_CFLAGS := -I$(NX_INCLUDE) $(OPT_FLAGS) $(VERSION_CFLAGS) $(GRUCODE_CFLAGS) -DSTANDALONE -DRELEASE
 
-	# 4) Switch‐specific linker flags
-	#    Links against libnx, libswitch, and SDL2 for Switch.
-	TARGET_LDFLAGS := -L$(NX_LIB) -lnx -lswitch -lSDL2 $(BACKEND_LDFLAGS)
+# 4) Switch‐specific linker flags
+TARGET_LDFLAGS := -L$(NX_LIB) -lnx -lswitch -lSDL2 $(BACKEND_LDFLAGS)
 
-	# 5) Override compilers to use the aarch64‐none‐elf toolchain
-	CC   := $(CROSS)gcc
-	CXX  := $(CROSS)g++
-	LD   := $(CC)
+# 5) Override compilers to use the aarch64‐none‐elf toolchain
+CC  := $(CROSS)gcc
+CXX := $(CROSS)g++
+LD  := $(CC)
 
-	# 6) Change the build directory and executable name for Switch
-	BUILD_DIR := $(BUILD_DIR_BASE)/$(VERSION)_nx
-	EXE       := $(BUILD_DIR)/$(TARGET).nro
+# 6) Change the build directory and executable name for Switch
+BUILD_DIR := $(BUILD_DIR_BASE)/$(VERSION)_nx
+EXE       := $(BUILD_DIR)/$(TARGET).nro
 
-	# Ensure the target build directory exists before linking
-	DUMMY != mkdir -p $(BUILD_DIR)
+# Ensure the target build directory exists before linking
+DUMMY != mkdir -p $(BUILD_DIR)
 
-	# 7) Link object files into the final Switch .nro
-	#    This rule produces build/<version>_nx/sm64.<version>.nro
-	$(EXE): $(O_FILES) $(SOUND_OBJ_FILES) $(ULTRA_O_FILES) $(GODDARD_O_FILES)
-		$(LD) -o $@ \
-			$(O_FILES) $(SOUND_OBJ_FILES) $(ULTRA_O_FILES) $(GODDARD_O_FILES) \
-			$(LDFLAGS) $(TARGET_LDFLAGS)
+# 7) Link object files into the final Switch .nro
+#    (the two lines below must each begin with a literal tab)
+$(EXE): $(O_FILES) $(SOUND_OBJ_FILES) $(ULTRA_O_FILES) $(GODDARD_O_FILES)
+<tab>$(LD) -o $@ \
+<tab>  $(O_FILES) $(SOUND_OBJ_FILES) $(ULTRA_O_FILES) $(GODDARD_O_FILES) \
+<tab>  $(LDFLAGS) $(TARGET_LDFLAGS)
 
 endif
