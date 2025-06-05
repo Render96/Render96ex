@@ -59,7 +59,9 @@ jobs:
           path: tools
 
       - name: Configure devkitPro Environment
-        run: source /opt/devkitpro/switchvars.sh
+        shell: bash
+        run: |
+          . /opt/devkitpro/switchvars.sh
 
       - name: Build Render96ex for Switch
         run: |
