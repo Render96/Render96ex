@@ -27,7 +27,8 @@ jobs:
             libfontconfig1-dev \
             libasound2-dev \
             libpng-dev \
-            libopenal-dev
+            libopenal-dev \
+            **libsdl2-dev**   # ← add this so `sdl2-config` is available :contentReference[oaicite:1]{index=1}
 
       - name: Build Native Host Tools
         run: make -j$(nproc)
@@ -38,4 +39,4 @@ jobs:
           name: host-tools
           path: |
             tools        # contains n64graphics, extract_assets.py, etc.
-            build/us_pc  # optional PC build output (not strictly needed for Switch)
+            build/us_pc  # optional PC build output (not required for Switch)
